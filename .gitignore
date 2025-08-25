@@ -1,0 +1,111 @@
+# ===============================
+# Python standard ignores
+# ===============================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Django / Flask / Scrapy
+*.log
+local_settings.py
+db.sqlite3*
+instance/
+.webassets-cache
+.scrapy
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environments - pipenv, poetry, pdm, pixi
+*.lock
+.pdm-python
+.pdm-build/
+.pixi
+__pypackages__/
+
+# IDE / Editors
+.spyderproject
+.spyproject
+.ropeproject
+.idea/
+.vscode/
+*.swp
+
+# Type checker / linters
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Cython debug
+cython_debug/
+
+# ===============================
+# Project-specific ignores
+# ===============================
+
+# Ignore raw/large data files (optional)
+*.csv
+*.xlsx
+
+# Ignore reports (optional)
+*.pdf
