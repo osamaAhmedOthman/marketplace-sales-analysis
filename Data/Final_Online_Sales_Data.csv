@@ -1,0 +1,1101 @@
+,Transaction ID,Date,Product Category,Units Sold,Unit Price,Total Revenue,Region,Payment Method,Day_of_week,Month,Quarter,Season,weekend_indicator,Days_Since_First,Price_Category,Order_size,Revenue_Tier,Customer_Segment
+0,10001,2024-01-01,Electronics,2.0,999.99,1999.98,North America,Credit Card,Monday,2024-01,2024Q1,Winter,0,0,High,Small bulk,Premium,Premium Customers
+1,10002,2024-01-02,Home Appliances,1.0,499.99,499.99,Europe,PayPal,Tuesday,2024-01,2024Q1,Winter,0,1,Medium,Single item,Standard,Standard Customers
+2,10003,2024-01-03,Clothing,3.0,69.99,209.97,Asia,Debit Card,Wednesday,2024-01,2024Q1,Winter,0,2,Medium,Small bulk,Standard,Standard Customers
+3,10004,2024-01-04,Books,4.0,15.99,63.96,North America,Credit Card,Thursday,2024-01,2024Q1,Winter,0,3,Low,Small bulk,Budget,Budget Shoppers
+4,10005,2024-01-05,Beauty Products,1.0,89.99,89.99,Europe,PayPal,Friday,2024-01,2024Q1,Winter,0,4,Medium,Single item,Budget,Budget Shoppers
+5,10006,2024-01-06,Sports,5.0,29.99,149.95,Asia,Credit Card,Saturday,2024-01,2024Q1,Winter,1,5,Medium,Small bulk,Budget,Budget Shoppers
+6,10007,2024-01-07,Electronics,1.0,2499.99,2499.99,North America,Credit Card,Sunday,2024-01,2024Q1,Winter,1,6,High,Single item,Premium,Premium Customers
+7,10008,2024-01-08,Home Appliances,2.0,599.99,1199.98,Europe,Unknown,Monday,2024-01,2024Q1,Winter,0,7,Medium,Small bulk,Premium,Premium Customers
+8,10009,2024-01-09,Clothing,6.0,89.99,539.94,Asia,Debit Card,Tuesday,2024-01,2024Q1,Winter,0,8,Medium,Large bulk,Standard,Bulk Buyers
+9,10010,2024-01-10,Books,2.0,25.99,51.98,North America,Credit Card,Wednesday,2024-01,2024Q1,Winter,0,9,Medium,Small bulk,Budget,Budget Shoppers
+10,10011,2024-01-11,Beauty Products,1.0,129.99,129.99,Europe,PayPal,Thursday,2024-01,2024Q1,Winter,0,10,Medium,Single item,Budget,Budget Shoppers
+11,10012,2024-01-12,Sports,3.0,199.99,599.97,Asia,Credit Card,Friday,2024-01,2024Q1,Winter,0,11,Medium,Small bulk,Standard,Standard Customers
+12,10013,2024-01-13,Electronics,2.0,749.99,1499.98,North America,Credit Card,Saturday,2024-01,2024Q1,Winter,1,12,High,Small bulk,Premium,Premium Customers
+13,10014,2024-01-14,Home Appliances,1.0,189.99,189.99,Europe,PayPal,Sunday,2024-01,2024Q1,Winter,1,13,Medium,Single item,Standard,Standard Customers
+14,10015,2024-01-15,Clothing,2.0,249.99,499.98,Asia,Debit Card,Monday,2024-01,2024Q1,Winter,0,14,Medium,Small bulk,Standard,Standard Customers
+15,10016,2024-01-16,Books,3.0,35.99,107.97,North America,Credit Card,Tuesday,2024-01,2024Q1,Winter,0,15,Medium,Small bulk,Budget,Budget Shoppers
+16,10017,2024-01-17,Beauty Products,1.0,399.99,399.99,Europe,PayPal,Wednesday,2024-01,2024Q1,Winter,0,16,Medium,Single item,Standard,Standard Customers
+17,10018,2024-01-18,Sports,4.0,119.99,479.96,Asia,Credit Card,Thursday,2024-01,2024Q1,Winter,0,17,Medium,Small bulk,Standard,Standard Customers
+18,10019,2024-01-19,Electronics,2.0,499.99,999.98,North America,Unknown,Friday,2024-01,2024Q1,Winter,0,18,Medium,Small bulk,Premium,Premium Customers
+19,10020,2024-01-20,Home Appliances,1.0,99.99,99.99,Europe,PayPal,Saturday,2024-01,2024Q1,Winter,1,19,Medium,Single item,Budget,Budget Shoppers
+20,10021,2024-01-21,Clothing,3.0,59.99,179.97,Asia,Debit Card,Sunday,2024-01,2024Q1,Winter,1,20,Medium,Small bulk,Standard,Standard Customers
+21,10022,2024-01-22,Books,2.0,22.99,45.98,North America,Credit Card,Monday,2024-01,2024Q1,Winter,0,21,Low,Small bulk,Budget,Budget Shoppers
+22,10023,2024-01-23,Beauty Products,1.0,49.99,49.99,Europe,PayPal,Tuesday,2024-01,2024Q1,Winter,0,22,Medium,Single item,Budget,Budget Shoppers
+23,10024,2024-01-24,Sports,3.0,29.99,89.97,Asia,Credit Card,Wednesday,2024-01,2024Q1,Winter,0,23,Medium,Small bulk,Budget,Budget Shoppers
+24,10025,2024-01-25,Electronics,1.0,299.99,299.99,North America,Credit Card,Thursday,2024-01,2024Q1,Winter,0,24,Medium,Single item,Standard,Standard Customers
+25,10026,2024-01-26,Home Appliances,1.0,179.99,179.99,Europe,PayPal,Friday,2024-01,2024Q1,Winter,0,25,Medium,Single item,Standard,Standard Customers
+26,10027,2024-01-27,Clothing,2.0,179.99,359.98,Asia,Debit Card,Saturday,2024-01,2024Q1,Winter,1,26,Medium,Small bulk,Standard,Standard Customers
+27,10028,2024-01-28,Books,3.0,12.99,38.97,North America,Credit Card,Sunday,2024-01,2024Q1,Winter,1,27,Low,Small bulk,Budget,Budget Shoppers
+28,10029,2024-01-29,Beauty Products,1.0,29.99,29.99,Europe,PayPal,Monday,2024-01,2024Q1,Winter,0,28,Medium,Single item,Budget,Budget Shoppers
+29,10030,2024-01-30,Sports,2.0,129.99,259.98,Asia,Credit Card,Tuesday,2024-01,2024Q1,Winter,0,29,Medium,Small bulk,Standard,Standard Customers
+30,10031,2024-01-31,Electronics,2.0,349.99,699.98,North America,Credit Card,Wednesday,2024-01,2024Q1,Winter,0,30,Medium,Small bulk,Standard,Standard Customers
+31,10032,2024-02-01,Home Appliances,3.0,89.99,269.97,Europe,PayPal,Thursday,2024-02,2024Q1,Winter,0,31,Medium,Small bulk,Standard,Standard Customers
+32,10033,2024-02-02,Clothing,5.0,29.99,149.95,Asia,Debit Card,Friday,2024-02,2024Q1,Winter,0,32,Medium,Small bulk,Budget,Budget Shoppers
+33,10034,2024-02-03,Books,4.0,19.99,79.96,North America,Unknown,Saturday,2024-02,2024Q1,Winter,1,33,Low,Small bulk,Budget,Budget Shoppers
+34,10035,2024-02-04,Beauty Products,2.0,39.99,79.98,Europe,PayPal,Sunday,2024-02,2024Q1,Winter,1,34,Medium,Small bulk,Budget,Budget Shoppers
+35,10036,2024-02-05,Sports,1.0,1895.0,1895.0,Asia,Credit Card,Monday,2024-02,2024Q1,Winter,0,35,High,Single item,Premium,Premium Customers
+36,10037,2024-02-06,Electronics,3.3929848246206156,399.99,1357.16,North America,Credit Card,Tuesday,2024-02,2024Q1,Winter,0,36,Medium,Small bulk,Premium,Premium Customers
+37,10038,2024-02-07,Home Appliances,2.0,799.99,1599.98,Europe,Unknown,Wednesday,2024-02,2024Q1,Winter,0,37,High,Small bulk,Premium,Premium Customers
+38,10039,2024-02-08,Clothing,4.0,59.99,239.96,Asia,Debit Card,Thursday,2024-02,2024Q1,Winter,0,38,Medium,Small bulk,Standard,Standard Customers
+39,10040,2024-02-09,Books,3.0,24.99,74.97,North America,Credit Card,Friday,2024-02,2024Q1,Winter,0,39,Low,Small bulk,Budget,Budget Shoppers
+40,10041,2024-02-10,Beauty Products,1.0,105.0,105.0,Europe,PayPal,Saturday,2024-02,2024Q1,Winter,1,40,Medium,Single item,Budget,Budget Shoppers
+41,10042,2024-02-11,Sports,2.0,129.99,259.98,Asia,Credit Card,Sunday,2024-02,2024Q1,Winter,1,41,Medium,Small bulk,Standard,Standard Customers
+42,10043,2024-02-12,Electronics,3.0,399.99,1199.97,North America,Credit Card,Monday,2024-02,2024Q1,Winter,0,42,Medium,Small bulk,Premium,Premium Customers
+43,10044,2024-02-13,Home Appliances,1.0,199.99,199.99,Europe,PayPal,Tuesday,2024-02,2024Q1,Winter,0,43,Medium,Single item,Standard,Standard Customers
+44,10045,2024-02-14,Clothing,2.0,139.99,279.98,Asia,Debit Card,Wednesday,2024-02,2024Q1,Winter,0,44,Medium,Small bulk,Standard,Standard Customers
+45,10046,2024-02-15,Books,4.0,32.5,130.0,North America,Credit Card,Thursday,2024-02,2024Q1,Winter,0,45,Medium,Small bulk,Budget,Budget Shoppers
+46,10047,2024-02-16,Beauty Products,1.0,52.0,52.0,Europe,PayPal,Friday,2024-02,2024Q1,Winter,0,46,Medium,Single item,Budget,Budget Shoppers
+47,10048,2024-02-17,Sports,6.0,39.99,239.94,Asia,Credit Card,Saturday,2024-02,2024Q1,Winter,1,47,Medium,Large bulk,Standard,Bulk Buyers
+48,10049,2024-02-18,Electronics,2.0,129.99,259.98,North America,Credit Card,Sunday,2024-02,2024Q1,Winter,1,48,Medium,Small bulk,Standard,Standard Customers
+49,10050,2024-02-19,Home Appliances,1.0,299.99,299.99,Europe,PayPal,Monday,2024-02,2024Q1,Winter,0,49,Medium,Single item,Standard,Standard Customers
+50,10051,2024-02-20,Clothing,3.0,154.99,464.97,Asia,Debit Card,Tuesday,2024-02,2024Q1,Winter,0,50,Medium,Small bulk,Standard,Standard Customers
+51,10052,2024-02-21,Books,2.0,26.99,53.98,North America,Credit Card,Wednesday,2024-02,2024Q1,Winter,0,51,Medium,Small bulk,Budget,Budget Shoppers
+52,10053,2024-02-22,Beauty Products,1.0,49.0,49.0,Europe,PayPal,Thursday,2024-02,2024Q1,Winter,0,52,Medium,Single item,Budget,Budget Shoppers
+53,10054,2024-02-23,Sports,5.0,49.99,249.95,Asia,Credit Card,Friday,2024-02,2024Q1,Winter,0,53,Medium,Small bulk,Standard,Standard Customers
+54,10055,2024-02-24,Electronics,4.0,59.99,239.96,North America,Credit Card,Saturday,2024-02,2024Q1,Winter,1,54,Medium,Small bulk,Standard,Standard Customers
+55,10056,2024-02-25,Home Appliances,1.0,499.99,499.99,Europe,PayPal,Sunday,2024-02,2024Q1,Winter,1,55,Medium,Single item,Standard,Standard Customers
+56,10057,2024-02-26,Clothing,5.0,29.99,149.95,Asia,Debit Card,Monday,2024-02,2024Q1,Winter,0,56,Medium,Small bulk,Budget,Budget Shoppers
+57,10058,2024-02-27,Books,3.0,28.0,84.0,North America,Credit Card,Tuesday,2024-02,2024Q1,Winter,0,57,Medium,Small bulk,Budget,Budget Shoppers
+58,10059,2024-02-28,Beauty Products,2.0,23.0,46.0,Europe,PayPal,Wednesday,2024-02,2024Q1,Winter,0,58,Low,Small bulk,Budget,Budget Shoppers
+59,10060,2024-02-29,Sports,1.0,349.0,349.0,Asia,Credit Card,Thursday,2024-02,2024Q1,Winter,0,59,Medium,Single item,Standard,Standard Customers
+60,10061,2024-03-01,Electronics,3.1661388712957095,299.99,949.81,North America,Credit Card,Friday,2024-03,2024Q1,Spring,0,60,Medium,Small bulk,Premium,Premium Customers
+61,10062,2024-03-02,Home Appliances,2.0,199.99,399.98,Europe,PayPal,Saturday,2024-03,2024Q1,Spring,1,61,Medium,Small bulk,Standard,Standard Customers
+62,10063,2024-03-03,Clothing,10.0,9.99,99.9,Asia,Debit Card,Sunday,2024-03,2024Q1,Spring,1,62,Low,Large bulk,Budget,Budget Shoppers
+63,10064,2024-03-04,Books,4.0,18.99,75.96,North America,Credit Card,Monday,2024-03,2024Q1,Spring,0,63,Low,Small bulk,Budget,Budget Shoppers
+64,10065,2024-03-05,Beauty Products,1.0,102.0,102.0,Europe,PayPal,Tuesday,2024-03,2024Q1,Spring,0,64,Medium,Single item,Budget,Budget Shoppers
+65,10066,2024-03-06,Sports,2.0,299.99,599.98,Asia,Unknown,Wednesday,2024-03,2024Q1,Spring,0,65,Medium,Small bulk,Standard,Standard Customers
+66,10067,2024-03-07,Electronics,1.0,1199.99,1199.99,North America,Credit Card,Thursday,2024-03,2024Q1,Spring,0,66,High,Single item,Premium,Premium Customers
+67,10068,2024-03-08,Home Appliances,3.0,219.99,659.97,Europe,PayPal,Friday,2024-03,2024Q1,Spring,0,67,Medium,Small bulk,Standard,Standard Customers
+68,10069,2024-03-09,Clothing,4.0,59.99,239.96,Asia,Debit Card,Saturday,2024-03,2024Q1,Spring,1,68,Medium,Small bulk,Standard,Standard Customers
+69,10070,2024-03-10,Books,2.0,10.99,21.98,North America,Unknown,Sunday,2024-03,2024Q1,Spring,1,69,Low,Small bulk,Budget,Budget Shoppers
+70,10071,2024-03-11,Beauty Products,1.0,78.0,78.0,Europe,PayPal,Monday,2024-03,2024Q1,Spring,0,70,Medium,Single item,Budget,Budget Shoppers
+71,10072,2024-03-12,Sports,3.0,129.99,389.97,Asia,Credit Card,Tuesday,2024-03,2024Q1,Spring,0,71,Medium,Small bulk,Standard,Standard Customers
+72,10073,2024-03-13,Electronics,1.0,1599.99,1599.99,North America,Credit Card,Wednesday,2024-03,2024Q1,Spring,0,72,High,Single item,Premium,Premium Customers
+73,10074,2024-03-14,Home Appliances,1.0,899.99,899.99,Europe,PayPal,Thursday,2024-03,2024Q1,Spring,0,73,High,Single item,Premium,Premium Customers
+74,10075,2024-03-15,Clothing,5.0,49.99,249.95,Asia,Debit Card,Friday,2024-03,2024Q1,Spring,0,74,Medium,Small bulk,Standard,Standard Customers
+75,10076,2024-03-16,Books,4.0,14.99,59.96,North America,Credit Card,Saturday,2024-03,2024Q1,Spring,1,75,Low,Small bulk,Budget,Budget Shoppers
+76,10077,2024-03-17,Beauty Products,2.0,16.0,32.0,Europe,PayPal,Sunday,2024-03,2024Q1,Spring,1,76,Low,Small bulk,Budget,Budget Shoppers
+77,10078,2024-03-18,Sports,3.0,69.99,209.97,Asia,Credit Card,Monday,2024-03,2024Q1,Spring,0,77,Medium,Small bulk,Standard,Standard Customers
+78,10079,2024-03-19,Electronics,2.0,249.99,499.98,North America,Credit Card,Tuesday,2024-03,2024Q1,Spring,0,78,Medium,Small bulk,Standard,Standard Customers
+79,10080,2024-03-20,Home Appliances,1.0,499.99,499.99,Europe,PayPal,Wednesday,2024-03,2024Q1,Spring,0,79,Medium,Single item,Standard,Standard Customers
+80,10081,2024-03-21,Clothing,2.0,89.99,179.98,Asia,Debit Card,Thursday,2024-03,2024Q1,Spring,0,80,Medium,Small bulk,Standard,Standard Customers
+81,10082,2024-03-22,Books,3.0,12.99,38.97,North America,Credit Card,Friday,2024-03,2024Q1,Spring,0,81,Low,Small bulk,Budget,Budget Shoppers
+82,10083,2024-03-23,Beauty Products,1.0,100.0,100.0,Europe,PayPal,Saturday,2024-03,2024Q1,Spring,1,82,Medium,Single item,Budget,Budget Shoppers
+83,10084,2024-03-24,Sports,6.0,24.99,149.94,Asia,Credit Card,Sunday,2024-03,2024Q1,Spring,1,83,Low,Large bulk,Budget,Budget Shoppers
+84,10085,2024-03-25,Electronics,1.0,99.99,99.99,North America,Credit Card,Monday,2024-03,2024Q1,Spring,0,84,Medium,Single item,Budget,Budget Shoppers
+85,10086,2024-03-26,Home Appliances,2.0,1299.99,2599.98,Europe,PayPal,Tuesday,2024-03,2024Q1,Spring,0,85,High,Small bulk,Premium,Premium Customers
+86,10087,2024-03-27,Clothing,3.0,79.99,239.97,Asia,Debit Card,Wednesday,2024-03,2024Q1,Spring,0,86,Medium,Small bulk,Standard,Standard Customers
+87,10088,2024-03-28,Books,4.0,13.99,55.96,North America,Credit Card,Thursday,2024-03,2024Q1,Spring,0,87,Low,Small bulk,Budget,Budget Shoppers
+88,10089,2024-03-29,Beauty Products,1.0,105.0,105.0,Europe,PayPal,Friday,2024-03,2024Q1,Spring,0,88,Medium,Single item,Budget,Budget Shoppers
+89,10090,2024-03-30,Sports,2.0,129.99,259.98,Asia,Credit Card,Saturday,2024-03,2024Q1,Spring,1,89,Medium,Small bulk,Standard,Standard Customers
+90,10091,2024-03-31,Electronics,2.0,99.99,199.98,North America,Credit Card,Sunday,2024-03,2024Q1,Spring,1,90,Medium,Small bulk,Standard,Standard Customers
+91,10092,2024-04-01,Home Appliances,1.0,179.99,179.99,Europe,PayPal,Monday,2024-04,2024Q2,Spring,0,91,Medium,Single item,Standard,Standard Customers
+92,10093,2024-04-02,Clothing,4.0,79.99,319.96,Asia,Debit Card,Tuesday,2024-04,2024Q2,Spring,0,92,Medium,Small bulk,Standard,Standard Customers
+93,10094,2024-04-03,Books,3.0,14.99,44.97,North America,Credit Card,Wednesday,2024-04,2024Q2,Spring,0,93,Low,Small bulk,Budget,Budget Shoppers
+94,10095,2024-04-04,Beauty Products,1.0,68.0,68.0,Europe,PayPal,Thursday,2024-04,2024Q2,Spring,0,94,Medium,Single item,Budget,Budget Shoppers
+95,10096,2024-04-05,Sports,1.0,999.99,999.99,Asia,Credit Card,Friday,2024-04,2024Q2,Spring,0,95,High,Single item,Premium,Premium Customers
+96,10097,2024-04-06,Electronics,3.0,299.99,899.97,North America,Unknown,Saturday,2024-04,2024Q2,Spring,1,96,Medium,Small bulk,Premium,Premium Customers
+97,10098,2024-04-07,Home Appliances,1.0,349.99,349.99,Europe,PayPal,Sunday,2024-04,2024Q2,Spring,1,97,Medium,Single item,Standard,Standard Customers
+98,10099,2024-04-08,Clothing,6.0,19.99,119.94,Asia,Debit Card,Monday,2024-04,2024Q2,Spring,0,98,Low,Large bulk,Budget,Budget Shoppers
+99,10100,2024-04-09,Books,2.0,12.99,25.98,North America,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,99,Low,Small bulk,Budget,Budget Shoppers
+100,10101,2024-04-10,Beauty Products,1.0,82.0,82.0,Europe,PayPal,Wednesday,2024-04,2024Q2,Spring,0,100,Medium,Single item,Budget,Budget Shoppers
+101,10102,2024-04-11,Sports,2.0,109.99,219.98,Asia,Credit Card,Thursday,2024-04,2024Q2,Spring,0,101,Medium,Small bulk,Standard,Standard Customers
+102,10103,2024-04-12,Electronics,1.0,3899.99,3899.99,North America,Credit Card,Friday,2024-04,2024Q2,Spring,0,102,High,Single item,Premium,Premium Customers
+103,10104,2024-04-13,Home Appliances,2.0,349.99,699.98,Europe,PayPal,Saturday,2024-04,2024Q2,Spring,1,103,Medium,Small bulk,Standard,Standard Customers
+104,10105,2024-04-14,Clothing,3.0,39.99,119.97,Asia,Debit Card,Sunday,2024-04,2024Q2,Spring,1,104,Medium,Small bulk,Budget,Budget Shoppers
+105,10106,2024-04-15,Books,4.0,10.99,43.96,North America,Unknown,Monday,2024-04,2024Q2,Spring,0,105,Low,Small bulk,Budget,Budget Shoppers
+106,10107,2024-04-16,Beauty Products,1.0,6.5,6.5,Europe,PayPal,Tuesday,2024-04,2024Q2,Spring,0,106,Low,Single item,Budget,Budget Shoppers
+107,10108,2024-04-17,Sports,1.0,399.99,399.99,Asia,Credit Card,Wednesday,2024-04,2024Q2,Spring,0,107,Medium,Single item,Standard,Standard Customers
+108,10109,2024-04-18,Electronics,2.0,229.99,459.98,North America,Credit Card,Thursday,2024-04,2024Q2,Spring,0,108,Medium,Small bulk,Standard,Standard Customers
+109,10110,2024-04-19,Home Appliances,1.0,159.99,159.99,Europe,PayPal,Friday,2024-04,2024Q2,Spring,0,109,Medium,Single item,Standard,Standard Customers
+110,10111,2024-04-20,Clothing,4.0,14.99,59.96,Asia,Debit Card,Saturday,2024-04,2024Q2,Spring,1,110,Low,Small bulk,Budget,Budget Shoppers
+111,10112,2024-04-21,Books,2.0,18.99,37.98,North America,Unknown,Sunday,2024-04,2024Q2,Spring,1,111,Low,Small bulk,Budget,Budget Shoppers
+112,10113,2024-04-22,Beauty Products,1.0,15.0,15.0,Europe,PayPal,Monday,2024-04,2024Q2,Spring,0,112,Low,Single item,Budget,Budget Shoppers
+113,10114,2024-04-23,Sports,3.0,229.95,689.85,Asia,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,113,Medium,Small bulk,Standard,Standard Customers
+114,10115,2024-04-24,Electronics,1.0,249.99,249.99,North America,Credit Card,Wednesday,2024-04,2024Q2,Spring,0,114,Medium,Single item,Standard,Standard Customers
+115,10116,2024-04-25,Home Appliances,2.0,299.95,599.9,Europe,Unknown,Thursday,2024-04,2024Q2,Spring,0,115,Medium,Small bulk,Standard,Standard Customers
+116,10117,2024-04-26,Clothing,3.0,49.99,149.97,Asia,Debit Card,Friday,2024-04,2024Q2,Spring,0,116,Medium,Small bulk,Standard,Standard Customers
+117,10118,2024-04-27,Books,4.0,16.99,67.96,North America,Unknown,Saturday,2024-04,2024Q2,Spring,1,117,Low,Small bulk,Budget,Budget Shoppers
+118,10119,2024-04-28,Beauty Products,2.0,14.99,29.98,Europe,PayPal,Sunday,2024-04,2024Q2,Spring,1,118,Low,Small bulk,Budget,Budget Shoppers
+119,10120,2024-04-29,Sports,1.0,249.99,249.99,Asia,Credit Card,Monday,2024-04,2024Q2,Spring,0,119,Medium,Single item,Standard,Standard Customers
+120,10121,2024-04-30,Electronics,2.0,599.99,1199.98,North America,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,120,Medium,Small bulk,Premium,Premium Customers
+121,10122,2024-05-01,Home Appliances,1.0,89.99,89.99,Europe,PayPal,Wednesday,2024-05,2024Q2,Spring,0,121,Medium,Single item,Budget,Budget Shoppers
+122,10123,2024-05-02,Clothing,5.0,12.99,64.95,Asia,Debit Card,Thursday,2024-05,2024Q2,Spring,0,122,Low,Small bulk,Budget,Budget Shoppers
+123,10124,2024-05-03,Books,3.0,14.99,44.97,North America,Credit Card,Friday,2024-05,2024Q2,Spring,0,123,Low,Small bulk,Budget,Budget Shoppers
+124,10125,2024-05-04,Beauty Products,1.0,30.0,30.0,Europe,PayPal,Saturday,2024-05,2024Q2,Spring,1,124,Medium,Single item,Budget,Budget Shoppers
+125,10126,2024-05-05,Sports,1.0,199.99,199.99,Asia,Credit Card,Sunday,2024-05,2024Q2,Spring,1,125,Medium,Single item,Standard,Standard Customers
+126,10127,2024-05-06,Electronics,1.0,499.99,499.99,North America,Credit Card,Monday,2024-05,2024Q2,Spring,0,126,Medium,Single item,Standard,Standard Customers
+127,10128,2024-05-07,Home Appliances,2.0,399.99,799.98,Europe,PayPal,Tuesday,2024-05,2024Q2,Spring,0,127,Medium,Small bulk,Standard,Standard Customers
+128,10129,2024-05-08,Clothing,3.0,98.0,294.0,Asia,Debit Card,Wednesday,2024-05,2024Q2,Spring,0,128,Medium,Small bulk,Standard,Standard Customers
+129,10130,2024-05-09,Books,2.0,8.99,17.98,North America,Credit Card,Thursday,2024-05,2024Q2,Spring,0,129,Low,Small bulk,Budget,Budget Shoppers
+130,10131,2024-05-10,Beauty Products,1.0,36.0,36.0,Europe,PayPal,Friday,2024-05,2024Q2,Spring,0,130,Medium,Single item,Budget,Budget Shoppers
+131,10132,2024-05-11,Sports,4.0,39.95,159.8,Asia,Credit Card,Saturday,2024-05,2024Q2,Spring,1,131,Medium,Small bulk,Standard,Standard Customers
+132,10133,2024-05-12,Electronics,1.0,1299.99,1299.99,North America,Credit Card,Sunday,2024-05,2024Q2,Spring,1,132,High,Single item,Premium,Premium Customers
+133,10134,2024-05-13,Home Appliances,2.0,79.99,159.98,Europe,PayPal,Monday,2024-05,2024Q2,Spring,0,133,Medium,Small bulk,Standard,Standard Customers
+134,10135,2024-05-14,Clothing,4.0,34.99,139.96,Asia,Debit Card,Tuesday,2024-05,2024Q2,Spring,0,134,Medium,Small bulk,Budget,Budget Shoppers
+135,10136,2024-05-15,Books,3.0,9.99,29.97,North America,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,135,Low,Small bulk,Budget,Budget Shoppers
+136,10137,2024-05-16,Beauty Products,1.0,6.8,6.8,Europe,PayPal,Thursday,2024-05,2024Q2,Spring,0,136,Low,Single item,Budget,Budget Shoppers
+137,10138,2024-05-17,Sports,2.0,99.95,199.9,Asia,Credit Card,Friday,2024-05,2024Q2,Spring,0,137,Medium,Small bulk,Standard,Standard Customers
+138,10139,2024-05-18,Electronics,1.0,1499.99,1499.99,North America,Credit Card,Saturday,2024-05,2024Q2,Spring,1,138,High,Single item,Premium,Premium Customers
+139,10140,2024-05-19,Home Appliances,1.0,139.99,139.99,Europe,PayPal,Sunday,2024-05,2024Q2,Spring,1,139,Medium,Single item,Budget,Budget Shoppers
+140,10141,2024-05-20,Clothing,3.0,44.99,134.97,Asia,Debit Card,Monday,2024-05,2024Q2,Spring,0,140,Medium,Small bulk,Budget,Budget Shoppers
+141,10142,2024-05-21,Books,2.0,11.99,23.98,North America,Unknown,Tuesday,2024-05,2024Q2,Spring,0,141,Low,Small bulk,Budget,Budget Shoppers
+142,10143,2024-05-22,Beauty Products,1.0,29.5,29.5,Europe,PayPal,Wednesday,2024-05,2024Q2,Spring,0,142,Medium,Single item,Budget,Budget Shoppers
+143,10144,2024-05-23,Sports,1.0,299.99,299.99,Asia,Credit Card,Thursday,2024-05,2024Q2,Spring,0,143,Medium,Single item,Standard,Standard Customers
+144,10145,2024-05-24,Electronics,1.0,549.0,549.0,North America,Unknown,Friday,2024-05,2024Q2,Spring,0,144,Medium,Single item,Standard,Standard Customers
+145,10146,2024-05-25,Home Appliances,2.0,199.95,399.9,Europe,PayPal,Saturday,2024-05,2024Q2,Spring,1,145,Medium,Small bulk,Standard,Standard Customers
+146,10147,2024-05-26,Clothing,2.0,98.0,196.0,Asia,Debit Card,Sunday,2024-05,2024Q2,Spring,1,146,Medium,Small bulk,Standard,Standard Customers
+147,10148,2024-05-27,Books,3.0,10.99,32.97,North America,Credit Card,Monday,2024-05,2024Q2,Spring,0,147,Low,Small bulk,Budget,Budget Shoppers
+148,10149,2024-05-28,Beauty Products,1.0,25.0,25.0,Europe,PayPal,Tuesday,2024-05,2024Q2,Spring,0,148,Medium,Single item,Budget,Budget Shoppers
+149,10150,2024-05-29,Sports,2.0,149.99,299.98,Asia,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,149,Medium,Small bulk,Standard,Standard Customers
+150,10151,2024-05-30,Electronics,1.0,349.99,349.99,North America,Credit Card,Thursday,2024-05,2024Q2,Spring,0,150,Medium,Single item,Standard,Standard Customers
+151,10152,2024-05-31,Home Appliances,2.0,199.99,399.98,Europe,PayPal,Friday,2024-05,2024Q2,Spring,0,151,Medium,Small bulk,Standard,Standard Customers
+152,10153,2024-06-01,Clothing,3.0,54.99,164.97,Asia,Debit Card,Saturday,2024-06,2024Q2,Summer,1,152,Medium,Small bulk,Standard,Standard Customers
+153,10154,2024-06-02,Books,2.0,16.99,33.98,North America,Unknown,Sunday,2024-06,2024Q2,Summer,1,153,Low,Small bulk,Budget,Budget Shoppers
+154,10155,2024-06-03,Beauty Products,1.0,59.0,59.0,Europe,PayPal,Monday,2024-06,2024Q2,Summer,0,154,Medium,Single item,Budget,Budget Shoppers
+155,10156,2024-06-04,Sports,1.0,299.99,299.99,Asia,Credit Card,Tuesday,2024-06,2024Q2,Summer,0,155,Medium,Single item,Standard,Standard Customers
+156,10157,2024-06-05,Electronics,1.0,899.99,899.99,North America,Unknown,Wednesday,2024-06,2024Q2,Summer,0,156,High,Single item,Premium,Premium Customers
+157,10158,2024-06-06,Home Appliances,1.0,499.95,499.95,Europe,PayPal,Thursday,2024-06,2024Q2,Summer,0,157,Medium,Single item,Standard,Standard Customers
+158,10159,2024-06-07,Clothing,4.0,24.99,99.96,Asia,Debit Card,Friday,2024-06,2024Q2,Summer,0,158,Low,Small bulk,Budget,Budget Shoppers
+159,10160,2024-06-08,Books,3.0,7.99,23.97,North America,Unknown,Saturday,2024-06,2024Q2,Summer,1,159,Low,Small bulk,Budget,Budget Shoppers
+160,10161,2024-06-09,Beauty Products,1.0,36.0,36.0,Europe,PayPal,Sunday,2024-06,2024Q2,Summer,1,160,Medium,Single item,Budget,Budget Shoppers
+161,10162,2024-06-10,Sports,2.0,34.99,69.98,Asia,Credit Card,Monday,2024-06,2024Q2,Summer,0,161,Medium,Small bulk,Budget,Budget Shoppers
+162,10163,2024-06-11,Electronics,1.0,1199.99,1199.99,North America,Unknown,Tuesday,2024-06,2024Q2,Summer,0,162,High,Single item,Premium,Premium Customers
+163,10164,2024-06-12,Home Appliances,1.0,199.99,199.99,Europe,PayPal,Wednesday,2024-06,2024Q2,Summer,0,163,Medium,Single item,Standard,Standard Customers
+164,10165,2024-06-13,Clothing,5.0,29.99,149.95,Asia,Debit Card,Thursday,2024-06,2024Q2,Summer,0,164,Medium,Small bulk,Budget,Budget Shoppers
+165,10166,2024-06-14,Books,4.0,8.99,35.96,North America,Credit Card,Friday,2024-06,2024Q2,Summer,0,165,Low,Small bulk,Budget,Budget Shoppers
+166,10167,2024-06-15,Beauty Products,1.0,16.99,16.99,Europe,PayPal,Saturday,2024-06,2024Q2,Summer,1,166,Low,Single item,Budget,Budget Shoppers
+167,10168,2024-06-16,Sports,3.0,49.99,149.97,Asia,Credit Card,Sunday,2024-06,2024Q2,Summer,1,167,Medium,Small bulk,Standard,Standard Customers
+168,10169,2024-06-17,Electronics,1.0,699.99,699.99,North America,Credit Card,Monday,2024-06,2024Q2,Summer,0,168,High,Single item,Standard,Standard Customers
+169,10170,2024-06-18,Home Appliances,2.0,139.99,279.98,Europe,PayPal,Tuesday,2024-06,2024Q2,Summer,0,169,Medium,Small bulk,Standard,Standard Customers
+170,10171,2024-06-19,Clothing,3.0,34.99,104.97,Asia,Debit Card,Wednesday,2024-06,2024Q2,Summer,0,170,Medium,Small bulk,Budget,Budget Shoppers
+171,10172,2024-06-20,Books,2.0,9.99,19.98,North America,Unknown,Thursday,2024-06,2024Q2,Summer,0,171,Low,Small bulk,Budget,Budget Shoppers
+172,10173,2024-06-21,Beauty Products,1.0,29.5,29.5,Europe,PayPal,Friday,2024-06,2024Q2,Summer,0,172,Medium,Single item,Budget,Budget Shoppers
+173,10174,2024-06-22,Sports,1.0,699.99,699.99,Asia,Credit Card,Saturday,2024-06,2024Q2,Summer,1,173,High,Single item,Standard,Standard Customers
+174,10175,2024-06-23,Electronics,3.0,49.99,149.97,North America,Credit Card,Sunday,2024-06,2024Q2,Summer,1,174,Medium,Small bulk,Standard,Standard Customers
+175,10176,2024-06-24,Home Appliances,2.0,49.99,99.98,Europe,PayPal,Monday,2024-06,2024Q2,Summer,0,175,Medium,Small bulk,Budget,Budget Shoppers
+176,10177,2024-06-25,Clothing,4.0,14.9,59.6,Asia,Debit Card,Tuesday,2024-06,2024Q2,Summer,0,176,Low,Small bulk,Budget,Budget Shoppers
+177,10178,2024-06-26,Books,3.0,11.99,35.97,North America,Credit Card,Wednesday,2024-06,2024Q2,Summer,0,177,Low,Small bulk,Budget,Budget Shoppers
+178,10179,2024-06-27,Beauty Products,2.0,34.0,68.0,Europe,PayPal,Thursday,2024-06,2024Q2,Summer,0,178,Medium,Small bulk,Budget,Budget Shoppers
+179,10180,2024-06-28,Sports,1.0,146.0,146.0,Asia,Credit Card,Friday,2024-06,2024Q2,Summer,0,179,Medium,Single item,Budget,Budget Shoppers
+180,10181,2024-06-29,Electronics,1.0,649.99,649.99,North America,Credit Card,Saturday,2024-06,2024Q2,Summer,1,180,High,Single item,Standard,Standard Customers
+181,10182,2024-06-30,Home Appliances,1.0,399.99,399.99,Europe,PayPal,Sunday,2024-06,2024Q2,Summer,1,181,Medium,Single item,Standard,Standard Customers
+182,10183,2024-07-01,Clothing,3.0,59.99,179.97,Asia,Debit Card,Monday,2024-07,2024Q3,Summer,0,182,Medium,Small bulk,Standard,Standard Customers
+183,10184,2024-07-02,Books,2.0,12.99,25.98,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,183,Low,Small bulk,Budget,Budget Shoppers
+184,10185,2024-07-03,Beauty Products,1.0,190.0,190.0,Europe,PayPal,Wednesday,2024-07,2024Q3,Summer,0,184,Medium,Single item,Standard,Standard Customers
+185,10186,2024-07-04,Sports,1.0,499.95,499.95,Asia,Credit Card,Thursday,2024-07,2024Q3,Summer,0,185,Medium,Single item,Standard,Standard Customers
+186,10187,2024-07-05,Electronics,1.0,399.0,399.0,North America,Credit Card,Friday,2024-07,2024Q3,Summer,0,186,Medium,Single item,Standard,Standard Customers
+187,10188,2024-07-06,Home Appliances,2.0,199.0,398.0,Europe,PayPal,Saturday,2024-07,2024Q3,Summer,1,187,Medium,Small bulk,Standard,Standard Customers
+188,10189,2024-07-07,Clothing,4.0,34.99,139.96,Asia,Debit Card,Sunday,2024-07,2024Q3,Summer,1,188,Medium,Small bulk,Budget,Budget Shoppers
+189,10190,2024-07-08,Books,3.0,10.99,32.97,North America,Credit Card,Monday,2024-07,2024Q3,Summer,0,189,Low,Small bulk,Budget,Budget Shoppers
+190,10191,2024-07-09,Beauty Products,1.0,18.0,18.0,Europe,PayPal,Tuesday,2024-07,2024Q3,Summer,0,190,Low,Single item,Budget,Budget Shoppers
+191,10192,2024-07-10,Sports,1.0,169.95,169.95,Asia,Credit Card,Wednesday,2024-07,2024Q3,Summer,0,191,Medium,Single item,Standard,Standard Customers
+192,10193,2024-07-11,Electronics,1.0,199.99,199.99,North America,Credit Card,Thursday,2024-07,2024Q3,Summer,0,192,Medium,Single item,Standard,Standard Customers
+193,10194,2024-07-12,Home Appliances,1.0,199.95,199.95,Europe,PayPal,Friday,2024-07,2024Q3,Summer,0,193,Medium,Single item,Standard,Standard Customers
+194,10195,2024-07-13,Clothing,2.0,179.99,359.98,Asia,Debit Card,Saturday,2024-07,2024Q3,Summer,1,194,Medium,Small bulk,Standard,Standard Customers
+195,10196,2024-07-14,Books,2.0,11.99,23.98,North America,Credit Card,Sunday,2024-07,2024Q3,Summer,1,195,Low,Small bulk,Budget,Budget Shoppers
+196,10197,2024-07-15,Beauty Products,1.0,125.0,125.0,Europe,PayPal,Monday,2024-07,2024Q3,Summer,0,196,Medium,Single item,Budget,Budget Shoppers
+197,10198,2024-07-16,Sports,1.0,449.99,449.99,Asia,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,197,Medium,Single item,Standard,Standard Customers
+198,10199,2024-07-17,Electronics,2.0,179.0,358.0,North America,Credit Card,Wednesday,2024-07,2024Q3,Summer,0,198,Medium,Small bulk,Standard,Standard Customers
+199,10200,2024-07-18,Home Appliances,1.0,99.95,99.95,Europe,PayPal,Thursday,2024-07,2024Q3,Summer,0,199,Medium,Single item,Budget,Budget Shoppers
+200,10201,2024-07-19,Clothing,3.0,59.99,179.97,Asia,Debit Card,Friday,2024-07,2024Q3,Summer,0,200,Medium,Small bulk,Standard,Standard Customers
+201,10202,2024-07-20,Books,2.0,14.99,29.98,North America,Unknown,Saturday,2024-07,2024Q3,Summer,1,201,Low,Small bulk,Budget,Budget Shoppers
+202,10203,2024-07-21,Beauty Products,1.0,52.0,52.0,Europe,PayPal,Sunday,2024-07,2024Q3,Summer,1,202,Medium,Single item,Budget,Budget Shoppers
+203,10204,2024-07-22,Sports,1.0,399.99,399.99,Asia,Credit Card,Monday,2024-07,2024Q3,Summer,0,203,Medium,Single item,Standard,Standard Customers
+204,10205,2024-07-23,Electronics,1.0,299.99,299.99,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,204,Medium,Single item,Standard,Standard Customers
+205,10206,2024-07-24,Home Appliances,1.0,379.99,379.99,Europe,PayPal,Wednesday,2024-07,2024Q3,Summer,0,205,Medium,Single item,Standard,Standard Customers
+206,10207,2024-07-25,Clothing,2.0,98.0,196.0,Asia,Debit Card,Thursday,2024-07,2024Q3,Summer,0,206,Medium,Small bulk,Standard,Standard Customers
+207,10208,2024-07-26,Books,3.0,16.99,50.97,North America,Unknown,Friday,2024-07,2024Q3,Summer,0,207,Low,Small bulk,Budget,Budget Shoppers
+208,10209,2024-07-27,Beauty Products,1.0,79.0,79.0,Europe,PayPal,Saturday,2024-07,2024Q3,Summer,1,208,Medium,Single item,Budget,Budget Shoppers
+209,10210,2024-07-28,Sports,1.0,129.0,129.0,Asia,Credit Card,Sunday,2024-07,2024Q3,Summer,1,209,Medium,Single item,Budget,Budget Shoppers
+210,10211,2024-07-29,Electronics,1.0,749.99,749.99,North America,Credit Card,Monday,2024-07,2024Q3,Summer,0,210,High,Single item,Standard,Standard Customers
+211,10212,2024-07-30,Home Appliances,2.0,169.99,339.98,Europe,PayPal,Tuesday,2024-07,2024Q3,Summer,0,211,Medium,Small bulk,Standard,Standard Customers
+212,10213,2024-07-31,Clothing,4.0,9.9,39.6,Asia,Debit Card,Wednesday,2024-07,2024Q3,Summer,0,212,Low,Small bulk,Budget,Budget Shoppers
+213,10214,2024-08-01,Books,3.0,10.99,32.97,North America,Credit Card,Thursday,2024-08,2024Q3,Summer,0,213,Low,Small bulk,Budget,Budget Shoppers
+214,10215,2024-08-02,Beauty Products,2.0,29.0,58.0,Europe,PayPal,Friday,2024-08,2024Q3,Summer,0,214,Medium,Small bulk,Budget,Budget Shoppers
+215,10216,2024-08-03,Sports,1.0,349.99,349.99,Asia,Credit Card,Saturday,2024-08,2024Q3,Summer,1,215,Medium,Single item,Standard,Standard Customers
+216,10217,2024-08-04,Electronics,1.0,2399.0,2399.0,North America,Credit Card,Sunday,2024-08,2024Q3,Summer,1,216,High,Single item,Premium,Premium Customers
+217,10218,2024-08-05,Home Appliances,1.0,449.99,449.99,Europe,PayPal,Monday,2024-08,2024Q3,Summer,0,217,Medium,Single item,Standard,Standard Customers
+218,10219,2024-08-06,Clothing,3.0,49.99,149.97,Asia,Debit Card,Tuesday,2024-08,2024Q3,Summer,0,218,Medium,Small bulk,Standard,Standard Customers
+219,10220,2024-08-07,Books,2.0,12.99,25.98,North America,Unknown,Wednesday,2024-08,2024Q3,Summer,0,219,Low,Small bulk,Budget,Budget Shoppers
+220,10221,2024-08-08,Beauty Products,1.0,27.0,27.0,Europe,PayPal,Thursday,2024-08,2024Q3,Summer,0,220,Medium,Single item,Budget,Budget Shoppers
+221,10222,2024-08-09,Sports,1.0,599.99,599.99,Asia,Credit Card,Friday,2024-08,2024Q3,Summer,0,221,Medium,Single item,Standard,Standard Customers
+222,10223,2024-08-10,Electronics,4.0,49.99,199.96,North America,Credit Card,Saturday,2024-08,2024Q3,Summer,1,222,Medium,Small bulk,Standard,Standard Customers
+223,10224,2024-08-11,Home Appliances,2.0,229.99,459.98,Europe,PayPal,Sunday,2024-08,2024Q3,Summer,1,223,Medium,Small bulk,Standard,Standard Customers
+224,10225,2024-08-12,Clothing,2.0,44.99,89.98,Asia,Debit Card,Monday,2024-08,2024Q3,Summer,0,224,Medium,Small bulk,Budget,Budget Shoppers
+225,10226,2024-08-13,Books,3.0,26.99,80.97,North America,Credit Card,Tuesday,2024-08,2024Q3,Summer,0,225,Medium,Small bulk,Budget,Budget Shoppers
+226,10227,2024-08-14,Beauty Products,1.0,6.7,6.7,Europe,PayPal,Wednesday,2024-08,2024Q3,Summer,0,226,Low,Single item,Budget,Budget Shoppers
+227,10228,2024-08-15,Sports,2.0,149.95,299.9,Asia,Credit Card,Thursday,2024-08,2024Q3,Summer,0,227,Medium,Small bulk,Standard,Standard Customers
+228,10229,2024-08-16,Electronics,1.0,169.0,169.0,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,228,Medium,Single item,Standard,Standard Customers
+229,10230,2024-08-17,Home Appliances,1.0,599.0,599.0,Europe,PayPal,Saturday,2024-08,2024Q3,Summer,1,229,Medium,Single item,Standard,Standard Customers
+230,10231,2024-08-18,Clothing,4.0,64.99,259.96,Asia,Debit Card,Sunday,2024-08,2024Q3,Summer,1,230,Medium,Small bulk,Standard,Standard Customers
+231,10232,2024-08-19,Books,2.0,9.99,19.98,North America,Credit Card,Monday,2024-08,2024Q3,Summer,0,231,Low,Small bulk,Budget,Budget Shoppers
+232,10233,2024-08-20,Beauty Products,1.0,24.0,24.0,Europe,PayPal,Tuesday,2024-08,2024Q3,Summer,0,232,Low,Single item,Budget,Budget Shoppers
+233,10234,2024-08-21,Sports,2.9999999999999996,32.95,98.85,Asia,Credit Card,Wednesday,2024-08,2024Q3,Summer,0,233,Medium,Small bulk,Budget,Budget Shoppers
+234,10235,2024-08-22,Electronics,1.0,299.0,299.0,North America,Credit Card,Thursday,2024-08,2024Q3,Summer,0,234,Medium,Single item,Standard,Standard Customers
+235,10236,2024-08-23,Home Appliances,1.0,159.99,159.99,Europe,PayPal,Friday,2024-08,2024Q3,Summer,0,235,Medium,Single item,Standard,Standard Customers
+236,10237,2024-08-24,Clothing,3.0,90.0,270.0,Asia,Debit Card,Saturday,2024-08,2024Q3,Summer,1,236,Medium,Small bulk,Standard,Standard Customers
+237,10238,2024-08-25,Books,3.0,10.99,32.97,North America,Unknown,Sunday,2024-08,2024Q3,Summer,1,237,Low,Small bulk,Budget,Budget Shoppers
+238,10239,2024-08-26,Beauty Products,1.0,55.0,55.0,Europe,PayPal,Monday,2024-08,2024Q3,Summer,0,238,Medium,Single item,Budget,Budget Shoppers
+239,10240,2024-08-27,Sports,2.0,29.99,59.98,Asia,Credit Card,Tuesday,2024-08,2024Q3,Summer,0,239,Medium,Small bulk,Budget,Budget Shoppers
+240,10241,2024-11-23,Clothing,1.0,870.33,870.33,North America,Unknown,Saturday,2024-11,2024Q4,Fall,1,327,High,Single item,Premium,Premium Customers
+241,10242,2024-10-06,Sports,97.0,420.63,40801.11,Europe,Unknown,Sunday,2024-10,2024Q4,Fall,1,279,Medium,Large bulk,Premium,Bulk Buyers
+242,10243,2024-01-14,Electronics,1.0,129.06,129.06,North America,Credit Card,Sunday,2024-01,2024Q1,Winter,1,13,Medium,Single item,Budget,Budget Shoppers
+243,10244,2025-03-21,Books,1.0,1.0,1.0,Europe,Unknown,Friday,2025-03,2025Q1,Spring,0,445,Low,Single item,Budget,Budget Shoppers
+244,10245,2025-01-25,Home Appliances,1.0,1.0,1.0,Asia,Credit Card,Saturday,2025-01,2025Q1,Winter,1,390,Low,Single item,Budget,Budget Shoppers
+245,10246,2024-05-15,Books,1.0,646.59,646.59,Europe,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,135,High,Single item,Standard,Standard Customers
+246,10247,2024-11-17,Electronics,2.0,613.95,1227.9,North America,Bank Transfer,Sunday,2024-11,2024Q4,Fall,1,321,Medium,Small bulk,Premium,Premium Customers
+247,10248,2024-05-28,Beauty Products,1.0,111.13,111.13,Asia,Credit Card,Tuesday,2024-05,2024Q2,Spring,0,148,Medium,Single item,Budget,Budget Shoppers
+248,10249,2024-07-05,Electronics,1.0,352.22,352.22,Asia,Credit Card,Friday,2024-07,2024Q3,Summer,0,186,Medium,Single item,Standard,Standard Customers
+249,10250,2024-11-27,Books,2.0,1.0,2.0,Europe,Credit Card,Wednesday,2024-11,2024Q4,Fall,0,331,Low,Small bulk,Budget,Budget Shoppers
+250,10251,2024-05-18,Sports,2.0,910.9,1821.8,Asia,Credit Card,Saturday,2024-05,2024Q2,Spring,1,138,High,Small bulk,Premium,Premium Customers
+251,10252,2025-02-16,Home Appliances,340.0,615.06,209120.4,North America,Credit Card,Sunday,2025-02,2025Q1,Winter,1,412,Medium,Large bulk,Premium,Bulk Buyers
+252,10253,2024-12-01,Clothing,3.0,1.0,3.0,Europe,Credit Card,Sunday,2024-12,2024Q4,Winter,1,335,Low,Small bulk,Budget,Budget Shoppers
+253,10254,2024-10-02,Books,2.0,1.0,2.0,North America,Cryptocurrency,Wednesday,2024-10,2024Q4,Fall,0,275,Low,Small bulk,Budget,Budget Shoppers
+254,10255,2024-03-11,Beauty Products,2.0,617.64,1235.28,North America,Mobile Payment,Monday,2024-03,2024Q1,Spring,0,70,Medium,Small bulk,Premium,Premium Customers
+255,10256,2024-03-22,Electronics,245.0,1.0,245.0,Asia,PayPal,Friday,2024-03,2024Q1,Spring,0,81,Low,Large bulk,Standard,Bulk Buyers
+256,10257,2024-05-08,Home Appliances,1.0,160.07,160.07,North America,PayPal,Wednesday,2024-05,2024Q2,Spring,0,128,Medium,Single item,Standard,Standard Customers
+257,10258,2024-05-16,Books,1.0,861.05,861.05,Asia,PayPal,Thursday,2024-05,2024Q2,Spring,0,136,High,Single item,Premium,Premium Customers
+258,10259,2025-01-03,Electronics,3.0,812.65,2437.95,North America,Mobile Payment,Friday,2025-01,2025Q1,Winter,0,368,High,Small bulk,Premium,Premium Customers
+259,10260,2025-03-06,Clothing,3.0,1.0,3.0,North America,Credit Card,Thursday,2025-03,2025Q1,Spring,0,430,Low,Small bulk,Budget,Budget Shoppers
+260,10261,2025-02-02,Electronics,3.0,4716.39,14149.17,Europe,Credit Card,Sunday,2025-02,2025Q1,Winter,1,398,High,Small bulk,Premium,Premium Customers
+261,10262,2025-03-25,Books,499.0,865.95,432109.05,Asia,Unknown,Tuesday,2025-03,2025Q1,Spring,0,449,High,Large bulk,Premium,Bulk Buyers
+262,10263,2025-02-21,Clothing,1.0,508.5,508.5,North America,Credit Card,Friday,2025-02,2025Q1,Winter,0,417,Medium,Single item,Standard,Standard Customers
+263,10264,2024-10-08,Electronics,3.0,495.77,1487.31,Asia,Credit Card,Tuesday,2024-10,2024Q4,Fall,0,281,Medium,Small bulk,Premium,Premium Customers
+264,10265,2024-10-03,Sports,3.0,359.07,1077.21,Asia,Credit Card,Thursday,2024-10,2024Q4,Fall,0,276,Medium,Small bulk,Premium,Premium Customers
+265,10266,2024-08-12,Electronics,1.0,776.96,776.96,Asia,Debit Card,Monday,2024-08,2024Q3,Summer,0,224,High,Single item,Standard,Standard Customers
+266,10267,2024-10-28,Electronics,1.0,515.71,515.71,Europe,Credit Card,Monday,2024-10,2024Q4,Fall,0,301,Medium,Single item,Standard,Standard Customers
+267,10268,2024-06-18,Home Appliances,1.0,1.0,1.0,Asia,Credit Card,Tuesday,2024-06,2024Q2,Summer,0,169,Low,Single item,Budget,Budget Shoppers
+268,10269,2025-01-05,Books,1.0,673.84,673.84,North America,Unknown,Sunday,2025-01,2025Q1,Winter,1,370,High,Single item,Standard,Standard Customers
+269,10270,2024-02-19,Home Appliances,1.0,225.01,225.01,North America,Credit Card,Monday,2024-02,2024Q1,Winter,0,49,Medium,Single item,Standard,Standard Customers
+270,10271,2024-12-10,Books,422.0,1.0,422.0,North America,Debit Card,Tuesday,2024-12,2024Q4,Winter,0,344,Low,Large bulk,Standard,Bulk Buyers
+271,10272,2024-05-07,Home Appliances,2.0,221.49,442.98,Asia,Credit Card,Tuesday,2024-05,2024Q2,Spring,0,127,Medium,Small bulk,Standard,Standard Customers
+272,10273,2024-05-07,Beauty Products,1.0,826.07,826.07,Asia,Unknown,Tuesday,2024-05,2024Q2,Spring,0,127,High,Single item,Standard,Standard Customers
+273,10274,2024-10-03,Beauty Products,4.0,1.0,4.0,Europe,PayPal,Thursday,2024-10,2024Q4,Fall,0,276,Low,Small bulk,Budget,Budget Shoppers
+274,10275,2024-04-19,Electronics,1.0,751.04,751.04,North America,Credit Card,Friday,2024-04,2024Q2,Spring,0,109,High,Single item,Standard,Standard Customers
+275,10276,2025-02-05,Books,1.0,100.36,100.36,Europe,Credit Card,Wednesday,2025-02,2025Q1,Winter,0,401,Medium,Single item,Budget,Budget Shoppers
+276,10277,2024-12-04,Beauty Products,2.0,167.28,334.56,North America,Credit Card,Wednesday,2024-12,2024Q4,Winter,0,338,Medium,Small bulk,Standard,Standard Customers
+277,10278,2024-10-04,Electronics,349.0,703.96,245682.04,Asia,Unknown,Friday,2024-10,2024Q4,Fall,0,277,High,Large bulk,Premium,Bulk Buyers
+278,10279,2024-09-28,Books,145.0,930.91,134981.95,North America,Credit Card,Saturday,2024-09,2024Q3,Fall,1,271,High,Large bulk,Premium,Bulk Buyers
+279,10280,2024-07-25,Sports,1.0,395.28,395.28,Europe,Credit Card,Thursday,2024-07,2024Q3,Summer,0,206,Medium,Single item,Standard,Standard Customers
+280,10281,2024-08-02,Beauty Products,3.0,501.64,1504.92,North America,Unknown,Friday,2024-08,2024Q3,Summer,0,214,Medium,Small bulk,Premium,Premium Customers
+281,10282,2025-01-01,Sports,3.0,409.53,1228.59,North America,Credit Card,Wednesday,2025-01,2025Q1,Winter,0,366,Medium,Small bulk,Premium,Premium Customers
+282,10283,2024-06-10,Books,1.0,521.56,521.56,North America,PayPal,Monday,2024-06,2024Q2,Summer,0,161,Medium,Single item,Standard,Standard Customers
+283,10284,2024-02-07,Home Appliances,3.0,733.95,2201.85,Europe,Unknown,Wednesday,2024-02,2024Q1,Winter,0,37,High,Small bulk,Premium,Premium Customers
+284,10285,2025-03-26,Books,1.0,1.0,1.0,Europe,Unknown,Wednesday,2025-03,2025Q1,Spring,0,450,Low,Single item,Budget,Budget Shoppers
+285,10286,2024-11-09,Home Appliances,2.0,203.28,406.56,Asia,PayPal,Saturday,2024-11,2024Q4,Fall,1,313,Medium,Small bulk,Standard,Standard Customers
+286,10287,2025-03-25,Beauty Products,2.0,1410.68,2821.36,Europe,Credit Card,Tuesday,2025-03,2025Q1,Spring,0,449,High,Small bulk,Premium,Premium Customers
+287,10288,2024-05-24,Beauty Products,2.0,1.0,2.0,Asia,Gift Card,Friday,2024-05,2024Q2,Spring,0,144,Low,Small bulk,Budget,Budget Shoppers
+288,10289,2024-09-07,Sports,266.0,666.78,177363.48,Europe,Credit Card,Saturday,2024-09,2024Q3,Fall,1,250,High,Large bulk,Premium,Bulk Buyers
+289,10290,2024-03-07,Sports,2.0,486.91,973.82,Asia,Debit Card,Thursday,2024-03,2024Q1,Spring,0,66,Medium,Small bulk,Premium,Premium Customers
+290,10291,2024-10-14,Home Appliances,2.0,518.01,1036.02,Europe,Debit Card,Monday,2024-10,2024Q4,Fall,0,287,Medium,Small bulk,Premium,Premium Customers
+291,10292,2024-07-08,Home Appliances,2.0,2458.61,4917.22,Asia,PayPal,Monday,2024-07,2024Q3,Summer,0,189,High,Small bulk,Premium,Premium Customers
+292,10293,2025-04-22,Books,1.0,890.06,890.06,North America,PayPal,Tuesday,2025-04,2025Q2,Spring,0,477,High,Single item,Premium,Premium Customers
+293,10294,2025-03-28,Sports,2.0,1.0,2.0,Asia,PayPal,Friday,2025-03,2025Q1,Spring,0,452,Low,Small bulk,Budget,Budget Shoppers
+294,10295,2025-03-27,Beauty Products,1.0,829.89,829.89,North America,Unknown,Thursday,2025-03,2025Q1,Spring,0,451,High,Single item,Standard,Standard Customers
+295,10296,2025-02-14,Beauty Products,2.0,936.08,1872.16,Asia,Unknown,Friday,2025-02,2025Q1,Winter,0,410,High,Small bulk,Premium,Premium Customers
+296,10297,2025-03-15,Beauty Products,7.429599881005504,336.15,2497.46,Europe,Unknown,Saturday,2025-03,2025Q1,Spring,1,439,Medium,Large bulk,Premium,Bulk Buyers
+297,10298,2025-02-11,Electronics,2.0,146.16,292.32,Europe,PayPal,Tuesday,2025-02,2025Q1,Winter,0,407,Medium,Small bulk,Standard,Standard Customers
+298,10299,2024-02-05,Home Appliances,2.0,58.38,116.76,North America,Debit Card,Monday,2024-02,2024Q1,Winter,0,35,Medium,Small bulk,Budget,Budget Shoppers
+299,10300,2024-10-01,Clothing,2.0,216.72,433.44,Asia,Credit Card,Tuesday,2024-10,2024Q4,Fall,0,274,Medium,Small bulk,Standard,Standard Customers
+300,10301,2024-05-15,Books,1.0,1096.88,1096.88,Europe,PayPal,Wednesday,2024-05,2024Q2,Spring,0,135,High,Single item,Premium,Premium Customers
+301,10302,2024-09-18,Sports,4.0,2744.23,10976.92,Europe,Credit Card,Wednesday,2024-09,2024Q3,Fall,0,261,High,Small bulk,Premium,Premium Customers
+302,10303,2024-09-23,Beauty Products,1.0,1.0,1.0,North America,Credit Card,Monday,2024-09,2024Q3,Fall,0,266,Low,Single item,Budget,Budget Shoppers
+303,10304,2024-11-15,Sports,2.0,655.47,1310.94,Europe,Credit Card,Friday,2024-11,2024Q4,Fall,0,319,High,Small bulk,Premium,Premium Customers
+304,10305,2024-07-28,Electronics,2.0,1.0,2.0,Asia,PayPal,Sunday,2024-07,2024Q3,Summer,1,209,Low,Small bulk,Budget,Budget Shoppers
+305,10306,2024-07-13,Home Appliances,4.0,679.78,2719.12,Europe,Unknown,Saturday,2024-07,2024Q3,Summer,1,194,High,Small bulk,Premium,Premium Customers
+306,10307,2024-01-01,Clothing,1.0,993.04,993.04,North America,Unknown,Monday,2024-01,2024Q1,Winter,0,0,High,Single item,Premium,Premium Customers
+307,10308,2024-08-26,Clothing,1.0,1.0,1.0,Europe,PayPal,Monday,2024-08,2024Q3,Summer,0,238,Low,Single item,Budget,Budget Shoppers
+308,10309,2025-01-11,Books,1.0,1.0,1.0,Europe,PayPal,Saturday,2025-01,2025Q1,Winter,1,376,Low,Single item,Budget,Budget Shoppers
+309,10310,2024-02-17,Sports,1.0,523.11,523.11,North America,Unknown,Saturday,2024-02,2024Q1,Winter,1,47,Medium,Single item,Standard,Standard Customers
+310,10311,2024-08-31,Electronics,2.0,632.52,1265.04,Europe,Credit Card,Saturday,2024-08,2024Q3,Summer,1,243,Medium,Small bulk,Premium,Premium Customers
+311,10312,2025-01-02,Books,2.0,986.94,1973.88,Asia,Credit Card,Thursday,2025-01,2025Q1,Winter,0,367,High,Small bulk,Premium,Premium Customers
+312,10313,2025-04-02,Sports,1.0,74.78,74.78,North America,Debit Card,Wednesday,2025-04,2025Q2,Spring,0,457,Medium,Single item,Budget,Budget Shoppers
+313,10314,2024-09-22,Electronics,2.0,101.49,202.98,North America,PayPal,Sunday,2024-09,2024Q3,Fall,1,265,Medium,Small bulk,Standard,Standard Customers
+314,10315,2025-02-14,Books,3.0,226.38,679.14,Asia,Unknown,Friday,2025-02,2025Q1,Winter,0,410,Medium,Small bulk,Standard,Standard Customers
+315,10316,2025-04-01,Home Appliances,2.0,557.32,1114.64,Asia,Unknown,Tuesday,2025-04,2025Q2,Spring,0,456,Medium,Small bulk,Premium,Premium Customers
+316,10317,2024-03-22,Clothing,2.0,1.0,2.0,Asia,Debit Card,Friday,2024-03,2024Q1,Spring,0,81,Low,Small bulk,Budget,Budget Shoppers
+317,10318,2025-01-27,Clothing,3.0,543.59,1630.77,North America,Debit Card,Monday,2025-01,2025Q1,Winter,0,392,Medium,Small bulk,Premium,Premium Customers
+318,10319,2024-04-30,Books,3.0,1.0,3.0,Asia,Unknown,Tuesday,2024-04,2024Q2,Spring,0,120,Low,Small bulk,Budget,Budget Shoppers
+319,10320,2024-07-15,Electronics,258.0,762.2,196647.6,Asia,Credit Card,Monday,2024-07,2024Q3,Summer,0,196,High,Large bulk,Premium,Bulk Buyers
+320,10321,2024-02-01,Home Appliances,4.0,693.85,2775.4,Europe,Credit Card,Thursday,2024-02,2024Q1,Winter,0,31,High,Small bulk,Premium,Premium Customers
+321,10322,2024-01-11,Home Appliances,230.0,733.74,168760.2,Asia,Unknown,Thursday,2024-01,2024Q1,Winter,0,10,High,Large bulk,Premium,Bulk Buyers
+322,10323,2025-04-01,Electronics,3.44066237350506,54.35,187.0,Europe,Credit Card,Tuesday,2025-04,2025Q2,Spring,0,456,Medium,Small bulk,Standard,Standard Customers
+323,10324,2024-04-22,Sports,2.0,2344.52,4689.04,Europe,Unknown,Monday,2024-04,2024Q2,Spring,0,112,High,Small bulk,Premium,Premium Customers
+324,10325,2024-12-13,Electronics,2.0,937.73,1875.46,North America,Credit Card,Friday,2024-12,2024Q4,Winter,0,347,High,Small bulk,Premium,Premium Customers
+325,10326,2024-01-14,Beauty Products,1.0,336.05,336.05,North America,Cryptocurrency,Sunday,2024-01,2024Q1,Winter,1,13,Medium,Single item,Standard,Standard Customers
+326,10327,2024-01-26,Clothing,3.0,1.0,3.0,Asia,Cryptocurrency,Friday,2024-01,2024Q1,Winter,0,25,Low,Small bulk,Budget,Budget Shoppers
+327,10328,2024-07-13,Beauty Products,1.0,769.71,769.71,Asia,PayPal,Saturday,2024-07,2024Q3,Summer,1,194,High,Single item,Standard,Standard Customers
+328,10329,2024-06-28,Clothing,1.0,59.28,59.28,Europe,Credit Card,Friday,2024-06,2024Q2,Summer,0,179,Medium,Single item,Budget,Budget Shoppers
+329,10330,2024-05-06,Electronics,2.0,493.18,986.36,Asia,Unknown,Monday,2024-05,2024Q2,Spring,0,126,Medium,Small bulk,Premium,Premium Customers
+330,10331,2024-02-28,Sports,1.0,1.0,1.0,Asia,Credit Card,Wednesday,2024-02,2024Q1,Winter,0,58,Low,Single item,Budget,Budget Shoppers
+331,10332,2024-11-06,Sports,1.0,379.91,379.91,North America,PayPal,Wednesday,2024-11,2024Q4,Fall,0,310,Medium,Single item,Standard,Standard Customers
+332,10333,2024-10-23,Sports,2.0,1260.99,2521.98,Asia,Credit Card,Wednesday,2024-10,2024Q4,Fall,0,296,High,Small bulk,Premium,Premium Customers
+333,10334,2025-01-01,Books,2.0,445.53,891.06,North America,Credit Card,Wednesday,2025-01,2025Q1,Winter,0,366,Medium,Small bulk,Premium,Premium Customers
+334,10335,2024-11-03,Sports,2.0,823.77,1647.54,Asia,Credit Card,Sunday,2024-11,2024Q4,Fall,1,307,High,Small bulk,Premium,Premium Customers
+335,10336,2024-01-07,Books,1.0,1.0,1.0,Europe,Credit Card,Sunday,2024-01,2024Q1,Winter,1,6,Low,Single item,Budget,Budget Shoppers
+336,10337,2024-08-23,Books,1.0,226.58,226.58,Asia,PayPal,Friday,2024-08,2024Q3,Summer,0,235,Medium,Single item,Standard,Standard Customers
+337,10338,2025-02-17,Electronics,1.0,1141.11,1141.11,Asia,Debit Card,Monday,2025-02,2025Q1,Winter,0,413,High,Single item,Premium,Premium Customers
+338,10339,2025-03-12,Electronics,2.0,233.39,466.78,North America,Cryptocurrency,Wednesday,2025-03,2025Q1,Spring,0,436,Medium,Small bulk,Standard,Standard Customers
+339,10340,2024-10-18,Electronics,1.0,936.01,936.01,Asia,Debit Card,Friday,2024-10,2024Q4,Fall,0,291,High,Single item,Premium,Premium Customers
+340,10341,2024-09-06,Sports,1.0,1.0,1.0,North America,Credit Card,Friday,2024-09,2024Q3,Fall,0,249,Low,Single item,Budget,Budget Shoppers
+341,10342,2024-05-21,Sports,2.0,303.85,607.7,Asia,Gift Card,Tuesday,2024-05,2024Q2,Spring,0,141,Medium,Small bulk,Standard,Standard Customers
+342,10343,2024-09-07,Sports,1.0,1.0,1.0,North America,Gift Card,Saturday,2024-09,2024Q3,Fall,1,250,Low,Single item,Budget,Budget Shoppers
+343,10344,2025-02-09,Books,3.0,1.0,3.0,Europe,Unknown,Sunday,2025-02,2025Q1,Winter,1,405,Low,Small bulk,Budget,Budget Shoppers
+344,10345,2024-10-24,Electronics,2.0,1233.84,2467.68,Asia,PayPal,Thursday,2024-10,2024Q4,Fall,0,297,High,Small bulk,Premium,Premium Customers
+345,10346,2024-06-18,Sports,4.0,596.29,2385.16,Asia,Credit Card,Tuesday,2024-06,2024Q2,Summer,0,169,Medium,Small bulk,Premium,Premium Customers
+346,10347,2024-03-02,Electronics,4.0,994.06,3976.24,North America,Credit Card,Saturday,2024-03,2024Q1,Spring,1,61,High,Small bulk,Premium,Premium Customers
+347,10348,2025-01-24,Electronics,3.0,809.13,2427.39,Europe,Credit Card,Friday,2025-01,2025Q1,Winter,0,389,High,Small bulk,Premium,Premium Customers
+348,10349,2024-07-03,Sports,1.0,527.26,527.26,Europe,Unknown,Wednesday,2024-07,2024Q3,Summer,0,184,Medium,Single item,Standard,Standard Customers
+349,10350,2024-05-29,Beauty Products,4.0,506.13,2024.52,Asia,Gift Card,Wednesday,2024-05,2024Q2,Spring,0,149,Medium,Small bulk,Premium,Premium Customers
+350,10351,2024-05-25,Electronics,1.0,348.27,348.27,North America,Credit Card,Saturday,2024-05,2024Q2,Spring,1,145,Medium,Single item,Standard,Standard Customers
+351,10352,2025-03-17,Sports,3.0,1.0,3.0,Europe,Credit Card,Monday,2025-03,2025Q1,Spring,0,441,Low,Small bulk,Budget,Budget Shoppers
+352,10353,2024-01-28,Electronics,2.0,1.0,2.0,Europe,Debit Card,Sunday,2024-01,2024Q1,Winter,1,27,Low,Small bulk,Budget,Budget Shoppers
+353,10354,2024-10-12,Clothing,2.0,1.0,2.0,North America,Credit Card,Saturday,2024-10,2024Q4,Fall,1,285,Low,Small bulk,Budget,Budget Shoppers
+354,10355,2025-03-16,Home Appliances,2.0,1.0,2.0,North America,Credit Card,Sunday,2025-03,2025Q1,Spring,1,440,Low,Small bulk,Budget,Budget Shoppers
+355,10356,2025-01-13,Clothing,1.0,619.93,619.93,North America,Credit Card,Monday,2025-01,2025Q1,Winter,0,378,Medium,Single item,Standard,Standard Customers
+356,10357,2024-10-09,Books,2.0,89.01,178.02,Asia,PayPal,Wednesday,2024-10,2024Q4,Fall,0,282,Medium,Small bulk,Standard,Standard Customers
+357,10358,2024-01-17,Electronics,2.0,259.7,519.4,Asia,Unknown,Wednesday,2024-01,2024Q1,Winter,0,16,Medium,Small bulk,Standard,Standard Customers
+358,10359,2025-04-18,Home Appliances,1.0,1.0,1.0,Europe,PayPal,Friday,2025-04,2025Q2,Spring,0,473,Low,Single item,Budget,Budget Shoppers
+359,10360,2024-10-05,Clothing,4.0,582.96,2331.84,North America,Credit Card,Saturday,2024-10,2024Q4,Fall,1,278,Medium,Small bulk,Premium,Premium Customers
+360,10361,2024-06-06,Beauty Products,1.0,248.69,248.69,Europe,Credit Card,Thursday,2024-06,2024Q2,Summer,0,157,Medium,Single item,Standard,Standard Customers
+361,10362,2024-06-04,Clothing,3.0,519.93,1559.79,Europe,Unknown,Tuesday,2024-06,2024Q2,Summer,0,155,Medium,Small bulk,Premium,Premium Customers
+362,10363,2024-08-09,Home Appliances,395.0,156.13,61671.35,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,221,Medium,Large bulk,Premium,Bulk Buyers
+363,10364,2024-01-11,Home Appliances,437.0,215.87,94335.19,North America,Debit Card,Thursday,2024-01,2024Q1,Winter,0,10,Medium,Large bulk,Premium,Bulk Buyers
+364,10365,2024-08-14,Books,3.0,351.62,1054.86,Europe,Unknown,Wednesday,2024-08,2024Q3,Summer,0,226,Medium,Small bulk,Premium,Premium Customers
+365,10366,2024-08-28,Books,4.0,302.35,1209.4,Europe,Unknown,Wednesday,2024-08,2024Q3,Summer,0,240,Medium,Small bulk,Premium,Premium Customers
+366,10367,2024-07-29,Home Appliances,4.0,1.0,4.0,Europe,Credit Card,Monday,2024-07,2024Q3,Summer,0,210,Low,Small bulk,Budget,Budget Shoppers
+367,10368,2024-01-19,Sports,1.0,525.44,525.44,North America,Credit Card,Friday,2024-01,2024Q1,Winter,0,18,Medium,Single item,Standard,Standard Customers
+368,10369,2025-03-18,Home Appliances,1.0,58.84,58.84,North America,Credit Card,Tuesday,2025-03,2025Q1,Spring,0,442,Medium,Single item,Budget,Budget Shoppers
+369,10370,2024-04-06,Sports,2.0,1.0,2.0,Europe,Cryptocurrency,Saturday,2024-04,2024Q2,Spring,1,96,Low,Small bulk,Budget,Budget Shoppers
+370,10371,2024-04-14,Electronics,2.0,318.13,636.26,Asia,Debit Card,Sunday,2024-04,2024Q2,Spring,1,104,Medium,Small bulk,Standard,Standard Customers
+371,10372,2024-03-03,Home Appliances,2.0,1.0,2.0,Asia,PayPal,Sunday,2024-03,2024Q1,Spring,1,62,Low,Small bulk,Budget,Budget Shoppers
+372,10373,2024-01-08,Books,3.0000000000000004,973.53,2920.59,North America,Credit Card,Monday,2024-01,2024Q1,Winter,0,7,High,Small bulk,Premium,Premium Customers
+373,10374,2024-11-27,Clothing,1.0,1.0,1.0,North America,PayPal,Wednesday,2024-11,2024Q4,Fall,0,331,Low,Single item,Budget,Budget Shoppers
+374,10375,2024-09-04,Home Appliances,2.0,1.0,2.0,Europe,PayPal,Wednesday,2024-09,2024Q3,Fall,0,247,Low,Small bulk,Budget,Budget Shoppers
+375,10376,2024-09-17,Electronics,445.0,469.57,208958.65,Europe,Unknown,Tuesday,2024-09,2024Q3,Fall,0,260,Medium,Large bulk,Premium,Bulk Buyers
+376,10377,2025-04-23,Electronics,421.0,96.08,40449.68,Asia,PayPal,Wednesday,2025-04,2025Q2,Spring,0,478,Medium,Large bulk,Premium,Bulk Buyers
+377,10378,2024-12-03,Books,3.0,1.0,3.0,Europe,Debit Card,Tuesday,2024-12,2024Q4,Winter,0,337,Low,Small bulk,Budget,Budget Shoppers
+378,10379,2025-01-25,Beauty Products,1.0,309.29,309.29,North America,Credit Card,Saturday,2025-01,2025Q1,Winter,1,390,Medium,Single item,Standard,Standard Customers
+379,10380,2024-05-02,Beauty Products,2.0,737.9,1475.8,North America,Debit Card,Thursday,2024-05,2024Q2,Spring,0,122,High,Small bulk,Premium,Premium Customers
+380,10381,2024-08-30,Home Appliances,2.0,99.63,199.26,Asia,PayPal,Friday,2024-08,2024Q3,Summer,0,242,Medium,Small bulk,Standard,Standard Customers
+381,10382,2024-03-18,Books,1.0,445.02,445.02,Europe,Debit Card,Monday,2024-03,2024Q1,Spring,0,77,Medium,Single item,Standard,Standard Customers
+382,10383,2024-02-21,Clothing,1.0,1.0,1.0,North America,PayPal,Wednesday,2024-02,2024Q1,Winter,0,51,Low,Single item,Budget,Budget Shoppers
+383,10384,2024-07-28,Books,1.0,211.32,211.32,Europe,PayPal,Sunday,2024-07,2024Q3,Summer,1,209,Medium,Single item,Standard,Standard Customers
+384,10385,2024-12-20,Sports,1.0,1.0,1.0,Asia,PayPal,Friday,2024-12,2024Q4,Winter,0,354,Low,Single item,Budget,Budget Shoppers
+385,10386,2024-07-13,Clothing,2.0,334.48,668.96,Europe,PayPal,Saturday,2024-07,2024Q3,Summer,1,194,Medium,Small bulk,Standard,Standard Customers
+386,10387,2024-12-16,Sports,100.0,105.33,10533.0,Asia,Unknown,Monday,2024-12,2024Q4,Winter,0,350,Medium,Large bulk,Premium,Bulk Buyers
+387,10388,2024-02-21,Home Appliances,3.0,4184.57,12553.71,North America,PayPal,Wednesday,2024-02,2024Q1,Winter,0,51,High,Small bulk,Premium,Premium Customers
+388,10389,2024-05-30,Beauty Products,1.0,87.15,87.15,Asia,Credit Card,Thursday,2024-05,2024Q2,Spring,0,150,Medium,Single item,Budget,Budget Shoppers
+389,10390,2025-02-09,Sports,495.0,639.75,316676.25,North America,Credit Card,Sunday,2025-02,2025Q1,Winter,1,405,Medium,Large bulk,Premium,Bulk Buyers
+390,10391,2024-09-11,Beauty Products,1.0,1.0,1.0,Asia,PayPal,Wednesday,2024-09,2024Q3,Fall,0,254,Low,Single item,Budget,Budget Shoppers
+391,10392,2024-01-05,Books,2.0,876.9,1753.8,North America,Credit Card,Friday,2024-01,2024Q1,Winter,0,4,High,Small bulk,Premium,Premium Customers
+392,10393,2024-06-25,Home Appliances,2.0,595.23,1190.46,Europe,PayPal,Tuesday,2024-06,2024Q2,Summer,0,176,Medium,Small bulk,Premium,Premium Customers
+393,10394,2024-06-03,Sports,2.0,1.0,2.0,Europe,PayPal,Monday,2024-06,2024Q2,Summer,0,154,Low,Small bulk,Budget,Budget Shoppers
+394,10395,2024-07-02,Electronics,474.0,1119.94,530851.56,Asia,PayPal,Tuesday,2024-07,2024Q3,Summer,0,183,High,Large bulk,Premium,Bulk Buyers
+395,10396,2024-10-16,Electronics,2.0,1162.82,2325.64,Europe,PayPal,Wednesday,2024-10,2024Q4,Fall,0,289,High,Small bulk,Premium,Premium Customers
+396,10397,2025-02-01,Sports,3.0,244.93,734.79,North America,Cryptocurrency,Saturday,2025-02,2025Q1,Winter,1,397,Medium,Small bulk,Standard,Standard Customers
+397,10398,2025-01-04,Sports,371.0,619.1,229686.1,North America,Debit Card,Saturday,2025-01,2025Q1,Winter,1,369,Medium,Large bulk,Premium,Bulk Buyers
+398,10399,2024-08-13,Sports,5.0,508.68,2543.4,Europe,Credit Card,Tuesday,2024-08,2024Q3,Summer,0,225,Medium,Small bulk,Premium,Premium Customers
+399,10400,2025-01-17,Clothing,1.0,1.0,1.0,Europe,Debit Card,Friday,2025-01,2025Q1,Winter,0,382,Low,Single item,Budget,Budget Shoppers
+400,10401,2024-09-28,Clothing,3.0,1.0,3.0,Europe,Credit Card,Saturday,2024-09,2024Q3,Fall,1,271,Low,Small bulk,Budget,Budget Shoppers
+401,10402,2024-09-03,Clothing,1.0,72.0,72.0,Europe,Credit Card,Tuesday,2024-09,2024Q3,Fall,0,246,Medium,Single item,Budget,Budget Shoppers
+402,10403,2024-02-08,Sports,3.0,1.0,3.0,Europe,Credit Card,Thursday,2024-02,2024Q1,Winter,0,38,Low,Small bulk,Budget,Budget Shoppers
+403,10404,2025-03-09,Books,1.0,3146.29,3146.29,North America,Cryptocurrency,Sunday,2025-03,2025Q1,Spring,1,433,High,Single item,Premium,Premium Customers
+404,10405,2024-08-20,Books,1.0,1.0,1.0,Asia,Unknown,Tuesday,2024-08,2024Q3,Summer,0,232,Low,Single item,Budget,Budget Shoppers
+405,10406,2024-02-25,Sports,337.0,347.79,117205.23,North America,Credit Card,Sunday,2024-02,2024Q1,Winter,1,55,Medium,Large bulk,Premium,Bulk Buyers
+406,10407,2024-11-27,Electronics,5.0,1.0,5.0,North America,Mobile Payment,Wednesday,2024-11,2024Q4,Fall,0,331,Low,Small bulk,Budget,Budget Shoppers
+407,10408,2024-03-12,Clothing,1.0,943.63,943.63,Europe,PayPal,Tuesday,2024-03,2024Q1,Spring,0,71,High,Single item,Premium,Premium Customers
+408,10409,2024-03-10,Electronics,3.0,479.07,1437.21,Asia,Unknown,Sunday,2024-03,2024Q1,Spring,1,69,Medium,Small bulk,Premium,Premium Customers
+409,10410,2024-08-02,Home Appliances,1.0,1.0,1.0,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,214,Low,Single item,Budget,Budget Shoppers
+410,10411,2024-11-11,Beauty Products,239.0,988.9,236347.1,Europe,Unknown,Monday,2024-11,2024Q4,Fall,0,315,High,Large bulk,Premium,Bulk Buyers
+411,10412,2024-04-30,Home Appliances,3.0,1.0,3.0,North America,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,120,Low,Small bulk,Budget,Budget Shoppers
+412,10413,2024-02-01,Beauty Products,2.0,1.0,2.0,North America,Credit Card,Thursday,2024-02,2024Q1,Winter,0,31,Low,Small bulk,Budget,Budget Shoppers
+413,10414,2024-02-16,Home Appliances,3.0,427.18,1281.54,Asia,Credit Card,Friday,2024-02,2024Q1,Winter,0,46,Medium,Small bulk,Premium,Premium Customers
+414,10415,2024-03-05,Beauty Products,1.0,1.0,1.0,Asia,Credit Card,Tuesday,2024-03,2024Q1,Spring,0,64,Low,Single item,Budget,Budget Shoppers
+415,10416,2025-02-20,Electronics,2.0,929.2,1858.4,Europe,Debit Card,Thursday,2025-02,2025Q1,Winter,0,416,High,Small bulk,Premium,Premium Customers
+416,10417,2024-03-15,Beauty Products,1.0,507.43,507.43,Europe,Unknown,Friday,2024-03,2024Q1,Spring,0,74,Medium,Single item,Standard,Standard Customers
+417,10418,2025-02-08,Clothing,1.0,449.37,449.37,Europe,Credit Card,Saturday,2025-02,2025Q1,Winter,1,404,Medium,Single item,Standard,Standard Customers
+418,10419,2024-09-26,Books,1.0,1.0,1.0,Asia,PayPal,Thursday,2024-09,2024Q3,Fall,0,269,Low,Single item,Budget,Budget Shoppers
+419,10420,2024-02-25,Electronics,2.0,4132.91,8265.82,Asia,Debit Card,Sunday,2024-02,2024Q1,Winter,1,55,High,Small bulk,Premium,Premium Customers
+420,10421,2025-03-19,Clothing,2.9999999999999996,739.49,2218.47,North America,Credit Card,Wednesday,2025-03,2025Q1,Spring,0,443,High,Small bulk,Premium,Premium Customers
+421,10422,2024-07-24,Books,1.0,540.4,540.4,North America,Unknown,Wednesday,2024-07,2024Q3,Summer,0,205,Medium,Single item,Standard,Standard Customers
+422,10423,2024-11-07,Sports,3.0,1.0,3.0,North America,Credit Card,Thursday,2024-11,2024Q4,Fall,0,311,Low,Small bulk,Budget,Budget Shoppers
+423,10424,2024-06-15,Sports,2.0,367.78,735.56,North America,PayPal,Saturday,2024-06,2024Q2,Summer,1,166,Medium,Small bulk,Standard,Standard Customers
+424,10425,2024-02-20,Books,1.0,1.0,1.0,North America,Unknown,Tuesday,2024-02,2024Q1,Winter,0,50,Low,Single item,Budget,Budget Shoppers
+425,10426,2025-03-19,Sports,2.0,393.63,787.26,Europe,Unknown,Wednesday,2025-03,2025Q1,Spring,0,443,Medium,Small bulk,Standard,Standard Customers
+426,10427,2024-07-23,Home Appliances,3.0,168.5,505.5,Europe,PayPal,Tuesday,2024-07,2024Q3,Summer,0,204,Medium,Small bulk,Standard,Standard Customers
+427,10428,2024-03-19,Electronics,475.0,700.98,332965.5,North America,PayPal,Tuesday,2024-03,2024Q1,Spring,0,78,High,Large bulk,Premium,Bulk Buyers
+428,10429,2025-01-16,Electronics,337.0,1.0,337.0,Europe,Credit Card,Thursday,2025-01,2025Q1,Winter,0,381,Low,Large bulk,Standard,Bulk Buyers
+429,10430,2024-07-29,Clothing,2.0,1.0,2.0,Europe,PayPal,Monday,2024-07,2024Q3,Summer,0,210,Low,Small bulk,Budget,Budget Shoppers
+430,10431,2024-11-03,Books,3.0,111.85,335.55,North America,Credit Card,Sunday,2024-11,2024Q4,Fall,1,307,Medium,Small bulk,Standard,Standard Customers
+431,10432,2024-04-24,Home Appliances,2.0,1.0,2.0,Europe,PayPal,Wednesday,2024-04,2024Q2,Spring,0,114,Low,Small bulk,Budget,Budget Shoppers
+432,10433,2024-04-25,Clothing,2.0,37.88,75.76,North America,PayPal,Thursday,2024-04,2024Q2,Spring,0,115,Medium,Small bulk,Budget,Budget Shoppers
+433,10434,2024-04-02,Clothing,2.0,1.0,2.0,North America,Debit Card,Tuesday,2024-04,2024Q2,Spring,0,92,Low,Small bulk,Budget,Budget Shoppers
+434,10435,2024-03-14,Beauty Products,429.0,873.06,374542.74,Asia,Credit Card,Thursday,2024-03,2024Q1,Spring,0,73,High,Large bulk,Premium,Bulk Buyers
+435,10436,2024-04-20,Books,4.0,1.0,4.0,Asia,Unknown,Saturday,2024-04,2024Q2,Spring,1,110,Low,Small bulk,Budget,Budget Shoppers
+436,10437,2025-02-01,Sports,1.0,540.79,540.79,Europe,Credit Card,Saturday,2025-02,2025Q1,Winter,1,397,Medium,Single item,Standard,Standard Customers
+437,10438,2024-08-14,Books,2.0,333.13,666.26,Asia,Unknown,Wednesday,2024-08,2024Q3,Summer,0,226,Medium,Small bulk,Standard,Standard Customers
+438,10439,2024-09-19,Beauty Products,1.0,508.21,508.21,Europe,Credit Card,Thursday,2024-09,2024Q3,Fall,0,262,Medium,Single item,Standard,Standard Customers
+439,10440,2024-09-26,Sports,2.0,602.21,1204.42,North America,PayPal,Thursday,2024-09,2024Q3,Fall,0,269,Medium,Small bulk,Premium,Premium Customers
+440,10441,2024-04-18,Sports,2.0,3988.06,7976.12,North America,Unknown,Thursday,2024-04,2024Q2,Spring,0,108,High,Small bulk,Premium,Premium Customers
+441,10442,2024-03-30,Home Appliances,2.0,529.06,1058.12,Asia,Debit Card,Saturday,2024-03,2024Q1,Spring,1,89,Medium,Small bulk,Premium,Premium Customers
+442,10443,2025-02-16,Home Appliances,1.0,1074.97,1074.97,North America,Credit Card,Sunday,2025-02,2025Q1,Winter,1,412,High,Single item,Premium,Premium Customers
+443,10444,2025-04-16,Beauty Products,2.0,775.68,1551.36,North America,Credit Card,Wednesday,2025-04,2025Q2,Spring,0,471,High,Small bulk,Premium,Premium Customers
+444,10445,2024-08-01,Books,216.0,1.0,216.0,Asia,Credit Card,Thursday,2024-08,2024Q3,Summer,0,213,Low,Large bulk,Standard,Bulk Buyers
+445,10446,2024-08-23,Books,2.0,452.97,905.94,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,235,Medium,Small bulk,Premium,Premium Customers
+446,10447,2024-07-24,Sports,3.0,303.87,911.61,Asia,Cryptocurrency,Wednesday,2024-07,2024Q3,Summer,0,205,Medium,Small bulk,Premium,Premium Customers
+447,10448,2025-02-02,Clothing,1.0,794.36,794.36,Europe,PayPal,Sunday,2025-02,2025Q1,Winter,1,398,High,Single item,Standard,Standard Customers
+448,10449,2025-02-01,Sports,1.0,1.0,1.0,Asia,Credit Card,Saturday,2025-02,2025Q1,Winter,1,397,Low,Single item,Budget,Budget Shoppers
+449,10450,2024-11-04,Electronics,1.0,1.0,1.0,North America,Credit Card,Monday,2024-11,2024Q4,Fall,0,308,Low,Single item,Budget,Budget Shoppers
+450,10451,2025-01-21,Electronics,1.0,1.0,1.0,Asia,Credit Card,Tuesday,2025-01,2025Q1,Winter,0,386,Low,Single item,Budget,Budget Shoppers
+451,10452,2024-11-21,Sports,3.0,191.78,575.34,Asia,Unknown,Thursday,2024-11,2024Q4,Fall,0,325,Medium,Small bulk,Standard,Standard Customers
+452,10453,2024-08-28,Books,3.0,767.1,2301.3,Europe,Unknown,Wednesday,2024-08,2024Q3,Summer,0,240,High,Small bulk,Premium,Premium Customers
+453,10454,2024-02-07,Home Appliances,238.0,932.13,221846.94,North America,Credit Card,Wednesday,2024-02,2024Q1,Winter,0,37,High,Large bulk,Premium,Bulk Buyers
+454,10455,2025-03-13,Beauty Products,1.0,164.2,164.2,Asia,Debit Card,Thursday,2025-03,2025Q1,Spring,0,437,Medium,Single item,Standard,Standard Customers
+455,10456,2025-02-09,Sports,4.0,38.57,154.28,Asia,Credit Card,Sunday,2025-02,2025Q1,Winter,1,405,Medium,Small bulk,Standard,Standard Customers
+456,10457,2024-11-05,Beauty Products,1.0,1.0,1.0,Europe,PayPal,Tuesday,2024-11,2024Q4,Fall,0,309,Low,Single item,Budget,Budget Shoppers
+457,10458,2025-03-04,Books,1.0,1.0,1.0,Asia,Gift Card,Tuesday,2025-03,2025Q1,Spring,0,428,Low,Single item,Budget,Budget Shoppers
+458,10459,2024-08-12,Sports,2.0,749.03,1498.06,Europe,Unknown,Monday,2024-08,2024Q3,Summer,0,224,High,Small bulk,Premium,Premium Customers
+459,10460,2024-06-22,Clothing,1.0,547.25,547.25,Asia,PayPal,Saturday,2024-06,2024Q2,Summer,1,173,Medium,Single item,Standard,Standard Customers
+460,10461,2024-12-13,Electronics,1.0,652.96,652.96,North America,Debit Card,Friday,2024-12,2024Q4,Winter,0,347,High,Single item,Standard,Standard Customers
+461,10462,2025-03-23,Clothing,1.0,1274.3,1274.3,Asia,Credit Card,Sunday,2025-03,2025Q1,Spring,1,447,High,Single item,Premium,Premium Customers
+462,10463,2024-12-01,Beauty Products,1.0,779.46,779.46,Europe,Credit Card,Sunday,2024-12,2024Q4,Winter,1,335,High,Single item,Standard,Standard Customers
+463,10464,2024-11-25,Sports,2.0,759.8,1519.6,Asia,Unknown,Monday,2024-11,2024Q4,Fall,0,329,High,Small bulk,Premium,Premium Customers
+464,10465,2025-04-12,Beauty Products,2.0,2235.46,4470.92,Asia,PayPal,Saturday,2025-04,2025Q2,Spring,1,467,High,Small bulk,Premium,Premium Customers
+465,10466,2024-04-19,Beauty Products,3.0,164.63,493.89,Europe,PayPal,Friday,2024-04,2024Q2,Spring,0,109,Medium,Small bulk,Standard,Standard Customers
+466,10467,2024-05-31,Electronics,2.0,534.21,1068.42,Europe,Credit Card,Friday,2024-05,2024Q2,Spring,0,151,Medium,Small bulk,Premium,Premium Customers
+467,10468,2024-01-20,Home Appliances,2.0,318.46,636.92,Europe,Unknown,Saturday,2024-01,2024Q1,Winter,1,19,Medium,Small bulk,Standard,Standard Customers
+468,10469,2024-12-20,Books,2.0,713.0,1426.0,North America,PayPal,Friday,2024-12,2024Q4,Winter,0,354,High,Small bulk,Premium,Premium Customers
+469,10470,2024-05-01,Books,2.0,29.99,59.98,Europe,Debit Card,Wednesday,2024-05,2024Q2,Spring,0,121,Medium,Small bulk,Budget,Budget Shoppers
+470,10471,2024-06-07,Electronics,2.0,429.98,859.96,North America,Credit Card,Friday,2024-06,2024Q2,Summer,0,158,Medium,Small bulk,Premium,Premium Customers
+471,10472,2024-08-13,Beauty Products,2.0,293.5,587.0,Europe,PayPal,Tuesday,2024-08,2024Q3,Summer,0,225,Medium,Small bulk,Standard,Standard Customers
+472,10473,2024-03-23,Electronics,1.0,512.24,512.24,North America,Credit Card,Saturday,2024-03,2024Q1,Spring,1,82,Medium,Single item,Standard,Standard Customers
+473,10474,2024-10-10,Home Appliances,132.0,10.59,1397.88,Europe,Mobile Payment,Thursday,2024-10,2024Q4,Fall,0,283,Low,Large bulk,Premium,Bulk Buyers
+474,10475,2024-03-16,Beauty Products,1.0,61.83,61.83,Asia,Credit Card,Saturday,2024-03,2024Q1,Spring,1,75,Medium,Single item,Budget,Budget Shoppers
+475,10476,2024-07-31,Clothing,2.0,612.27,1224.54,Asia,Credit Card,Wednesday,2024-07,2024Q3,Summer,0,212,Medium,Small bulk,Premium,Premium Customers
+476,10477,2024-06-12,Electronics,1.0,4669.58,4669.58,Asia,PayPal,Wednesday,2024-06,2024Q2,Summer,0,163,High,Single item,Premium,Premium Customers
+477,10478,2024-08-29,Home Appliances,3.0,193.8,581.4,Europe,Unknown,Thursday,2024-08,2024Q3,Summer,0,241,Medium,Small bulk,Standard,Standard Customers
+478,10479,2025-04-08,Clothing,3.0,100.41,301.23,North America,Credit Card,Tuesday,2025-04,2025Q2,Spring,0,463,Medium,Small bulk,Standard,Standard Customers
+479,10480,2024-11-07,Electronics,1.0,619.22,619.22,Asia,PayPal,Thursday,2024-11,2024Q4,Fall,0,311,Medium,Single item,Standard,Standard Customers
+480,10481,2024-11-23,Sports,4.0,399.48,1597.92,Asia,Mobile Payment,Saturday,2024-11,2024Q4,Fall,1,327,Medium,Small bulk,Premium,Premium Customers
+481,10482,2024-01-09,Sports,1.0,559.69,559.69,North America,Credit Card,Tuesday,2024-01,2024Q1,Winter,0,8,Medium,Single item,Standard,Standard Customers
+482,10483,2024-11-10,Sports,3.0,987.33,2961.99,Europe,Debit Card,Sunday,2024-11,2024Q4,Fall,1,314,High,Small bulk,Premium,Premium Customers
+483,10484,2024-02-04,Clothing,1.0,2547.53,2547.53,North America,PayPal,Sunday,2024-02,2024Q1,Winter,1,34,High,Single item,Premium,Premium Customers
+484,10485,2024-07-10,Electronics,4.0,1.0,4.0,Asia,Credit Card,Wednesday,2024-07,2024Q3,Summer,0,191,Low,Small bulk,Budget,Budget Shoppers
+485,10486,2024-12-02,Clothing,2.0,773.01,1546.02,North America,Credit Card,Monday,2024-12,2024Q4,Winter,0,336,High,Small bulk,Premium,Premium Customers
+486,10487,2025-02-20,Clothing,5.0,1.0,5.0,North America,PayPal,Thursday,2025-02,2025Q1,Winter,0,416,Low,Small bulk,Budget,Budget Shoppers
+487,10488,2024-03-10,Sports,153.0,1797.88,275075.64,Asia,Unknown,Sunday,2024-03,2024Q1,Spring,1,69,High,Large bulk,Premium,Bulk Buyers
+488,10489,2024-01-22,Clothing,1.0,15.93,15.93,Asia,Credit Card,Monday,2024-01,2024Q1,Winter,0,21,Low,Single item,Budget,Budget Shoppers
+489,10490,2024-05-09,Clothing,4.0,827.87,3311.48,Europe,Credit Card,Thursday,2024-05,2024Q2,Spring,0,129,High,Small bulk,Premium,Premium Customers
+490,10491,2024-05-19,Home Appliances,3.0,1.0,3.0,Europe,Credit Card,Sunday,2024-05,2024Q2,Spring,1,139,Low,Small bulk,Budget,Budget Shoppers
+491,10492,2024-07-16,Electronics,2.0,1.0,2.0,Europe,PayPal,Tuesday,2024-07,2024Q3,Summer,0,197,Low,Small bulk,Budget,Budget Shoppers
+492,10493,2024-09-22,Beauty Products,1.0,24.48,24.48,North America,PayPal,Sunday,2024-09,2024Q3,Fall,1,265,Low,Single item,Budget,Budget Shoppers
+493,10494,2025-02-25,Beauty Products,1.0,262.0,262.0,Asia,Debit Card,Tuesday,2025-02,2025Q1,Winter,0,421,Medium,Single item,Standard,Standard Customers
+494,10495,2024-06-05,Beauty Products,1.0,1.0,1.0,Asia,Credit Card,Wednesday,2024-06,2024Q2,Summer,0,156,Low,Single item,Budget,Budget Shoppers
+495,10496,2025-01-07,Sports,3.0,849.43,2548.29,Europe,PayPal,Tuesday,2025-01,2025Q1,Winter,0,372,High,Small bulk,Premium,Premium Customers
+496,10497,2024-01-30,Books,2.0,1.0,2.0,North America,Credit Card,Tuesday,2024-01,2024Q1,Winter,0,29,Low,Small bulk,Budget,Budget Shoppers
+497,10498,2024-01-16,Electronics,2.0,618.0,1236.0,Asia,Unknown,Tuesday,2024-01,2024Q1,Winter,0,15,Medium,Small bulk,Premium,Premium Customers
+498,10499,2024-11-26,Sports,1.0,1613.75,1613.75,Asia,PayPal,Tuesday,2024-11,2024Q4,Fall,0,330,High,Single item,Premium,Premium Customers
+499,10500,2024-08-18,Clothing,1.0,931.0,931.0,North America,Cryptocurrency,Sunday,2024-08,2024Q3,Summer,1,230,High,Single item,Premium,Premium Customers
+500,10501,2024-07-22,Sports,2.0,1.0,2.0,Asia,Credit Card,Monday,2024-07,2024Q3,Summer,0,203,Low,Small bulk,Budget,Budget Shoppers
+501,10502,2024-09-12,Electronics,2.0,244.06,488.12,Asia,PayPal,Thursday,2024-09,2024Q3,Fall,0,255,Medium,Small bulk,Standard,Standard Customers
+502,10503,2024-04-19,Beauty Products,1.0,926.41,926.41,Europe,Credit Card,Friday,2024-04,2024Q2,Spring,0,109,High,Single item,Premium,Premium Customers
+503,10504,2024-08-19,Clothing,2.0,638.79,1277.58,Europe,Unknown,Monday,2024-08,2024Q3,Summer,0,231,Medium,Small bulk,Premium,Premium Customers
+504,10505,2024-06-12,Clothing,1.0,1.0,1.0,Europe,Debit Card,Wednesday,2024-06,2024Q2,Summer,0,163,Low,Single item,Budget,Budget Shoppers
+505,10506,2024-03-21,Home Appliances,4.0,829.07,3316.28,Asia,Credit Card,Thursday,2024-03,2024Q1,Spring,0,80,High,Small bulk,Premium,Premium Customers
+506,10507,2025-02-09,Beauty Products,333.0,375.45,125024.85,Europe,Credit Card,Sunday,2025-02,2025Q1,Winter,1,405,Medium,Large bulk,Premium,Bulk Buyers
+507,10508,2024-10-09,Sports,253.0,158.5,40100.5,Europe,PayPal,Wednesday,2024-10,2024Q4,Fall,0,282,Medium,Large bulk,Premium,Bulk Buyers
+508,10509,2024-09-26,Clothing,1.0,326.21,326.21,North America,Bank Transfer,Thursday,2024-09,2024Q3,Fall,0,269,Medium,Single item,Standard,Standard Customers
+509,10510,2024-11-24,Home Appliances,1.0,734.91,734.91,Asia,Unknown,Sunday,2024-11,2024Q4,Fall,1,328,High,Single item,Standard,Standard Customers
+510,10511,2025-02-03,Sports,1.0,166.7,166.7,North America,Credit Card,Monday,2025-02,2025Q1,Winter,0,399,Medium,Single item,Standard,Standard Customers
+511,10512,2025-04-11,Books,3.0,1.0,3.0,Europe,Credit Card,Friday,2025-04,2025Q2,Spring,0,466,Low,Small bulk,Budget,Budget Shoppers
+512,10513,2024-12-29,Books,1.0,294.52,294.52,North America,Credit Card,Sunday,2024-12,2024Q4,Winter,1,363,Medium,Single item,Standard,Standard Customers
+513,10514,2024-11-21,Beauty Products,1.0,820.49,820.49,Asia,Debit Card,Thursday,2024-11,2024Q4,Fall,0,325,High,Single item,Standard,Standard Customers
+514,10515,2024-10-30,Books,4.0,1.0,4.0,North America,Credit Card,Wednesday,2024-10,2024Q4,Fall,0,303,Low,Small bulk,Budget,Budget Shoppers
+515,10516,2025-03-07,Electronics,2.0,667.07,1334.14,North America,Credit Card,Friday,2025-03,2025Q1,Spring,0,431,High,Small bulk,Premium,Premium Customers
+516,10517,2025-01-29,Clothing,2.0,107.52,215.04,Europe,Credit Card,Wednesday,2025-01,2025Q1,Winter,0,394,Medium,Small bulk,Standard,Standard Customers
+517,10518,2024-09-11,Electronics,2.0,748.11,1496.22,Europe,PayPal,Wednesday,2024-09,2024Q3,Fall,0,254,High,Small bulk,Premium,Premium Customers
+518,10519,2024-12-16,Clothing,80.0,337.91,27032.8,Asia,Unknown,Monday,2024-12,2024Q4,Winter,0,350,Medium,Large bulk,Premium,Bulk Buyers
+519,10520,2024-08-25,Electronics,3.0,1.0,3.0,North America,PayPal,Sunday,2024-08,2024Q3,Summer,1,237,Low,Small bulk,Budget,Budget Shoppers
+520,10521,2025-03-16,Sports,2.0,4.23,8.46,Europe,Debit Card,Sunday,2025-03,2025Q1,Spring,1,440,Low,Small bulk,Budget,Budget Shoppers
+521,10522,2024-06-12,Home Appliances,3.0,645.11,1935.33,Asia,PayPal,Wednesday,2024-06,2024Q2,Summer,0,163,High,Small bulk,Premium,Premium Customers
+522,10523,2024-07-15,Clothing,2.0,602.66,1205.32,Europe,Credit Card,Monday,2024-07,2024Q3,Summer,0,196,Medium,Small bulk,Premium,Premium Customers
+523,10524,2025-04-23,Sports,2.0,758.44,1516.88,North America,PayPal,Wednesday,2025-04,2025Q2,Spring,0,478,High,Small bulk,Premium,Premium Customers
+524,10525,2024-08-27,Clothing,3.0,1.0,3.0,North America,Cryptocurrency,Tuesday,2024-08,2024Q3,Summer,0,239,Low,Small bulk,Budget,Budget Shoppers
+525,10526,2024-08-22,Electronics,2.0,327.05,654.1,North America,Mobile Payment,Thursday,2024-08,2024Q3,Summer,0,234,Medium,Small bulk,Standard,Standard Customers
+526,10527,2025-03-27,Books,2.0,313.3,626.6,Europe,Unknown,Thursday,2025-03,2025Q1,Spring,0,451,Medium,Small bulk,Standard,Standard Customers
+527,10528,2025-03-27,Beauty Products,2.0,492.95,985.9,Asia,Credit Card,Thursday,2025-03,2025Q1,Spring,0,451,Medium,Small bulk,Premium,Premium Customers
+528,10529,2024-10-18,Beauty Products,3.0,288.14,864.42,North America,Unknown,Friday,2024-10,2024Q4,Fall,0,291,Medium,Small bulk,Premium,Premium Customers
+529,10530,2025-01-26,Clothing,1.0,873.87,873.87,Europe,Credit Card,Sunday,2025-01,2025Q1,Winter,1,391,High,Single item,Premium,Premium Customers
+530,10531,2024-07-20,Home Appliances,1.0,801.23,801.23,Europe,Credit Card,Saturday,2024-07,2024Q3,Summer,1,201,High,Single item,Standard,Standard Customers
+531,10532,2024-07-24,Electronics,415.0,1059.75,439796.25,Europe,PayPal,Wednesday,2024-07,2024Q3,Summer,0,205,High,Large bulk,Premium,Bulk Buyers
+532,10533,2024-08-21,Clothing,3.0,214.51,643.53,Europe,Credit Card,Wednesday,2024-08,2024Q3,Summer,0,233,Medium,Small bulk,Standard,Standard Customers
+533,10534,2024-07-20,Clothing,3.0,1.0,3.0,Europe,PayPal,Saturday,2024-07,2024Q3,Summer,1,201,Low,Small bulk,Budget,Budget Shoppers
+534,10535,2024-12-28,Books,1.0,362.93,362.93,Asia,Gift Card,Saturday,2024-12,2024Q4,Winter,1,362,Medium,Single item,Standard,Standard Customers
+535,10536,2024-08-01,Electronics,2.0,680.51,1361.02,North America,Unknown,Thursday,2024-08,2024Q3,Summer,0,213,High,Small bulk,Premium,Premium Customers
+536,10537,2025-02-01,Electronics,2.0,273.47,546.94,North America,Unknown,Saturday,2025-02,2025Q1,Winter,1,397,Medium,Small bulk,Standard,Standard Customers
+537,10538,2024-11-18,Home Appliances,2.0,1.0,2.0,Asia,PayPal,Monday,2024-11,2024Q4,Fall,0,322,Low,Small bulk,Budget,Budget Shoppers
+538,10539,2024-12-24,Home Appliances,1.0,886.8,886.8,North America,Unknown,Tuesday,2024-12,2024Q4,Winter,0,358,High,Single item,Premium,Premium Customers
+539,10540,2024-04-14,Electronics,3.0,569.04,1707.12,North America,Unknown,Sunday,2024-04,2024Q2,Spring,1,104,Medium,Small bulk,Premium,Premium Customers
+540,10541,2024-04-16,Home Appliances,4.0,331.85,1327.4,North America,Unknown,Tuesday,2024-04,2024Q2,Spring,0,106,Medium,Small bulk,Premium,Premium Customers
+541,10542,2025-04-12,Home Appliances,2.0,473.66,947.32,Asia,PayPal,Saturday,2025-04,2025Q2,Spring,1,467,Medium,Small bulk,Premium,Premium Customers
+542,10543,2024-11-25,Electronics,2.0,414.38,828.76,Europe,Debit Card,Monday,2024-11,2024Q4,Fall,0,329,Medium,Small bulk,Standard,Standard Customers
+543,10544,2024-06-01,Sports,1.0,1.0,1.0,Europe,Credit Card,Saturday,2024-06,2024Q2,Summer,1,152,Low,Single item,Budget,Budget Shoppers
+544,10545,2024-09-07,Sports,1.0,606.35,606.35,North America,Unknown,Saturday,2024-09,2024Q3,Fall,1,250,Medium,Single item,Standard,Standard Customers
+545,10546,2024-05-27,Home Appliances,1.0,772.23,772.23,Asia,Credit Card,Monday,2024-05,2024Q2,Spring,0,147,High,Single item,Standard,Standard Customers
+546,10547,2025-01-30,Books,5.0,1.0,5.0,North America,Unknown,Thursday,2025-01,2025Q1,Winter,0,395,Low,Small bulk,Budget,Budget Shoppers
+547,10548,2024-08-14,Sports,1.0,227.92,227.92,North America,PayPal,Wednesday,2024-08,2024Q3,Summer,0,226,Medium,Single item,Standard,Standard Customers
+548,10549,2024-10-14,Books,1.0,185.9,185.9,Europe,PayPal,Monday,2024-10,2024Q4,Fall,0,287,Medium,Single item,Standard,Standard Customers
+549,10550,2024-01-26,Clothing,1.0,665.15,665.15,Europe,PayPal,Friday,2024-01,2024Q1,Winter,0,25,High,Single item,Standard,Standard Customers
+550,10551,2024-08-29,Beauty Products,331.0,940.31,311242.61,Asia,Unknown,Thursday,2024-08,2024Q3,Summer,0,241,High,Large bulk,Premium,Bulk Buyers
+551,10552,2024-11-30,Electronics,2.0,1053.9,2107.8,North America,Credit Card,Saturday,2024-11,2024Q4,Fall,1,334,High,Small bulk,Premium,Premium Customers
+552,10553,2024-05-26,Electronics,1.0,49.13,49.13,Europe,Credit Card,Sunday,2024-05,2024Q2,Spring,1,146,Medium,Single item,Budget,Budget Shoppers
+553,10554,2025-03-11,Books,2.0,1.0,2.0,Asia,PayPal,Tuesday,2025-03,2025Q1,Spring,0,435,Low,Small bulk,Budget,Budget Shoppers
+554,10555,2025-03-04,Books,1.0,1.0,1.0,North America,Cryptocurrency,Tuesday,2025-03,2025Q1,Spring,0,428,Low,Single item,Budget,Budget Shoppers
+555,10556,2024-05-28,Books,4.0,250.87,1003.48,Europe,Unknown,Tuesday,2024-05,2024Q2,Spring,0,148,Medium,Small bulk,Premium,Premium Customers
+556,10557,2024-05-25,Books,1.0,752.11,752.11,Europe,Credit Card,Saturday,2024-05,2024Q2,Spring,1,145,High,Single item,Standard,Standard Customers
+557,10558,2024-05-19,Clothing,2.0,1.0,2.0,Europe,Debit Card,Sunday,2024-05,2024Q2,Spring,1,139,Low,Small bulk,Budget,Budget Shoppers
+558,10559,2025-01-02,Sports,3.0,54.39,163.17,North America,Cryptocurrency,Thursday,2025-01,2025Q1,Winter,0,367,Medium,Small bulk,Standard,Standard Customers
+559,10560,2024-03-30,Sports,1.0,834.63,834.63,Europe,Debit Card,Saturday,2024-03,2024Q1,Spring,1,89,High,Single item,Premium,Premium Customers
+560,10561,2024-04-04,Books,1.0,2534.3,2534.3,Asia,Credit Card,Thursday,2024-04,2024Q2,Spring,0,94,High,Single item,Premium,Premium Customers
+561,10562,2024-08-16,Beauty Products,2.0,540.49,1080.98,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,228,Medium,Small bulk,Premium,Premium Customers
+562,10563,2024-07-03,Home Appliances,3.0,1.0,3.0,Asia,PayPal,Wednesday,2024-07,2024Q3,Summer,0,184,Low,Small bulk,Budget,Budget Shoppers
+563,10564,2024-12-17,Home Appliances,1.0,1.0,1.0,Europe,PayPal,Tuesday,2024-12,2024Q4,Winter,0,351,Low,Single item,Budget,Budget Shoppers
+564,10565,2024-07-07,Sports,1.0,391.6,391.6,Asia,Credit Card,Sunday,2024-07,2024Q3,Summer,1,188,Medium,Single item,Standard,Standard Customers
+565,10566,2024-11-06,Sports,2.0,318.82,637.64,Europe,Debit Card,Wednesday,2024-11,2024Q4,Fall,0,310,Medium,Small bulk,Standard,Standard Customers
+566,10567,2025-02-26,Sports,2.0,527.79,1055.58,North America,Credit Card,Wednesday,2025-02,2025Q1,Winter,0,422,Medium,Small bulk,Premium,Premium Customers
+567,10568,2024-09-26,Clothing,338.0,446.61,150954.18,North America,Unknown,Thursday,2024-09,2024Q3,Fall,0,269,Medium,Large bulk,Premium,Bulk Buyers
+568,10569,2025-04-07,Clothing,2.0,262.34,524.68,Asia,Unknown,Monday,2025-04,2025Q2,Spring,0,462,Medium,Small bulk,Standard,Standard Customers
+569,10570,2024-08-14,Sports,2.0,634.86,1269.72,Europe,PayPal,Wednesday,2024-08,2024Q3,Summer,0,226,Medium,Small bulk,Premium,Premium Customers
+570,10571,2024-08-16,Home Appliances,1.0,731.19,731.19,North America,Credit Card,Friday,2024-08,2024Q3,Summer,0,228,High,Single item,Standard,Standard Customers
+571,10572,2025-02-17,Electronics,2.0,378.92,757.84,Asia,Unknown,Monday,2025-02,2025Q1,Winter,0,413,Medium,Small bulk,Standard,Standard Customers
+572,10573,2024-10-23,Home Appliances,2.0,1.0,2.0,North America,PayPal,Wednesday,2024-10,2024Q4,Fall,0,296,Low,Small bulk,Budget,Budget Shoppers
+573,10574,2025-04-23,Home Appliances,2.0,820.76,1641.52,Europe,PayPal,Wednesday,2025-04,2025Q2,Spring,0,478,High,Small bulk,Premium,Premium Customers
+574,10575,2025-01-08,Electronics,1.0,327.69,327.69,Asia,Credit Card,Wednesday,2025-01,2025Q1,Winter,0,373,Medium,Single item,Standard,Standard Customers
+575,10576,2025-04-14,Beauty Products,1.0,106.5,106.5,Asia,Credit Card,Monday,2025-04,2025Q2,Spring,0,469,Medium,Single item,Budget,Budget Shoppers
+576,10577,2024-11-30,Books,1.0,989.36,989.36,Europe,PayPal,Saturday,2024-11,2024Q4,Fall,1,334,High,Single item,Premium,Premium Customers
+577,10578,2025-03-03,Clothing,3.0,1.0,3.0,Europe,Credit Card,Monday,2025-03,2025Q1,Spring,0,427,Low,Small bulk,Budget,Budget Shoppers
+578,10579,2024-08-05,Beauty Products,1.0,613.73,613.73,North America,Credit Card,Monday,2024-08,2024Q3,Summer,0,217,Medium,Single item,Standard,Standard Customers
+579,10580,2025-03-24,Clothing,3.0,1.0,3.0,Europe,Credit Card,Monday,2025-03,2025Q1,Spring,0,448,Low,Small bulk,Budget,Budget Shoppers
+580,10581,2025-03-28,Electronics,354.0,3391.14,1200463.56,North America,Unknown,Friday,2025-03,2025Q1,Spring,0,452,High,Large bulk,Premium,Bulk Buyers
+581,10582,2024-12-26,Beauty Products,274.0,404.65,110874.1,Asia,PayPal,Thursday,2024-12,2024Q4,Winter,0,360,Medium,Large bulk,Premium,Bulk Buyers
+582,10583,2025-03-18,Electronics,1.0,1239.49,1239.49,Asia,Credit Card,Tuesday,2025-03,2025Q1,Spring,0,442,High,Single item,Premium,Premium Customers
+583,10584,2024-10-21,Clothing,1.0,1.0,1.0,Asia,PayPal,Monday,2024-10,2024Q4,Fall,0,294,Low,Single item,Budget,Budget Shoppers
+584,10585,2025-03-24,Clothing,1.0,974.26,974.26,Asia,Debit Card,Monday,2025-03,2025Q1,Spring,0,448,High,Single item,Premium,Premium Customers
+585,10586,2025-03-26,Sports,1.0,672.21,672.21,Asia,Credit Card,Wednesday,2025-03,2025Q1,Spring,0,450,High,Single item,Standard,Standard Customers
+586,10587,2024-11-25,Beauty Products,1.0,688.23,688.23,Asia,Credit Card,Monday,2024-11,2024Q4,Fall,0,329,High,Single item,Standard,Standard Customers
+587,10588,2025-01-21,Sports,1.0,1210.12,1210.12,Europe,Unknown,Tuesday,2025-01,2025Q1,Winter,0,386,High,Single item,Premium,Premium Customers
+588,10589,2025-02-16,Books,1.0,1.0,1.0,Europe,Unknown,Sunday,2025-02,2025Q1,Winter,1,412,Low,Single item,Budget,Budget Shoppers
+589,10590,2024-03-09,Beauty Products,2.0,1101.04,2202.08,North America,Credit Card,Saturday,2024-03,2024Q1,Spring,1,68,High,Small bulk,Premium,Premium Customers
+590,10591,2025-03-09,Beauty Products,2.0,1.0,2.0,North America,Credit Card,Sunday,2025-03,2025Q1,Spring,1,433,Low,Small bulk,Budget,Budget Shoppers
+591,10592,2024-12-10,Beauty Products,3.0,1.0,3.0,North America,Credit Card,Tuesday,2024-12,2024Q4,Winter,0,344,Low,Small bulk,Budget,Budget Shoppers
+592,10593,2025-01-05,Books,2.0,1.0,2.0,North America,Credit Card,Sunday,2025-01,2025Q1,Winter,1,370,Low,Small bulk,Budget,Budget Shoppers
+593,10594,2025-04-10,Sports,3.0,711.42,2134.26,Europe,Unknown,Thursday,2025-04,2025Q2,Spring,0,465,High,Small bulk,Premium,Premium Customers
+594,10595,2024-09-02,Home Appliances,1.0,357.15,357.15,Asia,PayPal,Monday,2024-09,2024Q3,Fall,0,245,Medium,Single item,Standard,Standard Customers
+595,10596,2024-07-13,Books,1.0,1.0,1.0,Asia,PayPal,Saturday,2024-07,2024Q3,Summer,1,194,Low,Single item,Budget,Budget Shoppers
+596,10597,2024-08-26,Books,3.0,391.2,1173.6,Europe,Credit Card,Monday,2024-08,2024Q3,Summer,0,238,Medium,Small bulk,Premium,Premium Customers
+597,10598,2024-06-09,Clothing,2.0,776.66,1553.32,Asia,Credit Card,Sunday,2024-06,2024Q2,Summer,1,160,High,Small bulk,Premium,Premium Customers
+598,10599,2024-10-26,Clothing,1.0,1.0,1.0,Europe,Gift Card,Saturday,2024-10,2024Q4,Fall,1,299,Low,Single item,Budget,Budget Shoppers
+599,10600,2024-10-18,Home Appliances,1.0,117.52,117.52,Asia,PayPal,Friday,2024-10,2024Q4,Fall,0,291,Medium,Single item,Budget,Budget Shoppers
+600,10601,2025-02-24,Home Appliances,2.0,350.58,701.16,Asia,Debit Card,Monday,2025-02,2025Q1,Winter,0,420,Medium,Small bulk,Standard,Standard Customers
+601,10602,2024-03-12,Home Appliances,1.0,926.66,926.66,Asia,PayPal,Tuesday,2024-03,2024Q1,Spring,0,71,High,Single item,Premium,Premium Customers
+602,10603,2024-01-31,Beauty Products,1.0,452.36,452.36,North America,Cryptocurrency,Wednesday,2024-01,2024Q1,Winter,0,30,Medium,Single item,Standard,Standard Customers
+603,10604,2024-07-30,Sports,127.0,3022.93,383912.11,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,211,High,Large bulk,Premium,Bulk Buyers
+604,10605,2024-07-10,Electronics,3.0,3128.85,9386.55,North America,PayPal,Wednesday,2024-07,2024Q3,Summer,0,191,High,Small bulk,Premium,Premium Customers
+605,10606,2024-07-29,Sports,2.0,416.3,832.6,Europe,Unknown,Monday,2024-07,2024Q3,Summer,0,210,Medium,Small bulk,Standard,Standard Customers
+606,10607,2024-09-14,Home Appliances,4.0,1014.28,4057.12,Asia,PayPal,Saturday,2024-09,2024Q3,Fall,1,257,High,Small bulk,Premium,Premium Customers
+607,10608,2024-09-25,Beauty Products,2.0,176.94,353.88,North America,Credit Card,Wednesday,2024-09,2024Q3,Fall,0,268,Medium,Small bulk,Standard,Standard Customers
+608,10609,2025-02-11,Beauty Products,1.0,789.52,789.52,North America,PayPal,Tuesday,2025-02,2025Q1,Winter,0,407,High,Single item,Standard,Standard Customers
+609,10610,2024-12-22,Beauty Products,1.0,1.0,1.0,Europe,Mobile Payment,Sunday,2024-12,2024Q4,Winter,1,356,Low,Single item,Budget,Budget Shoppers
+610,10611,2024-02-17,Books,2.0,585.69,1171.38,North America,PayPal,Saturday,2024-02,2024Q1,Winter,1,47,Medium,Small bulk,Premium,Premium Customers
+611,10612,2024-09-12,Electronics,1.0,633.0,633.0,Asia,Credit Card,Thursday,2024-09,2024Q3,Fall,0,255,Medium,Single item,Standard,Standard Customers
+612,10613,2025-04-15,Home Appliances,1.0,1.0,1.0,Asia,Cryptocurrency,Tuesday,2025-04,2025Q2,Spring,0,470,Low,Single item,Budget,Budget Shoppers
+613,10614,2024-05-18,Clothing,4.0,17.49,69.96,Asia,PayPal,Saturday,2024-05,2024Q2,Spring,1,138,Low,Small bulk,Budget,Budget Shoppers
+614,10615,2024-12-02,Clothing,156.0,911.06,142125.36,North America,PayPal,Monday,2024-12,2024Q4,Winter,0,336,High,Large bulk,Premium,Bulk Buyers
+615,10616,2024-12-30,Clothing,1.0,1.0,1.0,Europe,Credit Card,Monday,2024-12,2024Q4,Winter,0,364,Low,Single item,Budget,Budget Shoppers
+616,10617,2024-07-18,Books,5.0,994.24,4971.2,Europe,Unknown,Thursday,2024-07,2024Q3,Summer,0,199,High,Small bulk,Premium,Premium Customers
+617,10618,2025-01-05,Books,273.0,802.58,219104.34,Asia,Unknown,Sunday,2025-01,2025Q1,Winter,1,370,High,Large bulk,Premium,Bulk Buyers
+618,10619,2024-11-10,Home Appliances,2.0,800.01,1600.02,North America,Credit Card,Sunday,2024-11,2024Q4,Fall,1,314,High,Small bulk,Premium,Premium Customers
+619,10620,2024-08-18,Clothing,3.0,599.37,1798.11,Asia,Unknown,Sunday,2024-08,2024Q3,Summer,1,230,Medium,Small bulk,Premium,Premium Customers
+620,10621,2024-10-26,Clothing,1.0,1.0,1.0,Europe,Credit Card,Saturday,2024-10,2024Q4,Fall,1,299,Low,Single item,Budget,Budget Shoppers
+621,10622,2024-02-07,Home Appliances,4.0,507.3,2029.2,Asia,Unknown,Wednesday,2024-02,2024Q1,Winter,0,37,Medium,Small bulk,Premium,Premium Customers
+622,10623,2024-07-18,Books,207.0,870.47,180187.29,Asia,Unknown,Thursday,2024-07,2024Q3,Summer,0,199,High,Large bulk,Premium,Bulk Buyers
+623,10624,2024-02-22,Clothing,1.0,29.27,29.27,Europe,PayPal,Thursday,2024-02,2024Q1,Winter,0,52,Medium,Single item,Budget,Budget Shoppers
+624,10625,2024-02-22,Home Appliances,3.0,1.0,3.0,North America,Credit Card,Thursday,2024-02,2024Q1,Winter,0,52,Low,Small bulk,Budget,Budget Shoppers
+625,10626,2025-03-18,Beauty Products,1.0,296.9,296.9,North America,Debit Card,Tuesday,2025-03,2025Q1,Spring,0,442,Medium,Single item,Standard,Standard Customers
+626,10627,2024-10-13,Home Appliances,1.0,680.0,680.0,Asia,Credit Card,Sunday,2024-10,2024Q4,Fall,1,286,High,Single item,Standard,Standard Customers
+627,10628,2024-05-17,Beauty Products,1.0,1.0,1.0,North America,Credit Card,Friday,2024-05,2024Q2,Spring,0,137,Low,Single item,Budget,Budget Shoppers
+628,10629,2024-06-02,Beauty Products,1.0,1.0,1.0,Asia,PayPal,Sunday,2024-06,2024Q2,Summer,1,153,Low,Single item,Budget,Budget Shoppers
+629,10630,2024-09-10,Electronics,1.0,697.85,697.85,Europe,Credit Card,Tuesday,2024-09,2024Q3,Fall,0,253,High,Single item,Standard,Standard Customers
+630,10631,2025-03-06,Beauty Products,2.0,288.58,577.16,North America,Credit Card,Thursday,2025-03,2025Q1,Spring,0,430,Medium,Small bulk,Standard,Standard Customers
+631,10632,2024-11-29,Home Appliances,1.0,1.0,1.0,Asia,Credit Card,Friday,2024-11,2024Q4,Fall,0,333,Low,Single item,Budget,Budget Shoppers
+632,10633,2024-06-09,Home Appliances,1.0,909.81,909.81,Asia,Unknown,Sunday,2024-06,2024Q2,Summer,1,160,High,Single item,Premium,Premium Customers
+633,10634,2024-09-08,Clothing,1.0,568.77,568.77,Europe,Debit Card,Sunday,2024-09,2024Q3,Fall,1,251,Medium,Single item,Standard,Standard Customers
+634,10635,2024-02-28,Electronics,2.0,392.1,784.2,Europe,Debit Card,Wednesday,2024-02,2024Q1,Winter,0,58,Medium,Small bulk,Standard,Standard Customers
+635,10636,2024-01-14,Electronics,1.0,127.39,127.39,North America,Cryptocurrency,Sunday,2024-01,2024Q1,Winter,1,13,Medium,Single item,Budget,Budget Shoppers
+636,10637,2024-02-05,Home Appliances,1.0,479.92,479.92,Europe,PayPal,Monday,2024-02,2024Q1,Winter,0,35,Medium,Single item,Standard,Standard Customers
+637,10638,2024-12-03,Sports,1.0,783.87,783.87,North America,Credit Card,Tuesday,2024-12,2024Q4,Winter,0,337,High,Single item,Standard,Standard Customers
+638,10639,2024-09-02,Home Appliances,2.0,43.33,86.66,Europe,PayPal,Monday,2024-09,2024Q3,Fall,0,245,Medium,Small bulk,Budget,Budget Shoppers
+639,10640,2024-10-05,Electronics,2.0,652.25,1304.5,North America,Unknown,Saturday,2024-10,2024Q4,Fall,1,278,High,Small bulk,Premium,Premium Customers
+640,10641,2025-04-13,Books,2.0,1.0,2.0,Europe,Credit Card,Sunday,2025-04,2025Q2,Spring,1,468,Low,Small bulk,Budget,Budget Shoppers
+641,10642,2024-01-23,Sports,2.0,671.87,1343.74,Europe,Unknown,Tuesday,2024-01,2024Q1,Winter,0,22,High,Small bulk,Premium,Premium Customers
+642,10643,2024-02-24,Books,1.0,102.6,102.6,Europe,Debit Card,Saturday,2024-02,2024Q1,Winter,1,54,Medium,Single item,Budget,Budget Shoppers
+643,10644,2024-12-18,Clothing,1.0,1.0,1.0,North America,Credit Card,Wednesday,2024-12,2024Q4,Winter,0,352,Low,Single item,Budget,Budget Shoppers
+644,10645,2024-12-19,Beauty Products,1.0,277.19,277.19,Asia,Debit Card,Thursday,2024-12,2024Q4,Winter,0,353,Medium,Single item,Standard,Standard Customers
+645,10646,2025-04-16,Sports,1.0,1.0,1.0,Asia,Mobile Payment,Wednesday,2025-04,2025Q2,Spring,0,471,Low,Single item,Budget,Budget Shoppers
+646,10647,2024-08-21,Electronics,2.0,38.58,77.16,Asia,PayPal,Wednesday,2024-08,2024Q3,Summer,0,233,Medium,Small bulk,Budget,Budget Shoppers
+647,10648,2024-06-12,Clothing,2.0,1.0,2.0,Asia,Credit Card,Wednesday,2024-06,2024Q2,Summer,0,163,Low,Small bulk,Budget,Budget Shoppers
+648,10649,2024-11-27,Beauty Products,1.0,322.56,322.56,Asia,PayPal,Wednesday,2024-11,2024Q4,Fall,0,331,Medium,Single item,Standard,Standard Customers
+649,10650,2024-10-09,Books,1.0,621.05,621.05,Asia,Unknown,Wednesday,2024-10,2024Q4,Fall,0,282,Medium,Single item,Standard,Standard Customers
+650,10651,2024-11-18,Electronics,3.0,636.47,1909.41,North America,Unknown,Monday,2024-11,2024Q4,Fall,0,322,Medium,Small bulk,Premium,Premium Customers
+651,10652,2024-08-18,Sports,159.0,139.91,22245.69,North America,Debit Card,Sunday,2024-08,2024Q3,Summer,1,230,Medium,Large bulk,Premium,Bulk Buyers
+652,10653,2025-02-18,Books,1.0,1.0,1.0,Europe,Unknown,Tuesday,2025-02,2025Q1,Winter,0,414,Low,Single item,Budget,Budget Shoppers
+653,10654,2024-08-22,Sports,1.0,294.08,294.08,Asia,Credit Card,Thursday,2024-08,2024Q3,Summer,0,234,Medium,Single item,Standard,Standard Customers
+654,10655,2024-11-08,Sports,4.0,776.99,3107.96,North America,Unknown,Friday,2024-11,2024Q4,Fall,0,312,High,Small bulk,Premium,Premium Customers
+655,10656,2025-02-20,Clothing,4.0,699.04,2796.16,Asia,Debit Card,Thursday,2025-02,2025Q1,Winter,0,416,High,Small bulk,Premium,Premium Customers
+656,10657,2024-06-09,Electronics,5.0,694.23,3471.15,Asia,Credit Card,Sunday,2024-06,2024Q2,Summer,1,160,High,Small bulk,Premium,Premium Customers
+657,10658,2024-11-01,Sports,2.0,849.51,1699.02,Asia,Credit Card,Friday,2024-11,2024Q4,Fall,0,305,High,Small bulk,Premium,Premium Customers
+658,10659,2025-04-15,Clothing,1.0,657.29,657.29,Europe,PayPal,Tuesday,2025-04,2025Q2,Spring,0,470,High,Single item,Standard,Standard Customers
+659,10660,2024-08-18,Beauty Products,3.0,1.0,3.0,Asia,Debit Card,Sunday,2024-08,2024Q3,Summer,1,230,Low,Small bulk,Budget,Budget Shoppers
+660,10661,2024-07-15,Electronics,1.0,111.83,111.83,Europe,Credit Card,Monday,2024-07,2024Q3,Summer,0,196,Medium,Single item,Budget,Budget Shoppers
+661,10662,2024-09-07,Beauty Products,439.0,612.42,268852.38,Europe,PayPal,Saturday,2024-09,2024Q3,Fall,1,250,Medium,Large bulk,Premium,Bulk Buyers
+662,10663,2024-05-27,Clothing,1.0,144.87,144.87,Asia,PayPal,Monday,2024-05,2024Q2,Spring,0,147,Medium,Single item,Budget,Budget Shoppers
+663,10664,2024-09-18,Electronics,3.0,1.0,3.0,Asia,Credit Card,Wednesday,2024-09,2024Q3,Fall,0,261,Low,Small bulk,Budget,Budget Shoppers
+664,10665,2024-10-04,Home Appliances,3.0,63.73,191.19,Asia,Credit Card,Friday,2024-10,2024Q4,Fall,0,277,Medium,Small bulk,Standard,Standard Customers
+665,10666,2024-02-22,Books,2.0,2051.26,4102.52,Asia,PayPal,Thursday,2024-02,2024Q1,Winter,0,52,High,Small bulk,Premium,Premium Customers
+666,10667,2025-03-17,Home Appliances,3.0,1.0,3.0,Asia,Debit Card,Monday,2025-03,2025Q1,Spring,0,441,Low,Small bulk,Budget,Budget Shoppers
+667,10668,2025-02-19,Beauty Products,2.0,712.95,1425.9,North America,Unknown,Wednesday,2025-02,2025Q1,Winter,0,415,High,Small bulk,Premium,Premium Customers
+668,10669,2024-03-12,Beauty Products,229.0,1.0,229.0,Europe,Credit Card,Tuesday,2024-03,2024Q1,Spring,0,71,Low,Large bulk,Standard,Bulk Buyers
+669,10670,2024-03-27,Sports,2.0,1.0,2.0,Asia,Credit Card,Wednesday,2024-03,2024Q1,Spring,0,86,Low,Small bulk,Budget,Budget Shoppers
+670,10671,2025-04-05,Clothing,3.0,93.84,281.52,Asia,Credit Card,Saturday,2025-04,2025Q2,Spring,1,460,Medium,Small bulk,Standard,Standard Customers
+671,10672,2024-01-31,Sports,2.0,600.95,1201.9,North America,Bank Transfer,Wednesday,2024-01,2024Q1,Winter,0,30,Medium,Small bulk,Premium,Premium Customers
+672,10673,2025-02-28,Beauty Products,2.0,618.03,1236.06,North America,Debit Card,Friday,2025-02,2025Q1,Winter,0,424,Medium,Small bulk,Premium,Premium Customers
+673,10674,2024-07-31,Electronics,1.0,757.81,757.81,Asia,Unknown,Wednesday,2024-07,2024Q3,Summer,0,212,High,Single item,Standard,Standard Customers
+674,10675,2024-05-22,Electronics,1.0,227.36,227.36,Europe,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,142,Medium,Single item,Standard,Standard Customers
+675,10676,2025-03-20,Home Appliances,3.0,971.01,2913.03,Asia,Credit Card,Thursday,2025-03,2025Q1,Spring,0,444,High,Small bulk,Premium,Premium Customers
+676,10677,2025-03-11,Electronics,3.0,75.74,227.22,North America,PayPal,Tuesday,2025-03,2025Q1,Spring,0,435,Medium,Small bulk,Standard,Standard Customers
+677,10678,2024-09-10,Sports,2.0,782.64,1565.28,North America,Unknown,Tuesday,2024-09,2024Q3,Fall,0,253,High,Small bulk,Premium,Premium Customers
+678,10679,2024-09-05,Books,451.0,964.72,435088.72,North America,Credit Card,Thursday,2024-09,2024Q3,Fall,0,248,High,Large bulk,Premium,Bulk Buyers
+679,10680,2024-03-21,Sports,3.0,498.87,1496.61,Asia,PayPal,Thursday,2024-03,2024Q1,Spring,0,80,Medium,Small bulk,Premium,Premium Customers
+680,10681,2025-04-10,Books,1.0,1.0,1.0,Europe,Mobile Payment,Thursday,2025-04,2025Q2,Spring,0,465,Low,Single item,Budget,Budget Shoppers
+681,10682,2024-12-01,Books,1.0,480.13,480.13,Europe,PayPal,Sunday,2024-12,2024Q4,Winter,1,335,Medium,Single item,Standard,Standard Customers
+682,10683,2024-07-21,Books,1.0,606.71,606.71,Europe,Credit Card,Sunday,2024-07,2024Q3,Summer,1,202,Medium,Single item,Standard,Standard Customers
+683,10684,2024-02-09,Clothing,3.0,671.79,2015.37,Europe,PayPal,Friday,2024-02,2024Q1,Winter,0,39,High,Small bulk,Premium,Premium Customers
+684,10685,2024-03-02,Sports,4.0,546.13,2184.52,Europe,PayPal,Saturday,2024-03,2024Q1,Spring,1,61,Medium,Small bulk,Premium,Premium Customers
+685,10686,2025-01-09,Electronics,1.0,1.0,1.0,Europe,Credit Card,Thursday,2025-01,2025Q1,Winter,0,374,Low,Single item,Budget,Budget Shoppers
+686,10687,2025-02-20,Electronics,1.0,1.0,1.0,North America,PayPal,Thursday,2025-02,2025Q1,Winter,0,416,Low,Single item,Budget,Budget Shoppers
+687,10688,2024-01-05,Home Appliances,2.0,1.0,2.0,North America,Credit Card,Friday,2024-01,2024Q1,Winter,0,4,Low,Small bulk,Budget,Budget Shoppers
+688,10689,2024-03-18,Home Appliances,3.0,561.58,1684.74,Europe,Unknown,Monday,2024-03,2024Q1,Spring,0,77,Medium,Small bulk,Premium,Premium Customers
+689,10690,2025-01-08,Home Appliances,1.0,167.63,167.63,North America,PayPal,Wednesday,2025-01,2025Q1,Winter,0,373,Medium,Single item,Standard,Standard Customers
+690,10691,2024-02-13,Electronics,3.0,399.06,1197.18,Asia,PayPal,Tuesday,2024-02,2024Q1,Winter,0,43,Medium,Small bulk,Premium,Premium Customers
+691,10692,2024-12-19,Beauty Products,1.0,1.0,1.0,Europe,Credit Card,Thursday,2024-12,2024Q4,Winter,0,353,Low,Single item,Budget,Budget Shoppers
+692,10693,2024-07-19,Sports,1.0,615.22,615.22,North America,Debit Card,Friday,2024-07,2024Q3,Summer,0,200,Medium,Single item,Standard,Standard Customers
+693,10694,2024-07-16,Sports,4.0,76.23,304.92,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,197,Medium,Small bulk,Standard,Standard Customers
+694,10695,2024-01-07,Books,2.0,1.0,2.0,Europe,Unknown,Sunday,2024-01,2024Q1,Winter,1,6,Low,Small bulk,Budget,Budget Shoppers
+695,10696,2024-10-06,Clothing,2.0,533.77,1067.54,North America,Credit Card,Sunday,2024-10,2024Q4,Fall,1,279,Medium,Small bulk,Premium,Premium Customers
+696,10697,2024-05-14,Beauty Products,2.0,164.12,328.24,Asia,PayPal,Tuesday,2024-05,2024Q2,Spring,0,134,Medium,Small bulk,Standard,Standard Customers
+697,10698,2024-12-30,Clothing,2.0,197.21,394.42,Europe,Debit Card,Monday,2024-12,2024Q4,Winter,0,364,Medium,Small bulk,Standard,Standard Customers
+698,10699,2024-10-02,Books,90.0,234.77,21129.3,North America,Debit Card,Wednesday,2024-10,2024Q4,Fall,0,275,Medium,Large bulk,Premium,Bulk Buyers
+699,10700,2025-02-17,Electronics,3.0,1.0,3.0,North America,Credit Card,Monday,2025-02,2025Q1,Winter,0,413,Low,Small bulk,Budget,Budget Shoppers
+700,10701,2024-12-14,Home Appliances,2.0,1386.5,2773.0,North America,Credit Card,Saturday,2024-12,2024Q4,Winter,1,348,High,Small bulk,Premium,Premium Customers
+701,10702,2024-01-30,Books,1.0,833.04,833.04,Europe,PayPal,Tuesday,2024-01,2024Q1,Winter,0,29,High,Single item,Premium,Premium Customers
+702,10703,2024-12-02,Books,2.0,434.06,868.12,Europe,PayPal,Monday,2024-12,2024Q4,Winter,0,336,Medium,Small bulk,Premium,Premium Customers
+703,10704,2024-06-26,Home Appliances,3.0,1.0,3.0,Europe,Debit Card,Wednesday,2024-06,2024Q2,Summer,0,177,Low,Small bulk,Budget,Budget Shoppers
+704,10705,2024-05-17,Beauty Products,1.0,1.0,1.0,Europe,Credit Card,Friday,2024-05,2024Q2,Spring,0,137,Low,Single item,Budget,Budget Shoppers
+705,10706,2024-09-25,Books,3.0,929.68,2789.04,Europe,Unknown,Wednesday,2024-09,2024Q3,Fall,0,268,High,Small bulk,Premium,Premium Customers
+706,10707,2024-03-26,Clothing,3.0,1.0,3.0,North America,PayPal,Tuesday,2024-03,2024Q1,Spring,0,85,Low,Small bulk,Budget,Budget Shoppers
+707,10708,2024-02-29,Books,489.0,1.0,489.0,Europe,Credit Card,Thursday,2024-02,2024Q1,Winter,0,59,Low,Large bulk,Standard,Bulk Buyers
+708,10709,2024-08-29,Clothing,3.0,901.56,2704.68,Europe,Unknown,Thursday,2024-08,2024Q3,Summer,0,241,High,Small bulk,Premium,Premium Customers
+709,10710,2024-12-31,Home Appliances,1.0,225.06,225.06,Asia,Credit Card,Tuesday,2024-12,2024Q4,Winter,0,365,Medium,Single item,Standard,Standard Customers
+710,10711,2024-05-18,Clothing,2.0,191.48,382.96,Asia,Credit Card,Saturday,2024-05,2024Q2,Spring,1,138,Medium,Small bulk,Standard,Standard Customers
+711,10712,2025-02-15,Electronics,1.0,316.65,316.65,North America,Credit Card,Saturday,2025-02,2025Q1,Winter,1,411,Medium,Single item,Standard,Standard Customers
+712,10713,2024-05-24,Beauty Products,283.0,1802.68,510158.44,Europe,Credit Card,Friday,2024-05,2024Q2,Spring,0,144,High,Large bulk,Premium,Bulk Buyers
+713,10714,2024-10-15,Sports,1.0,582.98,582.98,Europe,Debit Card,Tuesday,2024-10,2024Q4,Fall,0,288,Medium,Single item,Standard,Standard Customers
+714,10715,2025-02-01,Sports,1.0,705.02,705.02,North America,Gift Card,Saturday,2025-02,2025Q1,Winter,1,397,High,Single item,Standard,Standard Customers
+715,10716,2024-04-29,Clothing,1.0,3629.22,3629.22,Europe,Credit Card,Monday,2024-04,2024Q2,Spring,0,119,High,Single item,Premium,Premium Customers
+716,10717,2025-03-10,Books,1.0,746.36,746.36,Asia,Credit Card,Monday,2025-03,2025Q1,Spring,0,434,High,Single item,Standard,Standard Customers
+717,10718,2024-01-31,Home Appliances,2.0,1925.89,3851.78,North America,Credit Card,Wednesday,2024-01,2024Q1,Winter,0,30,High,Small bulk,Premium,Premium Customers
+718,10719,2025-03-08,Electronics,1.0,1.0,1.0,Asia,PayPal,Saturday,2025-03,2025Q1,Spring,1,432,Low,Single item,Budget,Budget Shoppers
+719,10720,2024-09-15,Clothing,340.0,1.0,340.0,Europe,PayPal,Sunday,2024-09,2024Q3,Fall,1,258,Low,Large bulk,Standard,Bulk Buyers
+720,10721,2024-03-07,Clothing,2.0,314.46,628.92,Europe,Unknown,Thursday,2024-03,2024Q1,Spring,0,66,Medium,Small bulk,Standard,Standard Customers
+721,10722,2025-03-01,Home Appliances,3.0,36.57,109.71,Europe,PayPal,Saturday,2025-03,2025Q1,Spring,1,425,Medium,Small bulk,Budget,Budget Shoppers
+722,10723,2025-02-03,Home Appliances,2.0,350.58,701.16,Asia,Credit Card,Monday,2025-02,2025Q1,Winter,0,399,Medium,Small bulk,Standard,Standard Customers
+723,10724,2024-03-02,Beauty Products,4.0,351.97,1407.88,North America,Unknown,Saturday,2024-03,2024Q1,Spring,1,61,Medium,Small bulk,Premium,Premium Customers
+724,10725,2024-02-16,Sports,1.0,917.96,917.96,North America,Unknown,Friday,2024-02,2024Q1,Winter,0,46,High,Single item,Premium,Premium Customers
+725,10726,2024-06-16,Sports,3.0,649.42,1948.26,Europe,Credit Card,Sunday,2024-06,2024Q2,Summer,1,167,High,Small bulk,Premium,Premium Customers
+726,10727,2025-02-23,Home Appliances,2.0,511.15,1022.3,Europe,Unknown,Sunday,2025-02,2025Q1,Winter,1,419,Medium,Small bulk,Premium,Premium Customers
+727,10728,2024-02-18,Clothing,1.0,642.64,642.64,Asia,Credit Card,Sunday,2024-02,2024Q1,Winter,1,48,Medium,Single item,Standard,Standard Customers
+728,10729,2024-04-23,Beauty Products,2.0,414.49,828.98,Asia,Unknown,Tuesday,2024-04,2024Q2,Spring,0,113,Medium,Small bulk,Standard,Standard Customers
+729,10730,2024-10-25,Electronics,83.0,995.29,82609.07,Asia,Credit Card,Friday,2024-10,2024Q4,Fall,0,298,High,Large bulk,Premium,Bulk Buyers
+730,10731,2025-02-18,Sports,1.0,962.07,962.07,Europe,PayPal,Tuesday,2025-02,2025Q1,Winter,0,414,High,Single item,Premium,Premium Customers
+731,10732,2024-08-09,Sports,399.0,714.65,285145.35,North America,Unknown,Friday,2024-08,2024Q3,Summer,0,221,High,Large bulk,Premium,Bulk Buyers
+732,10733,2025-04-10,Beauty Products,3.0,709.28,2127.84,North America,Credit Card,Thursday,2025-04,2025Q2,Spring,0,465,High,Small bulk,Premium,Premium Customers
+733,10734,2024-11-11,Clothing,1.0,559.47,559.47,North America,Gift Card,Monday,2024-11,2024Q4,Fall,0,315,Medium,Single item,Standard,Standard Customers
+734,10735,2024-02-14,Electronics,1.0,722.46,722.46,North America,PayPal,Wednesday,2024-02,2024Q1,Winter,0,44,High,Single item,Standard,Standard Customers
+735,10736,2024-05-07,Sports,1.0,469.16,469.16,Asia,PayPal,Tuesday,2024-05,2024Q2,Spring,0,127,Medium,Single item,Standard,Standard Customers
+736,10737,2024-07-02,Books,2.0,264.02,528.04,Europe,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,183,Medium,Small bulk,Standard,Standard Customers
+737,10738,2024-05-18,Clothing,1.0,4242.76,4242.76,Europe,Credit Card,Saturday,2024-05,2024Q2,Spring,1,138,High,Single item,Premium,Premium Customers
+738,10739,2024-05-23,Clothing,1.0,234.98,234.98,Asia,Credit Card,Thursday,2024-05,2024Q2,Spring,0,143,Medium,Single item,Standard,Standard Customers
+739,10740,2024-03-22,Sports,1.0,1.0,1.0,North America,PayPal,Friday,2024-03,2024Q1,Spring,0,81,Low,Single item,Budget,Budget Shoppers
+740,10741,2024-01-29,Beauty Products,2.0,159.43,318.86,North America,Credit Card,Monday,2024-01,2024Q1,Winter,0,28,Medium,Small bulk,Standard,Standard Customers
+741,10742,2025-03-05,Home Appliances,1.92,1.0,1.92,Asia,Debit Card,Wednesday,2025-03,2025Q1,Spring,0,429,Low,Large bulk,Budget,Budget Shoppers
+742,10743,2024-07-02,Clothing,1.0,69.56,69.56,Europe,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,183,Medium,Single item,Budget,Budget Shoppers
+743,10744,2024-10-15,Books,2.0,616.31,1232.62,Asia,PayPal,Tuesday,2024-10,2024Q4,Fall,0,288,Medium,Small bulk,Premium,Premium Customers
+744,10745,2024-04-22,Clothing,364.0,858.47,312483.08,Europe,Credit Card,Monday,2024-04,2024Q2,Spring,0,112,High,Large bulk,Premium,Bulk Buyers
+745,10746,2025-04-15,Sports,350.0,555.46,194411.0,Europe,Credit Card,Tuesday,2025-04,2025Q2,Spring,0,470,Medium,Large bulk,Premium,Bulk Buyers
+746,10747,2024-09-26,Books,1.0,152.12,152.12,Asia,Credit Card,Thursday,2024-09,2024Q3,Fall,0,269,Medium,Single item,Standard,Standard Customers
+747,10748,2024-06-21,Beauty Products,2.0,453.47,906.94,Europe,PayPal,Friday,2024-06,2024Q2,Summer,0,172,Medium,Small bulk,Premium,Premium Customers
+748,10749,2024-11-23,Electronics,1.0,736.77,736.77,Europe,Credit Card,Saturday,2024-11,2024Q4,Fall,1,327,High,Single item,Standard,Standard Customers
+749,10750,2024-11-10,Electronics,1.0,420.02,420.02,Asia,Credit Card,Sunday,2024-11,2024Q4,Fall,1,314,Medium,Single item,Standard,Standard Customers
+750,10751,2024-12-18,Electronics,1.0,361.2,361.2,North America,PayPal,Wednesday,2024-12,2024Q4,Winter,0,352,Medium,Single item,Standard,Standard Customers
+751,10752,2024-07-19,Electronics,3.0,1.0,3.0,North America,Credit Card,Friday,2024-07,2024Q3,Summer,0,200,Low,Small bulk,Budget,Budget Shoppers
+752,10753,2024-04-23,Clothing,3.0,1.0,3.0,North America,Debit Card,Tuesday,2024-04,2024Q2,Spring,0,113,Low,Small bulk,Budget,Budget Shoppers
+753,10754,2024-05-01,Sports,3.0,854.48,2563.44,North America,Bank Transfer,Wednesday,2024-05,2024Q2,Spring,0,121,High,Small bulk,Premium,Premium Customers
+754,10755,2024-11-23,Electronics,157.0,628.33,98647.81,Asia,PayPal,Saturday,2024-11,2024Q4,Fall,1,327,Medium,Large bulk,Premium,Bulk Buyers
+755,10756,2024-02-25,Clothing,1.0,800.11,800.11,North America,Credit Card,Sunday,2024-02,2024Q1,Winter,1,55,High,Single item,Standard,Standard Customers
+756,10757,2024-07-30,Beauty Products,3.0,318.64,955.92,Asia,Gift Card,Tuesday,2024-07,2024Q3,Summer,0,211,Medium,Small bulk,Premium,Premium Customers
+757,10758,2025-02-07,Beauty Products,2.0,510.04,1020.08,North America,Credit Card,Friday,2025-02,2025Q1,Winter,0,403,Medium,Small bulk,Premium,Premium Customers
+758,10759,2024-05-13,Beauty Products,1.0,296.42,296.42,Europe,Gift Card,Monday,2024-05,2024Q2,Spring,0,133,Medium,Single item,Standard,Standard Customers
+759,10760,2024-10-07,Books,0.86,1.0,0.86,North America,Unknown,Monday,2024-10,2024Q4,Fall,0,280,Low,Large bulk,Budget,Budget Shoppers
+760,10761,2024-01-16,Clothing,3.0,665.55,1996.65,Asia,Unknown,Tuesday,2024-01,2024Q1,Winter,0,15,High,Small bulk,Premium,Premium Customers
+761,10762,2024-04-07,Books,1.0,517.16,517.16,North America,Unknown,Sunday,2024-04,2024Q2,Spring,1,97,Medium,Single item,Standard,Standard Customers
+762,10763,2024-05-24,Books,342.0,38.38,13125.96,North America,Credit Card,Friday,2024-05,2024Q2,Spring,0,144,Medium,Large bulk,Premium,Bulk Buyers
+763,10764,2024-01-28,Books,471.0,1.0,471.0,Europe,Credit Card,Sunday,2024-01,2024Q1,Winter,1,27,Low,Large bulk,Standard,Bulk Buyers
+764,10765,2024-04-12,Beauty Products,3.0,921.88,2765.64,North America,Debit Card,Friday,2024-04,2024Q2,Spring,0,102,High,Small bulk,Premium,Premium Customers
+765,10766,2024-06-06,Home Appliances,1.0,166.48,166.48,North America,PayPal,Thursday,2024-06,2024Q2,Summer,0,157,Medium,Single item,Standard,Standard Customers
+766,10767,2024-07-17,Home Appliances,1.0,1.0,1.0,North America,Credit Card,Wednesday,2024-07,2024Q3,Summer,0,198,Low,Single item,Budget,Budget Shoppers
+767,10768,2024-08-26,Clothing,1.0,107.08,107.08,Europe,PayPal,Monday,2024-08,2024Q3,Summer,0,238,Medium,Single item,Budget,Budget Shoppers
+768,10769,2024-02-19,Electronics,2.0,336.69,673.38,Europe,PayPal,Monday,2024-02,2024Q1,Winter,0,49,Medium,Small bulk,Standard,Standard Customers
+769,10770,2024-04-26,Home Appliances,3.0,544.82,1634.46,Europe,Bank Transfer,Friday,2024-04,2024Q2,Spring,0,116,Medium,Small bulk,Premium,Premium Customers
+770,10771,2025-03-19,Electronics,1.0,437.15,437.15,North America,Credit Card,Wednesday,2025-03,2025Q1,Spring,0,443,Medium,Single item,Standard,Standard Customers
+771,10772,2024-01-18,Home Appliances,2.0,901.62,1803.24,Europe,Unknown,Thursday,2024-01,2024Q1,Winter,0,17,High,Small bulk,Premium,Premium Customers
+772,10773,2024-03-02,Electronics,3.0,1.0,3.0,Asia,Debit Card,Saturday,2024-03,2024Q1,Spring,1,61,Low,Small bulk,Budget,Budget Shoppers
+773,10774,2024-04-08,Electronics,399.0,429.03,171182.97,Asia,Unknown,Monday,2024-04,2024Q2,Spring,0,98,Medium,Large bulk,Premium,Bulk Buyers
+774,10775,2024-11-17,Clothing,2.0,19.13,38.26,North America,Credit Card,Sunday,2024-11,2024Q4,Fall,1,321,Low,Small bulk,Budget,Budget Shoppers
+775,10776,2024-02-04,Clothing,1.0,113.6,113.6,North America,Gift Card,Sunday,2024-02,2024Q1,Winter,1,34,Medium,Single item,Budget,Budget Shoppers
+776,10777,2024-08-22,Sports,4.0,514.33,2057.32,North America,Credit Card,Thursday,2024-08,2024Q3,Summer,0,234,Medium,Small bulk,Premium,Premium Customers
+777,10778,2024-02-27,Home Appliances,2.0,75.27,150.54,Europe,Mobile Payment,Tuesday,2024-02,2024Q1,Winter,0,57,Medium,Small bulk,Standard,Standard Customers
+778,10779,2024-02-21,Books,1.0,210.79,210.79,Europe,Credit Card,Wednesday,2024-02,2024Q1,Winter,0,51,Medium,Single item,Standard,Standard Customers
+779,10780,2024-07-29,Beauty Products,1.0,1.0,1.0,Asia,Credit Card,Monday,2024-07,2024Q3,Summer,0,210,Low,Single item,Budget,Budget Shoppers
+780,10781,2024-07-25,Clothing,1.0,330.86,330.86,North America,Credit Card,Thursday,2024-07,2024Q3,Summer,0,206,Medium,Single item,Standard,Standard Customers
+781,10782,2025-03-26,Electronics,293.0,620.82,181900.26,Europe,Credit Card,Wednesday,2025-03,2025Q1,Spring,0,450,Medium,Large bulk,Premium,Bulk Buyers
+782,10783,2024-01-11,Electronics,2.0,605.64,1211.28,North America,PayPal,Thursday,2024-01,2024Q1,Winter,0,10,Medium,Small bulk,Premium,Premium Customers
+783,10784,2024-12-16,Beauty Products,1.0,82.89,82.89,Asia,Credit Card,Monday,2024-12,2024Q4,Winter,0,350,Medium,Single item,Budget,Budget Shoppers
+784,10785,2025-02-26,Books,1.0,35.26,35.26,North America,Credit Card,Wednesday,2025-02,2025Q1,Winter,0,422,Medium,Single item,Budget,Budget Shoppers
+785,10786,2025-04-12,Home Appliances,1.0,895.75,895.75,Asia,Credit Card,Saturday,2025-04,2025Q2,Spring,1,467,High,Single item,Premium,Premium Customers
+786,10787,2024-02-03,Sports,2.0,304.27,608.54,North America,Unknown,Saturday,2024-02,2024Q1,Winter,1,33,Medium,Small bulk,Standard,Standard Customers
+787,10788,2024-10-18,Books,2.0,516.54,1033.08,North America,PayPal,Friday,2024-10,2024Q4,Fall,0,291,Medium,Small bulk,Premium,Premium Customers
+788,10789,2024-01-26,Sports,2.0,34.1,68.2,Asia,Gift Card,Friday,2024-01,2024Q1,Winter,0,25,Medium,Small bulk,Budget,Budget Shoppers
+789,10790,2025-04-17,Sports,2.0,291.9,583.8,Asia,Credit Card,Thursday,2025-04,2025Q2,Spring,0,472,Medium,Small bulk,Standard,Standard Customers
+790,10791,2025-03-21,Clothing,1.0,545.92,545.92,Europe,PayPal,Friday,2025-03,2025Q1,Spring,0,445,Medium,Single item,Standard,Standard Customers
+791,10792,2025-01-18,Electronics,75.0,991.94,74395.5,Europe,Credit Card,Saturday,2025-01,2025Q1,Winter,1,383,High,Large bulk,Premium,Bulk Buyers
+792,10793,2024-04-19,Electronics,2.0,620.2,1240.4,North America,PayPal,Friday,2024-04,2024Q2,Spring,0,109,Medium,Small bulk,Premium,Premium Customers
+793,10794,2025-03-18,Home Appliances,1.0,615.31,615.31,Asia,Unknown,Tuesday,2025-03,2025Q1,Spring,0,442,Medium,Single item,Standard,Standard Customers
+794,10795,2024-01-05,Clothing,1.0,180.64,180.64,Europe,Credit Card,Friday,2024-01,2024Q1,Winter,0,4,Medium,Single item,Standard,Standard Customers
+795,10796,2024-11-25,Home Appliances,1.0,555.99,555.99,Asia,Credit Card,Monday,2024-11,2024Q4,Fall,0,329,Medium,Single item,Standard,Standard Customers
+796,10797,2024-06-03,Beauty Products,1.0,1.0,1.0,Asia,Debit Card,Monday,2024-06,2024Q2,Summer,0,154,Low,Single item,Budget,Budget Shoppers
+797,10798,2024-12-05,Sports,1.0,1.0,1.0,Asia,Credit Card,Thursday,2024-12,2024Q4,Winter,0,339,Low,Single item,Budget,Budget Shoppers
+798,10799,2024-02-25,Books,3.0,663.0,1989.0,North America,Credit Card,Sunday,2024-02,2024Q1,Winter,1,55,High,Small bulk,Premium,Premium Customers
+799,10800,2024-05-13,Sports,1.0,289.8,289.8,North America,Credit Card,Monday,2024-05,2024Q2,Spring,0,133,Medium,Single item,Standard,Standard Customers
+800,10801,2024-01-30,Electronics,1.0,748.69,748.69,North America,Debit Card,Tuesday,2024-01,2024Q1,Winter,0,29,High,Single item,Standard,Standard Customers
+801,10802,2024-05-31,Home Appliances,2.0,487.37,974.74,Europe,PayPal,Friday,2024-05,2024Q2,Spring,0,151,Medium,Small bulk,Premium,Premium Customers
+802,10803,2024-10-19,Books,1.0,482.28,482.28,Europe,Debit Card,Saturday,2024-10,2024Q4,Fall,1,292,Medium,Single item,Standard,Standard Customers
+803,10804,2024-08-31,Sports,1.0,679.47,679.47,Asia,PayPal,Saturday,2024-08,2024Q3,Summer,1,243,High,Single item,Standard,Standard Customers
+804,10805,2024-10-12,Clothing,2.0,1.0,2.0,North America,Credit Card,Saturday,2024-10,2024Q4,Fall,1,285,Low,Small bulk,Budget,Budget Shoppers
+805,10806,2024-10-13,Sports,1.0,369.11,369.11,Asia,Debit Card,Sunday,2024-10,2024Q4,Fall,1,286,Medium,Single item,Standard,Standard Customers
+806,10807,2024-04-24,Home Appliances,3.0,554.44,1663.32,Europe,Credit Card,Wednesday,2024-04,2024Q2,Spring,0,114,Medium,Small bulk,Premium,Premium Customers
+807,10808,2024-05-30,Sports,1.0,420.95,420.95,Europe,Credit Card,Thursday,2024-05,2024Q2,Spring,0,150,Medium,Single item,Standard,Standard Customers
+808,10809,2024-11-13,Electronics,3.0,1.0,3.0,North America,Bank Transfer,Wednesday,2024-11,2024Q4,Fall,0,317,Low,Small bulk,Budget,Budget Shoppers
+809,10810,2024-06-01,Home Appliances,1.0,1.0,1.0,North America,Credit Card,Saturday,2024-06,2024Q2,Summer,1,152,Low,Single item,Budget,Budget Shoppers
+810,10811,2024-10-18,Beauty Products,3.0,588.78,1766.34,Asia,Credit Card,Friday,2024-10,2024Q4,Fall,0,291,Medium,Small bulk,Premium,Premium Customers
+811,10812,2024-09-06,Home Appliances,3.0,1.0,3.0,Asia,Credit Card,Friday,2024-09,2024Q3,Fall,0,249,Low,Small bulk,Budget,Budget Shoppers
+812,10813,2024-04-17,Clothing,4.0,1.0,4.0,Europe,Credit Card,Wednesday,2024-04,2024Q2,Spring,0,107,Low,Small bulk,Budget,Budget Shoppers
+813,10814,2024-02-15,Books,1.0,295.31,295.31,Asia,PayPal,Thursday,2024-02,2024Q1,Winter,0,45,Medium,Single item,Standard,Standard Customers
+814,10815,2024-07-15,Sports,1.0,661.11,661.11,Asia,PayPal,Monday,2024-07,2024Q3,Summer,0,196,High,Single item,Standard,Standard Customers
+815,10816,2025-03-02,Electronics,3.0,1211.63,3634.89,Europe,Debit Card,Sunday,2025-03,2025Q1,Spring,1,426,High,Small bulk,Premium,Premium Customers
+816,10817,2024-12-21,Beauty Products,6.0,701.03,4206.18,Europe,Debit Card,Saturday,2024-12,2024Q4,Winter,1,355,High,Large bulk,Premium,Bulk Buyers
+817,10818,2024-02-03,Beauty Products,3.0,522.37,1567.11,North America,Debit Card,Saturday,2024-02,2024Q1,Winter,1,33,Medium,Small bulk,Premium,Premium Customers
+818,10819,2024-08-10,Home Appliances,2.0,1.0,2.0,Asia,Debit Card,Saturday,2024-08,2024Q3,Summer,1,222,Low,Small bulk,Budget,Budget Shoppers
+819,10820,2024-03-25,Beauty Products,1.0,867.04,867.04,Asia,PayPal,Monday,2024-03,2024Q1,Spring,0,84,High,Single item,Premium,Premium Customers
+820,10821,2024-10-28,Sports,1.0,938.27,938.27,North America,Mobile Payment,Monday,2024-10,2024Q4,Fall,0,301,High,Single item,Premium,Premium Customers
+821,10822,2024-05-10,Beauty Products,2.0,110.15,220.3,Asia,Credit Card,Friday,2024-05,2024Q2,Spring,0,130,Medium,Small bulk,Standard,Standard Customers
+822,10823,2024-01-11,Beauty Products,2.0,210.5,421.0,North America,PayPal,Thursday,2024-01,2024Q1,Winter,0,10,Medium,Small bulk,Standard,Standard Customers
+823,10824,2024-08-30,Beauty Products,2.0,2683.49,5366.98,North America,Bank Transfer,Friday,2024-08,2024Q3,Summer,0,242,High,Small bulk,Premium,Premium Customers
+824,10825,2024-02-21,Electronics,4.0,371.74,1486.96,Asia,Unknown,Wednesday,2024-02,2024Q1,Winter,0,51,Medium,Small bulk,Premium,Premium Customers
+825,10826,2025-04-05,Beauty Products,1.0,599.32,599.32,North America,Debit Card,Saturday,2025-04,2025Q2,Spring,1,460,Medium,Single item,Standard,Standard Customers
+826,10827,2024-04-12,Electronics,3.0,748.18,2244.54,North America,Unknown,Friday,2024-04,2024Q2,Spring,0,102,High,Small bulk,Premium,Premium Customers
+827,10828,2024-04-16,Sports,3.0,3686.53,11059.59,North America,Unknown,Tuesday,2024-04,2024Q2,Spring,0,106,High,Small bulk,Premium,Premium Customers
+828,10829,2025-04-09,Books,2.0,100.87,201.74,North America,Credit Card,Wednesday,2025-04,2025Q2,Spring,0,464,Medium,Small bulk,Standard,Standard Customers
+829,10830,2025-01-05,Clothing,1.0,1.0,1.0,Asia,Credit Card,Sunday,2025-01,2025Q1,Winter,1,370,Low,Single item,Budget,Budget Shoppers
+830,10831,2024-08-25,Electronics,3.0,52.41,157.23,Europe,PayPal,Sunday,2024-08,2024Q3,Summer,1,237,Medium,Small bulk,Standard,Standard Customers
+831,10832,2024-12-12,Home Appliances,438.0,569.2,249309.6,North America,Credit Card,Thursday,2024-12,2024Q4,Winter,0,346,Medium,Large bulk,Premium,Bulk Buyers
+832,10833,2024-11-27,Sports,3.0,879.43,2638.29,Europe,Credit Card,Wednesday,2024-11,2024Q4,Fall,0,331,High,Small bulk,Premium,Premium Customers
+833,10834,2025-01-10,Clothing,3.0,11.56,34.68,North America,Credit Card,Friday,2025-01,2025Q1,Winter,0,375,Low,Small bulk,Budget,Budget Shoppers
+834,10835,2024-05-19,Clothing,2.0,1.0,2.0,Asia,Credit Card,Sunday,2024-05,2024Q2,Spring,1,139,Low,Small bulk,Budget,Budget Shoppers
+835,10836,2024-03-08,Clothing,2.0,955.61,1911.22,Asia,PayPal,Friday,2024-03,2024Q1,Spring,0,67,High,Small bulk,Premium,Premium Customers
+836,10837,2024-09-04,Clothing,1.0,1.0,1.0,North America,Credit Card,Wednesday,2024-09,2024Q3,Fall,0,247,Low,Single item,Budget,Budget Shoppers
+837,10838,2025-03-17,Clothing,1.0,1.0,1.0,North America,Bank Transfer,Monday,2025-03,2025Q1,Spring,0,441,Low,Single item,Budget,Budget Shoppers
+838,10839,2024-08-13,Books,2.0,4473.33,8946.66,North America,Unknown,Tuesday,2024-08,2024Q3,Summer,0,225,High,Small bulk,Premium,Premium Customers
+839,10840,2024-09-25,Books,2.0,1.0,2.0,North America,Unknown,Wednesday,2024-09,2024Q3,Fall,0,268,Low,Small bulk,Budget,Budget Shoppers
+840,10841,2024-11-12,Home Appliances,3.0,747.4,2242.2,Europe,Credit Card,Tuesday,2024-11,2024Q4,Fall,0,316,High,Small bulk,Premium,Premium Customers
+841,10842,2024-03-17,Home Appliances,3.0,673.43,2020.29,Asia,Credit Card,Sunday,2024-03,2024Q1,Spring,1,76,High,Small bulk,Premium,Premium Customers
+842,10843,2025-03-12,Electronics,301.0,471.19,141828.19,Asia,PayPal,Wednesday,2025-03,2025Q1,Spring,0,436,Medium,Large bulk,Premium,Bulk Buyers
+843,10844,2024-05-22,Sports,2.0,1.0,2.0,Asia,PayPal,Wednesday,2024-05,2024Q2,Spring,0,142,Low,Small bulk,Budget,Budget Shoppers
+844,10845,2024-02-10,Clothing,2.0,79.25,158.5,North America,Credit Card,Saturday,2024-02,2024Q1,Winter,1,40,Medium,Small bulk,Standard,Standard Customers
+845,10846,2024-03-01,Sports,3.0,3196.4,9589.2,North America,PayPal,Friday,2024-03,2024Q1,Spring,0,60,High,Small bulk,Premium,Premium Customers
+846,10847,2025-02-26,Sports,1.0,1.0,1.0,Asia,Debit Card,Wednesday,2025-02,2025Q1,Winter,0,422,Low,Single item,Budget,Budget Shoppers
+847,10848,2024-10-14,Clothing,1.0,611.46,611.46,North America,Credit Card,Monday,2024-10,2024Q4,Fall,0,287,Medium,Single item,Standard,Standard Customers
+848,10849,2024-08-20,Beauty Products,2.0,199.14,398.28,Europe,PayPal,Tuesday,2024-08,2024Q3,Summer,0,232,Medium,Small bulk,Standard,Standard Customers
+849,10850,2024-08-19,Home Appliances,231.0,20.39,4710.09,North America,Unknown,Monday,2024-08,2024Q3,Summer,0,231,Low,Large bulk,Premium,Bulk Buyers
+850,10851,2024-05-29,Beauty Products,2.0,1656.62,3313.24,North America,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,149,High,Small bulk,Premium,Premium Customers
+851,10852,2024-03-12,Home Appliances,1.0,926.1,926.1,North America,Unknown,Tuesday,2024-03,2024Q1,Spring,0,71,High,Single item,Premium,Premium Customers
+852,10853,2024-04-20,Beauty Products,0.9333935522721896,929.94,868.0,North America,Unknown,Saturday,2024-04,2024Q2,Spring,1,110,High,Large bulk,Premium,Bulk Buyers
+853,10854,2025-04-19,Sports,3.0,498.26,1494.78,Asia,PayPal,Saturday,2025-04,2025Q2,Spring,1,474,Medium,Small bulk,Premium,Premium Customers
+854,10855,2024-10-28,Home Appliances,426.0,4741.23,2019763.98,Europe,PayPal,Monday,2024-10,2024Q4,Fall,0,301,High,Large bulk,Premium,Bulk Buyers
+855,10856,2025-03-05,Beauty Products,2.0,1.0,2.0,Europe,Debit Card,Wednesday,2025-03,2025Q1,Spring,0,429,Low,Small bulk,Budget,Budget Shoppers
+856,10857,2024-03-29,Books,2.0,1.0,2.0,Europe,Debit Card,Friday,2024-03,2024Q1,Spring,0,88,Low,Small bulk,Budget,Budget Shoppers
+857,10858,2024-09-15,Books,2.0,1.0,2.0,Europe,Unknown,Sunday,2024-09,2024Q3,Fall,1,258,Low,Small bulk,Budget,Budget Shoppers
+858,10859,2024-06-24,Beauty Products,4.0,1.0,4.0,Europe,Debit Card,Monday,2024-06,2024Q2,Summer,0,175,Low,Small bulk,Budget,Budget Shoppers
+859,10860,2025-01-18,Electronics,1.0,118.59,118.59,Europe,Credit Card,Saturday,2025-01,2025Q1,Winter,1,383,Medium,Single item,Budget,Budget Shoppers
+860,10861,2024-11-19,Home Appliances,3.0,1.0,3.0,Europe,Debit Card,Tuesday,2024-11,2024Q4,Fall,0,323,Low,Small bulk,Budget,Budget Shoppers
+861,10862,2024-12-10,Electronics,2.0,142.82,285.64,Europe,Credit Card,Tuesday,2024-12,2024Q4,Winter,0,344,Medium,Small bulk,Standard,Standard Customers
+862,10863,2024-02-29,Electronics,4.0,587.66,2350.64,Asia,Debit Card,Thursday,2024-02,2024Q1,Winter,0,59,Medium,Small bulk,Premium,Premium Customers
+863,10864,2025-01-17,Beauty Products,1.0,94.12,94.12,North America,Credit Card,Friday,2025-01,2025Q1,Winter,0,382,Medium,Single item,Budget,Budget Shoppers
+864,10865,2024-01-13,Books,1.0,1.0,1.0,Europe,Debit Card,Saturday,2024-01,2024Q1,Winter,1,12,Low,Single item,Budget,Budget Shoppers
+865,10866,2024-03-23,Beauty Products,2.0,472.11,944.22,Asia,Credit Card,Saturday,2024-03,2024Q1,Spring,1,82,Medium,Small bulk,Premium,Premium Customers
+866,10867,2025-01-20,Clothing,1.0,493.01,493.01,Asia,Credit Card,Monday,2025-01,2025Q1,Winter,0,385,Medium,Single item,Standard,Standard Customers
+867,10868,2025-01-13,Clothing,2.0,264.36,528.72,North America,Debit Card,Monday,2025-01,2025Q1,Winter,0,378,Medium,Small bulk,Standard,Standard Customers
+868,10869,2025-02-05,Beauty Products,5.999999999999999,311.47,1868.82,Asia,Credit Card,Wednesday,2025-02,2025Q1,Winter,0,401,Medium,Large bulk,Premium,Bulk Buyers
+869,10870,2025-02-07,Books,430.0,141.63,60900.9,North America,PayPal,Friday,2025-02,2025Q1,Winter,0,403,Medium,Large bulk,Premium,Bulk Buyers
+870,10871,2025-02-03,Home Appliances,1.0,555.82,555.82,North America,Credit Card,Monday,2025-02,2025Q1,Winter,0,399,Medium,Single item,Standard,Standard Customers
+871,10872,2024-07-07,Electronics,3.0,749.02,2247.06,Europe,Credit Card,Sunday,2024-07,2024Q3,Summer,1,188,High,Small bulk,Premium,Premium Customers
+872,10873,2024-12-15,Electronics,1.0,639.56,639.56,Europe,Unknown,Sunday,2024-12,2024Q4,Winter,1,349,Medium,Single item,Standard,Standard Customers
+873,10874,2024-05-15,Home Appliances,2.0,2865.33,5730.66,Europe,PayPal,Wednesday,2024-05,2024Q2,Spring,0,135,High,Small bulk,Premium,Premium Customers
+874,10875,2024-03-20,Home Appliances,1.0,1.0,1.0,North America,Credit Card,Wednesday,2024-03,2024Q1,Spring,0,79,Low,Single item,Budget,Budget Shoppers
+875,10876,2025-03-07,Sports,3.0,853.84,2561.52,Europe,Credit Card,Friday,2025-03,2025Q1,Spring,0,431,High,Small bulk,Premium,Premium Customers
+876,10877,2024-09-26,Books,4.0,537.27,2149.08,North America,Unknown,Thursday,2024-09,2024Q3,Fall,0,269,Medium,Small bulk,Premium,Premium Customers
+877,10878,2024-10-05,Clothing,3.0,329.9,989.7,Europe,Credit Card,Saturday,2024-10,2024Q4,Fall,1,278,Medium,Small bulk,Premium,Premium Customers
+878,10879,2024-06-18,Books,2.0,288.36,576.72,North America,PayPal,Tuesday,2024-06,2024Q2,Summer,0,169,Medium,Small bulk,Standard,Standard Customers
+879,10880,2024-10-14,Home Appliances,1.0,605.05,605.05,North America,Unknown,Monday,2024-10,2024Q4,Fall,0,287,Medium,Single item,Standard,Standard Customers
+880,10881,2024-11-10,Clothing,1.0,169.49,169.49,Europe,PayPal,Sunday,2024-11,2024Q4,Fall,1,314,Medium,Single item,Standard,Standard Customers
+881,10882,2024-02-28,Beauty Products,1.0,3067.47,3067.47,North America,Unknown,Wednesday,2024-02,2024Q1,Winter,0,58,High,Single item,Premium,Premium Customers
+882,10883,2025-01-29,Beauty Products,3.0,4593.13,13779.39,Asia,Debit Card,Wednesday,2025-01,2025Q1,Winter,0,394,High,Small bulk,Premium,Premium Customers
+883,10884,2024-04-08,Clothing,2.0,659.99,1319.98,Europe,Credit Card,Monday,2024-04,2024Q2,Spring,0,98,High,Small bulk,Premium,Premium Customers
+884,10885,2024-10-02,Sports,1.0,244.97,244.97,North America,Credit Card,Wednesday,2024-10,2024Q4,Fall,0,275,Medium,Single item,Standard,Standard Customers
+885,10886,2024-12-16,Beauty Products,3.0,218.01,654.03,North America,Debit Card,Monday,2024-12,2024Q4,Winter,0,350,Medium,Small bulk,Standard,Standard Customers
+886,10887,2025-01-14,Clothing,2.0,3867.47,7734.94,North America,Unknown,Tuesday,2025-01,2025Q1,Winter,0,379,High,Small bulk,Premium,Premium Customers
+887,10888,2024-01-20,Electronics,1.0,910.81,910.81,Europe,Debit Card,Saturday,2024-01,2024Q1,Winter,1,19,High,Single item,Premium,Premium Customers
+888,10889,2025-04-11,Clothing,2.0,1.0,2.0,Europe,Credit Card,Friday,2025-04,2025Q2,Spring,0,466,Low,Small bulk,Budget,Budget Shoppers
+889,10890,2024-07-18,Electronics,418.0,58.83,24590.94,Europe,PayPal,Thursday,2024-07,2024Q3,Summer,0,199,Medium,Large bulk,Premium,Bulk Buyers
+890,10891,2024-10-26,Beauty Products,3.0,652.1,1956.3,North America,Credit Card,Saturday,2024-10,2024Q4,Fall,1,299,High,Small bulk,Premium,Premium Customers
+891,10892,2024-12-17,Books,1.0,68.12,68.12,Asia,Mobile Payment,Tuesday,2024-12,2024Q4,Winter,0,351,Medium,Single item,Budget,Budget Shoppers
+892,10893,2025-02-24,Books,4.0,248.99,995.96,Asia,Debit Card,Monday,2025-02,2025Q1,Winter,0,420,Medium,Small bulk,Premium,Premium Customers
+893,10894,2025-02-11,Books,2.0,1.0,2.0,Europe,Unknown,Tuesday,2025-02,2025Q1,Winter,0,407,Low,Small bulk,Budget,Budget Shoppers
+894,10895,2025-02-11,Home Appliances,2.0,502.51,1005.02,Asia,Debit Card,Tuesday,2025-02,2025Q1,Winter,0,407,Medium,Small bulk,Premium,Premium Customers
+895,10896,2024-11-01,Beauty Products,2.0,966.44,1932.88,Asia,PayPal,Friday,2024-11,2024Q4,Fall,0,305,High,Small bulk,Premium,Premium Customers
+896,10897,2025-04-07,Books,3.0,592.0,1776.0,North America,PayPal,Monday,2025-04,2025Q2,Spring,0,462,Medium,Small bulk,Premium,Premium Customers
+897,10898,2024-11-11,Beauty Products,1.0,1.0,1.0,North America,Credit Card,Monday,2024-11,2024Q4,Fall,0,315,Low,Single item,Budget,Budget Shoppers
+898,10899,2025-03-11,Home Appliances,3.0,549.1,1647.3,Europe,Credit Card,Tuesday,2025-03,2025Q1,Spring,0,435,Medium,Small bulk,Premium,Premium Customers
+899,10900,2025-01-06,Electronics,1.0,1.0,1.0,Asia,PayPal,Monday,2025-01,2025Q1,Winter,0,371,Low,Single item,Budget,Budget Shoppers
+900,10901,2024-05-25,Beauty Products,4.0,634.32,2537.28,North America,Debit Card,Saturday,2024-05,2024Q2,Spring,1,145,Medium,Small bulk,Premium,Premium Customers
+901,10902,2024-06-05,Books,1.0,1.0,1.0,North America,Unknown,Wednesday,2024-06,2024Q2,Summer,0,156,Low,Single item,Budget,Budget Shoppers
+902,10903,2024-08-07,Home Appliances,1.0,1.0,1.0,Europe,Debit Card,Wednesday,2024-08,2024Q3,Summer,0,219,Low,Single item,Budget,Budget Shoppers
+903,10904,2024-08-11,Beauty Products,2.0,1.0,2.0,North America,PayPal,Sunday,2024-08,2024Q3,Summer,1,223,Low,Small bulk,Budget,Budget Shoppers
+904,10905,2024-08-24,Clothing,2.0,1.0,2.0,North America,Credit Card,Saturday,2024-08,2024Q3,Summer,1,236,Low,Small bulk,Budget,Budget Shoppers
+905,10906,2024-02-11,Sports,2.0,433.83,867.66,North America,Unknown,Sunday,2024-02,2024Q1,Winter,1,41,Medium,Small bulk,Premium,Premium Customers
+906,10907,2025-01-07,Home Appliances,1.0,524.44,524.44,Asia,Debit Card,Tuesday,2025-01,2025Q1,Winter,0,372,Medium,Single item,Standard,Standard Customers
+907,10908,2024-10-23,Sports,1.0,2042.47,2042.47,North America,PayPal,Wednesday,2024-10,2024Q4,Fall,0,296,High,Single item,Premium,Premium Customers
+908,10909,2025-04-02,Electronics,3.0,6.2,18.6,Asia,Debit Card,Wednesday,2025-04,2025Q2,Spring,0,457,Low,Small bulk,Budget,Budget Shoppers
+909,10910,2025-01-30,Sports,1.0,681.93,681.93,North America,Credit Card,Thursday,2025-01,2025Q1,Winter,0,395,High,Single item,Standard,Standard Customers
+910,10911,2024-01-06,Beauty Products,1.0,579.61,579.61,Europe,Credit Card,Saturday,2024-01,2024Q1,Winter,1,5,Medium,Single item,Standard,Standard Customers
+911,10912,2024-10-16,Books,2.0,880.74,1761.48,Asia,Credit Card,Wednesday,2024-10,2024Q4,Fall,0,289,High,Small bulk,Premium,Premium Customers
+912,10913,2024-04-28,Sports,3.0,743.79,2231.37,Europe,Debit Card,Sunday,2024-04,2024Q2,Spring,1,118,High,Small bulk,Premium,Premium Customers
+913,10914,2025-02-09,Books,4.0,824.26,3297.04,North America,Cryptocurrency,Sunday,2025-02,2025Q1,Winter,1,405,High,Small bulk,Premium,Premium Customers
+914,10915,2024-02-22,Beauty Products,4.0,25.05,100.2,Europe,Credit Card,Thursday,2024-02,2024Q1,Winter,0,52,Medium,Small bulk,Budget,Budget Shoppers
+915,10916,2024-07-11,Books,2.0,625.79,1251.58,North America,Cryptocurrency,Thursday,2024-07,2024Q3,Summer,0,192,Medium,Small bulk,Premium,Premium Customers
+916,10917,2025-04-09,Sports,1.0,763.99,763.99,Asia,PayPal,Wednesday,2025-04,2025Q2,Spring,0,464,High,Single item,Standard,Standard Customers
+917,10918,2024-09-03,Electronics,2.0,1193.8,2387.6,Asia,Credit Card,Tuesday,2024-09,2024Q3,Fall,0,246,High,Small bulk,Premium,Premium Customers
+918,10919,2024-09-20,Sports,1.0,284.27,284.27,Asia,PayPal,Friday,2024-09,2024Q3,Fall,0,263,Medium,Single item,Standard,Standard Customers
+919,10920,2025-02-22,Books,1.0,837.61,837.61,North America,Credit Card,Saturday,2025-02,2025Q1,Winter,1,418,High,Single item,Premium,Premium Customers
+920,10921,2024-09-02,Books,1.0,231.31,231.31,Asia,Credit Card,Monday,2024-09,2024Q3,Fall,0,245,Medium,Single item,Standard,Standard Customers
+921,10922,2024-03-06,Beauty Products,1.0,383.41,383.41,North America,Mobile Payment,Wednesday,2024-03,2024Q1,Spring,0,65,Medium,Single item,Standard,Standard Customers
+922,10923,2024-03-16,Books,3.0,285.54,856.62,Asia,Gift Card,Saturday,2024-03,2024Q1,Spring,1,75,Medium,Small bulk,Premium,Premium Customers
+923,10924,2024-10-15,Books,1.0,1.0,1.0,North America,PayPal,Tuesday,2024-10,2024Q4,Fall,0,288,Low,Single item,Budget,Budget Shoppers
+924,10925,2024-08-29,Home Appliances,2.0,565.04,1130.08,Europe,Credit Card,Thursday,2024-08,2024Q3,Summer,0,241,Medium,Small bulk,Premium,Premium Customers
+925,10926,2025-02-24,Electronics,2.0,160.63,321.26,North America,PayPal,Monday,2025-02,2025Q1,Winter,0,420,Medium,Small bulk,Standard,Standard Customers
+926,10927,2024-10-29,Sports,2.0,626.88,1253.76,North America,Debit Card,Tuesday,2024-10,2024Q4,Fall,0,302,Medium,Small bulk,Premium,Premium Customers
+927,10928,2025-03-16,Sports,2.0,1.0,2.0,North America,Debit Card,Sunday,2025-03,2025Q1,Spring,1,440,Low,Small bulk,Budget,Budget Shoppers
+928,10929,2024-11-10,Sports,2.0,315.79,631.58,Europe,Debit Card,Sunday,2024-11,2024Q4,Fall,1,314,Medium,Small bulk,Standard,Standard Customers
+929,10930,2024-03-07,Electronics,0.9132928724742801,270.22,246.79,Asia,Debit Card,Thursday,2024-03,2024Q1,Spring,0,66,Medium,Large bulk,Standard,Bulk Buyers
+930,10931,2025-03-23,Sports,1.0,207.36,207.36,North America,Credit Card,Sunday,2025-03,2025Q1,Spring,1,447,Medium,Single item,Standard,Standard Customers
+931,10932,2025-01-28,Clothing,1.0,66.78,66.78,North America,Credit Card,Tuesday,2025-01,2025Q1,Winter,0,393,Medium,Single item,Budget,Budget Shoppers
+932,10933,2024-10-21,Sports,1.0,84.92,84.92,Asia,Credit Card,Monday,2024-10,2024Q4,Fall,0,294,Medium,Single item,Budget,Budget Shoppers
+933,10934,2024-02-12,Home Appliances,1.0,85.26,85.26,North America,Credit Card,Monday,2024-02,2024Q1,Winter,0,42,Medium,Single item,Budget,Budget Shoppers
+934,10935,2025-02-08,Beauty Products,1.0,3618.18,3618.18,Europe,Debit Card,Saturday,2025-02,2025Q1,Winter,1,404,High,Single item,Premium,Premium Customers
+935,10936,2024-12-18,Electronics,2.0,341.09,682.18,North America,PayPal,Wednesday,2024-12,2024Q4,Winter,0,352,Medium,Small bulk,Standard,Standard Customers
+936,10937,2024-05-13,Beauty Products,1.0,337.92,337.92,Europe,Credit Card,Monday,2024-05,2024Q2,Spring,0,133,Medium,Single item,Standard,Standard Customers
+937,10938,2025-01-21,Books,1.0,29.92,29.92,North America,Credit Card,Tuesday,2025-01,2025Q1,Winter,0,386,Medium,Single item,Budget,Budget Shoppers
+938,10939,2024-10-11,Home Appliances,1.0,1.0,1.0,Asia,PayPal,Friday,2024-10,2024Q4,Fall,0,284,Low,Single item,Budget,Budget Shoppers
+939,10940,2024-03-11,Beauty Products,1.0,443.42,443.42,North America,PayPal,Monday,2024-03,2024Q1,Spring,0,70,Medium,Single item,Standard,Standard Customers
+940,10941,2024-02-21,Sports,2.0,1.0,2.0,Europe,PayPal,Wednesday,2024-02,2024Q1,Winter,0,51,Low,Small bulk,Budget,Budget Shoppers
+941,10942,2024-12-16,Clothing,1.0,1364.35,1364.35,Europe,Debit Card,Monday,2024-12,2024Q4,Winter,0,350,High,Single item,Premium,Premium Customers
+942,10943,2024-03-15,Clothing,1.0,641.94,641.94,North America,Credit Card,Friday,2024-03,2024Q1,Spring,0,74,Medium,Single item,Standard,Standard Customers
+943,10944,2024-02-10,Beauty Products,1.0,107.63,107.63,Asia,Credit Card,Saturday,2024-02,2024Q1,Winter,1,40,Medium,Single item,Budget,Budget Shoppers
+944,10945,2024-05-26,Books,1.0,1223.84,1223.84,Europe,Credit Card,Sunday,2024-05,2024Q2,Spring,1,146,High,Single item,Premium,Premium Customers
+945,10946,2024-04-13,Books,356.0,705.18,251044.08,North America,PayPal,Saturday,2024-04,2024Q2,Spring,1,103,High,Large bulk,Premium,Bulk Buyers
+946,10947,2024-11-10,Home Appliances,1.0,1.0,1.0,North America,Debit Card,Sunday,2024-11,2024Q4,Fall,1,314,Low,Single item,Budget,Budget Shoppers
+947,10948,2024-02-14,Home Appliances,1.0,1.0,1.0,Europe,Debit Card,Wednesday,2024-02,2024Q1,Winter,0,44,Low,Single item,Budget,Budget Shoppers
+948,10949,2024-01-08,Clothing,2.0,239.01,478.02,Asia,Debit Card,Monday,2024-01,2024Q1,Winter,0,7,Medium,Small bulk,Standard,Standard Customers
+949,10950,2024-10-25,Home Appliances,1.0,1.0,1.0,North America,Debit Card,Friday,2024-10,2024Q4,Fall,0,298,Low,Single item,Budget,Budget Shoppers
+950,10951,2024-07-25,Home Appliances,3.0,363.59,1090.77,Europe,Unknown,Thursday,2024-07,2024Q3,Summer,0,206,Medium,Small bulk,Premium,Premium Customers
+951,10952,2024-09-14,Electronics,2.0,1.0,2.0,North America,PayPal,Saturday,2024-09,2024Q3,Fall,1,257,Low,Small bulk,Budget,Budget Shoppers
+952,10953,2025-02-20,Sports,1.0,1.87,1.87,Asia,PayPal,Thursday,2025-02,2025Q1,Winter,0,416,Low,Single item,Budget,Budget Shoppers
+953,10954,2024-05-04,Clothing,1.0,558.13,558.13,Asia,Credit Card,Saturday,2024-05,2024Q2,Spring,1,124,Medium,Single item,Standard,Standard Customers
+954,10955,2024-02-04,Clothing,4.0,1.0,4.0,North America,Mobile Payment,Sunday,2024-02,2024Q1,Winter,1,34,Low,Small bulk,Budget,Budget Shoppers
+955,10956,2024-06-29,Clothing,1.0,353.59,353.59,North America,Credit Card,Saturday,2024-06,2024Q2,Summer,1,180,Medium,Single item,Standard,Standard Customers
+956,10957,2024-07-23,Clothing,141.0,1224.1,172598.1,Asia,PayPal,Tuesday,2024-07,2024Q3,Summer,0,204,High,Large bulk,Premium,Bulk Buyers
+957,10958,2025-04-02,Books,2.0,1.0,2.0,Asia,Credit Card,Wednesday,2025-04,2025Q2,Spring,0,457,Low,Small bulk,Budget,Budget Shoppers
+958,10959,2024-09-12,Electronics,4.0,1.0,4.0,North America,PayPal,Thursday,2024-09,2024Q3,Fall,0,255,Low,Small bulk,Budget,Budget Shoppers
+959,10960,2025-03-03,Electronics,1.0,1.0,1.0,North America,Credit Card,Monday,2025-03,2025Q1,Spring,0,427,Low,Single item,Budget,Budget Shoppers
+960,10961,2024-12-12,Beauty Products,488.00000000000006,741.15,361681.2,Europe,Unknown,Thursday,2024-12,2024Q4,Winter,0,346,High,Large bulk,Premium,Bulk Buyers
+961,10962,2024-11-13,Electronics,3.0,40.69,122.07,Asia,PayPal,Wednesday,2024-11,2024Q4,Fall,0,317,Medium,Small bulk,Budget,Budget Shoppers
+962,10963,2025-04-13,Sports,3.0,899.63,2698.89,Europe,Credit Card,Sunday,2025-04,2025Q2,Spring,1,468,High,Small bulk,Premium,Premium Customers
+963,10964,2024-09-01,Electronics,2.0,911.1,1822.2,Asia,Credit Card,Sunday,2024-09,2024Q3,Fall,1,244,High,Small bulk,Premium,Premium Customers
+964,10965,2024-08-22,Clothing,2.0,1843.01,3686.02,North America,PayPal,Thursday,2024-08,2024Q3,Summer,0,234,High,Small bulk,Premium,Premium Customers
+965,10966,2024-10-24,Beauty Products,2.0,609.65,1219.3,Asia,Debit Card,Thursday,2024-10,2024Q4,Fall,0,297,Medium,Small bulk,Premium,Premium Customers
+966,10967,2024-05-01,Beauty Products,1.0,1.0,1.0,Asia,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,121,Low,Single item,Budget,Budget Shoppers
+967,10968,2024-08-02,Beauty Products,1.0,612.61,612.61,Asia,Credit Card,Friday,2024-08,2024Q3,Summer,0,214,Medium,Single item,Standard,Standard Customers
+968,10969,2024-03-08,Clothing,188.0,821.55,154451.4,North America,Credit Card,Friday,2024-03,2024Q1,Spring,0,67,High,Large bulk,Premium,Bulk Buyers
+969,10970,2025-03-14,Home Appliances,3.0,36.06,108.18,Asia,Credit Card,Friday,2025-03,2025Q1,Spring,0,438,Medium,Small bulk,Budget,Budget Shoppers
+970,10971,2024-01-05,Clothing,1.0,317.26,317.26,Asia,Credit Card,Friday,2024-01,2024Q1,Winter,0,4,Medium,Single item,Standard,Standard Customers
+971,10972,2024-09-30,Books,1.0,549.49,549.49,Europe,PayPal,Monday,2024-09,2024Q3,Fall,0,273,Medium,Single item,Standard,Standard Customers
+972,10973,2024-03-24,Beauty Products,1.0,607.95,607.95,Asia,PayPal,Sunday,2024-03,2024Q1,Spring,1,83,Medium,Single item,Standard,Standard Customers
+973,10974,2024-06-20,Electronics,2.0,1.0,2.0,Europe,Debit Card,Thursday,2024-06,2024Q2,Summer,0,171,Low,Small bulk,Budget,Budget Shoppers
+974,10975,2024-01-11,Sports,4.0,167.66,670.64,Asia,Credit Card,Thursday,2024-01,2024Q1,Winter,0,10,Medium,Small bulk,Standard,Standard Customers
+975,10976,2024-10-21,Home Appliances,2.0,9.23,18.46,Europe,Debit Card,Monday,2024-10,2024Q4,Fall,0,294,Low,Small bulk,Budget,Budget Shoppers
+976,10977,2024-12-10,Electronics,1.0,453.07,453.07,North America,PayPal,Tuesday,2024-12,2024Q4,Winter,0,344,Medium,Single item,Standard,Standard Customers
+977,10978,2024-11-19,Home Appliances,4.0,1.0,4.0,North America,Credit Card,Tuesday,2024-11,2024Q4,Fall,0,323,Low,Small bulk,Budget,Budget Shoppers
+978,10979,2024-10-19,Books,225.0,924.35,207978.75,Asia,Unknown,Saturday,2024-10,2024Q4,Fall,1,292,High,Large bulk,Premium,Bulk Buyers
+979,10980,2024-05-29,Beauty Products,2.0,322.2,644.4,Asia,PayPal,Wednesday,2024-05,2024Q2,Spring,0,149,Medium,Small bulk,Standard,Standard Customers
+980,10981,2025-01-17,Books,1.0,863.89,863.89,North America,Credit Card,Friday,2025-01,2025Q1,Winter,0,382,High,Single item,Premium,Premium Customers
+981,10982,2024-12-04,Beauty Products,3.0,968.4,2905.2,Asia,Unknown,Wednesday,2024-12,2024Q4,Winter,0,338,High,Small bulk,Premium,Premium Customers
+982,10983,2024-08-30,Books,1.0,29.21,29.21,Asia,Credit Card,Friday,2024-08,2024Q3,Summer,0,242,Medium,Single item,Budget,Budget Shoppers
+983,10984,2024-02-23,Electronics,249.0,1005.8,250444.2,North America,PayPal,Friday,2024-02,2024Q1,Winter,0,53,High,Large bulk,Premium,Bulk Buyers
+984,10985,2024-05-25,Books,2.0,831.77,1663.54,North America,Credit Card,Saturday,2024-05,2024Q2,Spring,1,145,High,Small bulk,Premium,Premium Customers
+985,10986,2025-03-16,Books,2.0,4.24,8.48,Asia,Cryptocurrency,Sunday,2025-03,2025Q1,Spring,1,440,Low,Small bulk,Budget,Budget Shoppers
+986,10987,2024-08-15,Home Appliances,2.0,429.93,859.86,Europe,Credit Card,Thursday,2024-08,2024Q3,Summer,0,227,Medium,Small bulk,Premium,Premium Customers
+987,10988,2024-11-21,Electronics,1.0,1165.25,1165.25,North America,PayPal,Thursday,2024-11,2024Q4,Fall,0,325,High,Single item,Premium,Premium Customers
+988,10989,2024-09-03,Home Appliances,1.0,678.15,678.15,Asia,Unknown,Tuesday,2024-09,2024Q3,Fall,0,246,High,Single item,Standard,Standard Customers
+989,10990,2024-06-04,Clothing,1.0,1.0,1.0,Asia,Credit Card,Tuesday,2024-06,2024Q2,Summer,0,155,Low,Single item,Budget,Budget Shoppers
+990,10991,2024-08-28,Home Appliances,2.0,715.22,1430.44,Europe,Debit Card,Wednesday,2024-08,2024Q3,Summer,0,240,High,Small bulk,Premium,Premium Customers
+991,10992,2024-05-29,Home Appliances,1.0,751.84,751.84,Asia,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,149,High,Single item,Standard,Standard Customers
+992,10993,2024-08-11,Clothing,1.0,365.52,365.52,North America,Debit Card,Sunday,2024-08,2024Q3,Summer,1,223,Medium,Single item,Standard,Standard Customers
+993,10994,2024-04-22,Beauty Products,1.0,17.46,17.46,Europe,Credit Card,Monday,2024-04,2024Q2,Spring,0,112,Low,Single item,Budget,Budget Shoppers
+994,10995,2024-11-09,Electronics,2.0,423.55,847.1,Europe,PayPal,Saturday,2024-11,2024Q4,Fall,1,313,Medium,Small bulk,Premium,Premium Customers
+995,10996,2024-04-06,Electronics,2.0,1.0,2.0,Europe,Debit Card,Saturday,2024-04,2024Q2,Spring,1,96,Low,Small bulk,Budget,Budget Shoppers
+996,10997,2024-05-19,Books,1.0,1.0,1.0,Europe,Unknown,Sunday,2024-05,2024Q2,Spring,1,139,Low,Single item,Budget,Budget Shoppers
+997,10998,2024-01-12,Sports,1.0,466.4,466.4,Europe,Credit Card,Friday,2024-01,2024Q1,Winter,0,11,Medium,Single item,Standard,Standard Customers
+998,10999,2024-01-05,Electronics,161.0,868.75,139868.75,Europe,Credit Card,Friday,2024-01,2024Q1,Winter,0,4,High,Large bulk,Premium,Bulk Buyers
+999,11000,2025-02-13,Beauty Products,1.0,324.17,324.17,Europe,Credit Card,Thursday,2025-02,2025Q1,Winter,0,409,Medium,Single item,Standard,Standard Customers
+1000,11001,2025-03-07,Electronics,1.0,229.09,229.09,Asia,PayPal,Friday,2025-03,2025Q1,Spring,0,431,Medium,Single item,Standard,Standard Customers
+1001,11002,2024-04-02,Home Appliances,4.0,884.07,3536.28,Asia,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,92,High,Small bulk,Premium,Premium Customers
+1002,11003,2024-05-07,Sports,2.0,872.19,1744.38,Europe,PayPal,Tuesday,2024-05,2024Q2,Spring,0,127,High,Small bulk,Premium,Premium Customers
+1003,11004,2025-01-11,Books,4.0,1.0,4.0,Asia,Debit Card,Saturday,2025-01,2025Q1,Winter,1,376,Low,Small bulk,Budget,Budget Shoppers
+1004,11005,2024-03-22,Electronics,4.0,740.61,2962.44,Asia,Unknown,Friday,2024-03,2024Q1,Spring,0,81,High,Small bulk,Premium,Premium Customers
+1005,11006,2024-06-01,Sports,1.0,816.45,816.45,Asia,Credit Card,Saturday,2024-06,2024Q2,Summer,1,152,High,Single item,Standard,Standard Customers
+1006,11007,2024-06-15,Sports,1.0,1292.96,1292.96,North America,PayPal,Saturday,2024-06,2024Q2,Summer,1,166,High,Single item,Premium,Premium Customers
+1007,11008,2024-01-22,Home Appliances,1.0,195.83,195.83,Asia,Credit Card,Monday,2024-01,2024Q1,Winter,0,21,Medium,Single item,Standard,Standard Customers
+1008,11009,2024-05-07,Beauty Products,2.0,814.72,1629.44,North America,Cryptocurrency,Tuesday,2024-05,2024Q2,Spring,0,127,High,Small bulk,Premium,Premium Customers
+1009,11010,2025-01-23,Electronics,1.0,1062.96,1062.96,Asia,Credit Card,Thursday,2025-01,2025Q1,Winter,0,388,High,Single item,Premium,Premium Customers
+1010,11011,2024-02-24,Sports,3.0,474.14,1422.42,North America,Credit Card,Saturday,2024-02,2024Q1,Winter,1,54,Medium,Small bulk,Premium,Premium Customers
+1011,11012,2024-06-26,Books,1.0,1.0,1.0,North America,Unknown,Wednesday,2024-06,2024Q2,Summer,0,177,Low,Single item,Budget,Budget Shoppers
+1012,11013,2024-03-09,Beauty Products,1.0,1.0,1.0,North America,PayPal,Saturday,2024-03,2024Q1,Spring,1,68,Low,Single item,Budget,Budget Shoppers
+1013,11014,2024-12-22,Books,1.0,1.0,1.0,North America,Unknown,Sunday,2024-12,2024Q4,Winter,1,356,Low,Single item,Budget,Budget Shoppers
+1014,11015,2025-03-20,Sports,1.0,123.21,123.21,Asia,Debit Card,Thursday,2025-03,2025Q1,Spring,0,444,Medium,Single item,Budget,Budget Shoppers
+1015,11016,2024-10-04,Clothing,1.0,1.0,1.0,North America,PayPal,Friday,2024-10,2024Q4,Fall,0,277,Low,Single item,Budget,Budget Shoppers
+1016,11017,2025-03-28,Electronics,3.0,64.0,192.0,North America,PayPal,Friday,2025-03,2025Q1,Spring,0,452,Medium,Small bulk,Standard,Standard Customers
+1017,11018,2024-12-03,Clothing,3.0,206.86,620.58,North America,PayPal,Tuesday,2024-12,2024Q4,Winter,0,337,Medium,Small bulk,Standard,Standard Customers
+1018,11019,2024-11-09,Home Appliances,2.0,132.58,265.16,Europe,Credit Card,Saturday,2024-11,2024Q4,Fall,1,313,Medium,Small bulk,Standard,Standard Customers
+1019,11020,2024-02-04,Clothing,3.0,1428.22,4284.66,Asia,Unknown,Sunday,2024-02,2024Q1,Winter,1,34,High,Small bulk,Premium,Premium Customers
+1020,11021,2024-04-08,Home Appliances,2.0,1.0,2.0,Asia,Credit Card,Monday,2024-04,2024Q2,Spring,0,98,Low,Small bulk,Budget,Budget Shoppers
+1021,11022,2024-11-15,Clothing,3.0,965.11,2895.33,North America,Credit Card,Friday,2024-11,2024Q4,Fall,0,319,High,Small bulk,Premium,Premium Customers
+1022,11023,2024-04-16,Beauty Products,1.0,231.7,231.7,Europe,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,106,Medium,Single item,Standard,Standard Customers
+1023,11024,2025-01-15,Clothing,1.0,1.0,1.0,Europe,Debit Card,Wednesday,2025-01,2025Q1,Winter,0,380,Low,Single item,Budget,Budget Shoppers
+1024,11025,2024-05-16,Beauty Products,2.0,162.55,325.1,North America,Credit Card,Thursday,2024-05,2024Q2,Spring,0,136,Medium,Small bulk,Standard,Standard Customers
+1025,11026,2024-09-22,Clothing,1.0,21.67,21.67,North America,Credit Card,Sunday,2024-09,2024Q3,Fall,1,265,Low,Single item,Budget,Budget Shoppers
+1026,11027,2024-05-07,Beauty Products,2.0,461.94,923.88,North America,Debit Card,Tuesday,2024-05,2024Q2,Spring,0,127,Medium,Small bulk,Premium,Premium Customers
+1027,11028,2025-01-27,Sports,1.0,1.0,1.0,Europe,Credit Card,Monday,2025-01,2025Q1,Winter,0,392,Low,Single item,Budget,Budget Shoppers
+1028,11029,2024-02-23,Beauty Products,1.0,458.21,458.21,Asia,Credit Card,Friday,2024-02,2024Q1,Winter,0,53,Medium,Single item,Standard,Standard Customers
+1029,11030,2024-09-30,Electronics,3.0,19.54,58.62,Asia,Credit Card,Monday,2024-09,2024Q3,Fall,0,273,Low,Small bulk,Budget,Budget Shoppers
+1030,11031,2025-03-08,Electronics,3.0,614.5,1843.5,Europe,Debit Card,Saturday,2025-03,2025Q1,Spring,1,432,Medium,Small bulk,Premium,Premium Customers
+1031,11032,2024-10-06,Home Appliances,3.0,1216.24,3648.72,Europe,Credit Card,Sunday,2024-10,2024Q4,Fall,1,279,High,Small bulk,Premium,Premium Customers
+1032,11033,2024-08-17,Home Appliances,195.0,1.0,195.0,Europe,Debit Card,Saturday,2024-08,2024Q3,Summer,1,229,Low,Large bulk,Standard,Bulk Buyers
+1033,11034,2025-03-31,Home Appliances,2.0,419.1,838.2,Asia,PayPal,Monday,2025-03,2025Q1,Spring,0,455,Medium,Small bulk,Premium,Premium Customers
+1034,11035,2025-01-30,Beauty Products,3.0,1.0,3.0,North America,Debit Card,Thursday,2025-01,2025Q1,Winter,0,395,Low,Small bulk,Budget,Budget Shoppers
+1035,11036,2024-02-18,Electronics,3.0,548.37,1645.11,North America,Unknown,Sunday,2024-02,2024Q1,Winter,1,48,Medium,Small bulk,Premium,Premium Customers
+1036,11037,2024-05-07,Books,254.0,768.02,195077.08,Europe,Credit Card,Tuesday,2024-05,2024Q2,Spring,0,127,High,Large bulk,Premium,Bulk Buyers
+1037,11038,2024-02-09,Home Appliances,3.0,1.0,3.0,Asia,Credit Card,Friday,2024-02,2024Q1,Winter,0,39,Low,Small bulk,Budget,Budget Shoppers
+1038,11039,2025-02-23,Books,3.0,527.96,1583.88,Asia,Credit Card,Sunday,2025-02,2025Q1,Winter,1,419,Medium,Small bulk,Premium,Premium Customers
+1039,11040,2025-01-29,Electronics,2.0,1.0,2.0,Asia,Credit Card,Wednesday,2025-01,2025Q1,Winter,0,394,Low,Small bulk,Budget,Budget Shoppers
+1040,11041,2024-04-26,Beauty Products,1.0,1.0,1.0,Asia,Credit Card,Friday,2024-04,2024Q2,Spring,0,116,Low,Single item,Budget,Budget Shoppers
+1041,11042,2024-01-22,Clothing,1.0,1009.97,1009.97,Europe,Credit Card,Monday,2024-01,2024Q1,Winter,0,21,High,Single item,Premium,Premium Customers
+1042,11043,2024-01-26,Home Appliances,2.0,269.53,539.06,North America,Debit Card,Friday,2024-01,2024Q1,Winter,0,25,Medium,Small bulk,Standard,Standard Customers
+1043,11044,2024-02-16,Books,2.0,1302.74,2605.48,North America,Unknown,Friday,2024-02,2024Q1,Winter,0,46,High,Small bulk,Premium,Premium Customers
+1044,11045,2024-08-31,Books,2.0,1.0,2.0,Europe,Credit Card,Saturday,2024-08,2024Q3,Summer,1,243,Low,Small bulk,Budget,Budget Shoppers
+1045,11046,2024-08-10,Beauty Products,2.0,1.0,2.0,Asia,Debit Card,Saturday,2024-08,2024Q3,Summer,1,222,Low,Small bulk,Budget,Budget Shoppers
+1046,11047,2024-11-29,Beauty Products,3.0,734.85,2204.55,Asia,Credit Card,Friday,2024-11,2024Q4,Fall,0,333,High,Small bulk,Premium,Premium Customers
+1047,11048,2024-02-06,Electronics,1.0,921.84,921.84,Europe,Unknown,Tuesday,2024-02,2024Q1,Winter,0,36,High,Single item,Premium,Premium Customers
+1048,11049,2024-08-04,Books,1.0,652.41,652.41,North America,PayPal,Sunday,2024-08,2024Q3,Summer,1,216,High,Single item,Standard,Standard Customers
+1049,11050,2024-06-28,Home Appliances,3.0,1070.04,3210.12,Europe,Credit Card,Friday,2024-06,2024Q2,Summer,0,179,High,Small bulk,Premium,Premium Customers
+1050,11051,2024-04-29,Electronics,1.0,869.79,869.79,Europe,Unknown,Monday,2024-04,2024Q2,Spring,0,119,High,Single item,Premium,Premium Customers
+1051,11052,2024-05-04,Beauty Products,2.0,1.0,2.0,North America,Credit Card,Saturday,2024-05,2024Q2,Spring,1,124,Low,Small bulk,Budget,Budget Shoppers
+1052,11053,2025-02-15,Books,3.0,332.2,996.6,North America,PayPal,Saturday,2025-02,2025Q1,Winter,1,411,Medium,Small bulk,Premium,Premium Customers
+1053,11054,2024-04-18,Clothing,5.0,1.0,5.0,North America,Credit Card,Thursday,2024-04,2024Q2,Spring,0,108,Low,Small bulk,Budget,Budget Shoppers
+1054,11055,2024-03-13,Home Appliances,4.0,222.86,891.44,Europe,Unknown,Wednesday,2024-03,2024Q1,Spring,0,72,Medium,Small bulk,Premium,Premium Customers
+1055,11056,2024-05-10,Sports,2.0,832.06,1664.12,North America,Credit Card,Friday,2024-05,2024Q2,Spring,0,130,High,Small bulk,Premium,Premium Customers
+1056,11057,2024-08-26,Clothing,388.0,334.28,129700.64,Asia,PayPal,Monday,2024-08,2024Q3,Summer,0,238,Medium,Large bulk,Premium,Bulk Buyers
+1057,11058,2024-12-03,Home Appliances,494.0,381.79,188604.26,North America,PayPal,Tuesday,2024-12,2024Q4,Winter,0,337,Medium,Large bulk,Premium,Bulk Buyers
+1058,11059,2024-07-13,Beauty Products,1.0,681.18,681.18,Asia,PayPal,Saturday,2024-07,2024Q3,Summer,1,194,High,Single item,Standard,Standard Customers
+1059,11060,2024-02-15,Beauty Products,3.0,1.0,3.0,North America,Credit Card,Thursday,2024-02,2024Q1,Winter,0,45,Low,Small bulk,Budget,Budget Shoppers
+1060,11061,2024-01-21,Clothing,2.0,638.0,1276.0,North America,Credit Card,Sunday,2024-01,2024Q1,Winter,1,20,Medium,Small bulk,Premium,Premium Customers
+1061,11062,2024-01-10,Sports,2.0,260.53,521.06,Europe,PayPal,Wednesday,2024-01,2024Q1,Winter,0,9,Medium,Small bulk,Standard,Standard Customers
+1062,11063,2024-09-13,Electronics,1.0,861.55,861.55,North America,PayPal,Friday,2024-09,2024Q3,Fall,0,256,High,Single item,Premium,Premium Customers
+1063,11064,2025-02-21,Beauty Products,4.999999999999999,235.36,1176.8,Asia,Credit Card,Friday,2025-02,2025Q1,Winter,0,417,Medium,Small bulk,Premium,Premium Customers
+1064,11065,2024-02-14,Home Appliances,1.0,595.55,595.55,Asia,Unknown,Wednesday,2024-02,2024Q1,Winter,0,44,Medium,Single item,Standard,Standard Customers
+1065,11066,2025-04-10,Beauty Products,2.0,770.68,1541.36,Europe,PayPal,Thursday,2025-04,2025Q2,Spring,0,465,High,Small bulk,Premium,Premium Customers
+1066,11067,2025-02-13,Clothing,2.0,1.0,2.0,Europe,Credit Card,Thursday,2025-02,2025Q1,Winter,0,409,Low,Small bulk,Budget,Budget Shoppers
+1067,11068,2024-03-10,Sports,1.0,811.89,811.89,Asia,Unknown,Sunday,2024-03,2024Q1,Spring,1,69,High,Single item,Standard,Standard Customers
+1068,11069,2024-02-04,Beauty Products,1.0,514.74,514.74,Asia,Credit Card,Sunday,2024-02,2024Q1,Winter,1,34,Medium,Single item,Standard,Standard Customers
+1069,11070,2024-06-12,Electronics,1.0,538.53,538.53,Europe,Credit Card,Wednesday,2024-06,2024Q2,Summer,0,163,Medium,Single item,Standard,Standard Customers
+1070,11071,2024-11-22,Clothing,2.0,1.0,2.0,North America,Cryptocurrency,Friday,2024-11,2024Q4,Fall,0,326,Low,Small bulk,Budget,Budget Shoppers
+1071,11072,2025-01-25,Clothing,2.0,1.0,2.0,North America,Debit Card,Saturday,2025-01,2025Q1,Winter,1,390,Low,Small bulk,Budget,Budget Shoppers
+1072,11073,2024-12-17,Clothing,1.0,869.14,869.14,Europe,PayPal,Tuesday,2024-12,2024Q4,Winter,0,351,High,Single item,Premium,Premium Customers
+1073,11074,2024-11-05,Electronics,1.0,526.58,526.58,North America,Unknown,Tuesday,2024-11,2024Q4,Fall,0,309,Medium,Single item,Standard,Standard Customers
+1074,11075,2024-03-24,Books,2.0,1.0,2.0,Europe,Credit Card,Sunday,2024-03,2024Q1,Spring,1,83,Low,Small bulk,Budget,Budget Shoppers
+1075,11076,2024-07-30,Clothing,4.0,406.4,1625.6,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,211,Medium,Small bulk,Premium,Premium Customers
+1076,11077,2024-08-12,Books,1.0,498.59,498.59,Europe,Credit Card,Monday,2024-08,2024Q3,Summer,0,224,Medium,Single item,Standard,Standard Customers
+1077,11078,2024-07-26,Beauty Products,2.0,1.0,2.0,Europe,Debit Card,Friday,2024-07,2024Q3,Summer,0,207,Low,Small bulk,Budget,Budget Shoppers
+1078,11079,2024-10-31,Clothing,2.0,1.0,2.0,North America,Credit Card,Thursday,2024-10,2024Q4,Fall,0,304,Low,Small bulk,Budget,Budget Shoppers
+1079,11080,2024-01-22,Books,1.0,693.7,693.7,North America,Debit Card,Monday,2024-01,2024Q1,Winter,0,21,High,Single item,Standard,Standard Customers
+1080,11081,2025-01-26,Beauty Products,3.0,372.59,1117.77,North America,PayPal,Sunday,2025-01,2025Q1,Winter,1,391,Medium,Small bulk,Premium,Premium Customers
+1081,11082,2025-01-31,Books,2.0,758.48,1516.96,North America,Debit Card,Friday,2025-01,2025Q1,Winter,0,396,High,Small bulk,Premium,Premium Customers
+1082,11083,2024-03-13,Electronics,306.0,599.28,183379.68,Asia,Unknown,Wednesday,2024-03,2024Q1,Spring,0,72,Medium,Large bulk,Premium,Bulk Buyers
+1083,11084,2025-04-02,Home Appliances,2.0,726.84,1453.68,Europe,Debit Card,Wednesday,2025-04,2025Q2,Spring,0,457,High,Small bulk,Premium,Premium Customers
+1084,11085,2025-04-04,Beauty Products,215.0,1.0,215.0,Europe,Debit Card,Friday,2025-04,2025Q2,Spring,0,459,Low,Large bulk,Standard,Bulk Buyers
+1085,11086,2025-02-11,Sports,411.0,1.0,411.0,Europe,PayPal,Tuesday,2025-02,2025Q1,Winter,0,407,Low,Large bulk,Standard,Bulk Buyers
+1086,11087,2024-09-25,Clothing,1.0,1683.54,1683.54,North America,Unknown,Wednesday,2024-09,2024Q3,Fall,0,268,High,Single item,Premium,Premium Customers
+1087,11088,2024-06-20,Sports,1.0,55.14,55.14,Europe,Credit Card,Thursday,2024-06,2024Q2,Summer,0,171,Medium,Single item,Budget,Budget Shoppers
+1088,11089,2024-01-27,Beauty Products,2.0,755.32,1510.64,Europe,Debit Card,Saturday,2024-01,2024Q1,Winter,1,26,High,Small bulk,Premium,Premium Customers
+1089,11090,2024-04-02,Books,2.0,4061.58,8123.16,Asia,PayPal,Tuesday,2024-04,2024Q2,Spring,0,92,High,Small bulk,Premium,Premium Customers
+1090,11091,2024-01-07,Clothing,3.0,4530.81,13592.43,Asia,Unknown,Sunday,2024-01,2024Q1,Winter,1,6,High,Small bulk,Premium,Premium Customers
+1091,11092,2024-05-01,Books,2.0,1.0,2.0,Europe,Credit Card,Wednesday,2024-05,2024Q2,Spring,0,121,Low,Small bulk,Budget,Budget Shoppers
+1092,11093,2024-01-04,Electronics,4.0,592.6,2370.4,Europe,Credit Card,Thursday,2024-01,2024Q1,Winter,0,3,Medium,Small bulk,Premium,Premium Customers
+1093,11094,2024-04-16,Books,228.0,4415.32,1006692.96,North America,Credit Card,Tuesday,2024-04,2024Q2,Spring,0,106,High,Large bulk,Premium,Bulk Buyers
+1094,11095,2024-12-07,Electronics,1.0,708.48,708.48,Europe,Credit Card,Saturday,2024-12,2024Q4,Winter,1,341,High,Single item,Standard,Standard Customers
+1095,11096,2024-04-01,Clothing,1.0,1.0,1.0,Europe,Debit Card,Monday,2024-04,2024Q2,Spring,0,91,Low,Single item,Budget,Budget Shoppers
+1096,11097,2025-02-07,Electronics,4.0,884.26,3537.04,Europe,Credit Card,Friday,2025-02,2025Q1,Winter,0,403,High,Small bulk,Premium,Premium Customers
+1097,11098,2024-06-14,Electronics,4.0,1169.38,4677.52,Asia,PayPal,Friday,2024-06,2024Q2,Summer,0,165,High,Small bulk,Premium,Premium Customers
+1098,11099,2024-02-03,Sports,4.0,539.8,2159.2,North America,Gift Card,Saturday,2024-02,2024Q1,Winter,1,33,Medium,Small bulk,Premium,Premium Customers
+1099,11100,2024-07-30,Sports,1.0,189.77,189.77,North America,Credit Card,Tuesday,2024-07,2024Q3,Summer,0,211,Medium,Single item,Standard,Standard Customers
